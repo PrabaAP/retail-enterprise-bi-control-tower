@@ -1,0 +1,121 @@
+store_id,store_name,region,city,store_size,employees,open_date,latitude,longitude
+ST0001,Montreal Store 1,Quebec,Montreal,Large,39,2017-07-03,44.39538,-116.85029
+ST0002,Sherbrooke Store 2,Quebec,Sherbrooke,Flagship,12,2015-05-03,43.93695,-109.04035
+ST0003,London Store 3,Ontario,London,Medium,77,2019-09-15,45.20441,-87.64406
+ST0004,Windsor Store 4,Ontario,Windsor,Medium,62,2018-10-25,45.77871,-110.08117
+ST0005,Halifax Store 5,Nova Scotia,Halifax,Small,56,2016-02-01,46.58979,-102.36266
+ST0006,Winnipeg Store 6,Manitoba,Winnipeg,Flagship,76,2016-05-26,52.73116,-100.28794
+ST0007,Brandon Store 7,Manitoba,Brandon,Medium,16,2015-07-07,49.61263,-76.6159
+ST0008,Quebec City Store 8,Quebec,Quebec City,Small,56,2018-02-12,47.5341,-72.95337
+ST0009,Burnaby Store 9,British Columbia,Burnaby,Large,34,2022-07-08,45.66978,-66.80072
+ST0010,Sherbrooke Store 10,Quebec,Sherbrooke,Medium,76,2023-03-06,45.44811,-95.26439
+ST0011,Winnipeg Store 11,Manitoba,Winnipeg,Large,15,2017-07-27,51.21803,-74.69725
+ST0012,Regina Store 12,Saskatchewan,Regina,Small,35,2021-05-12,51.76368,-104.11933
+ST0013,Fredericton Store 13,New Brunswick,Fredericton,Flagship,26,2017-12-20,44.3963,-78.30066
+ST0014,Brandon Store 14,Manitoba,Brandon,Flagship,54,2017-06-17,52.97326,-114.7001
+ST0015,Moncton Store 15,New Brunswick,Moncton,Small,22,2016-09-18,49.27446,-75.47524
+ST0016,Saskatoon Store 16,Saskatchewan,Saskatoon,Flagship,56,2021-09-06,52.96121,-91.25314
+ST0017,Waterloo Store 17,Ontario,Waterloo,Small,76,2023-06-03,45.66825,-84.54229
+ST0018,Laval Store 18,Quebec,Laval,Flagship,28,2020-02-02,43.03245,-79.67448
+ST0019,Winnipeg Store 19,Manitoba,Winnipeg,Small,88,2018-05-07,51.41669,-92.54023
+ST0020,Edmonton Store 20,Alberta,Edmonton,Large,28,2021-01-18,52.535,-67.65396
+ST0021,London Store 21,Ontario,London,Large,70,2015-03-21,44.11868,-101.22115
+ST0022,Winnipeg Store 22,Manitoba,Winnipeg,Small,38,2021-05-12,52.46949,-117.86079
+ST0023,Moncton Store 23,New Brunswick,Moncton,Medium,24,2022-05-26,47.75282,-90.01178
+ST0024,Brandon Store 24,Manitoba,Brandon,Medium,77,2023-06-21,50.29931,-110.93094
+ST0025,Brandon Store 25,Manitoba,Brandon,Large,64,2020-10-20,47.51486,-108.12566
+ST0026,Laval Store 26,Quebec,Laval,Small,83,2021-03-18,45.30115,-109.78696
+ST0027,Montreal Store 27,Quebec,Montreal,Medium,16,2015-05-09,51.59635,-118.74856
+ST0028,Red Deer Store 28,Alberta,Red Deer,Flagship,35,2021-01-17,44.32312,-66.86915
+ST0029,Moncton Store 29,New Brunswick,Moncton,Flagship,60,2017-02-18,43.94326,-83.46104
+ST0030,Dartmouth Store 30,Nova Scotia,Dartmouth,Flagship,67,2023-03-06,43.54171,-83.79267
+ST0031,Montreal Store 31,Quebec,Montreal,Flagship,51,2023-12-24,51.61673,-108.08062
+ST0032,Lethbridge Store 32,Alberta,Lethbridge,Medium,62,2017-01-21,45.78545,-108.01161
+ST0033,Gatineau Store 33,Quebec,Gatineau,Small,14,2022-04-25,52.99282,-72.83834
+ST0034,Quebec City Store 34,Quebec,Quebec City,Medium,60,2020-06-12,47.81358,-71.12098
+ST0035,Ottawa Store 35,Ontario,Ottawa,Flagship,8,2019-05-19,45.65203,-75.95576
+ST0036,Fredericton Store 36,New Brunswick,Fredericton,Flagship,79,2022-06-04,50.18408,-113.71219
+ST0037,Winnipeg Store 37,Manitoba,Winnipeg,Small,82,2023-04-02,48.42195,-78.12147
+ST0038,Toronto Store 38,Ontario,Toronto,Flagship,72,2020-12-15,44.57433,-65.35327
+ST0039,Quebec City Store 39,Quebec,Quebec City,Small,84,2015-10-06,49.75213,-108.88777
+ST0040,Sherbrooke Store 40,Quebec,Sherbrooke,Medium,82,2021-09-01,43.39742,-118.081
+ST0041,Dartmouth Store 41,Nova Scotia,Dartmouth,Medium,48,2017-09-04,45.65615,-115.1473
+ST0042,Brandon Store 42,Manitoba,Brandon,Large,17,2015-02-08,47.58286,-63.09273
+ST0043,Montreal Store 43,Quebec,Montreal,Medium,72,2017-12-22,44.32457,-102.05947
+ST0044,Quebec City Store 44,Quebec,Quebec City,Large,44,2016-10-08,47.38185,-90.40692
+ST0045,Winnipeg Store 45,Manitoba,Winnipeg,Large,21,2016-07-04,45.64466,-69.61724
+ST0046,Burnaby Store 46,British Columbia,Burnaby,Large,85,2017-05-12,50.17612,-110.78416
+ST0047,Brandon Store 47,Manitoba,Brandon,Large,14,2016-01-14,49.34284,-73.23911
+ST0048,Toronto Store 48,Ontario,Toronto,Large,24,2022-02-22,52.79798,-113.30508
+ST0049,Saint John Store 49,New Brunswick,Saint John,Flagship,79,2015-02-09,44.11874,-66.29694
+ST0050,Surrey Store 50,British Columbia,Surrey,Small,55,2021-07-13,48.52525,-97.2128
+ST0051,Mississauga Store 51,Ontario,Mississauga,Large,13,2019-01-05,45.10077,-108.02822
+ST0052,Laval Store 52,Quebec,Laval,Flagship,87,2023-05-28,44.54553,-67.20714
+ST0053,Victoria Store 53,British Columbia,Victoria,Flagship,11,2017-01-04,50.36564,-103.06887
+ST0054,Saskatoon Store 54,Saskatchewan,Saskatoon,Large,28,2023-10-31,50.01278,-100.0475
+ST0055,Windsor Store 55,Ontario,Windsor,Flagship,36,2017-03-28,51.16587,-95.38181
+ST0056,Winnipeg Store 56,Manitoba,Winnipeg,Medium,11,2022-05-27,44.9313,-103.30428
+ST0057,Laval Store 57,Quebec,Laval,Large,90,2020-09-17,46.99678,-64.13102
+ST0058,Halifax Store 58,Nova Scotia,Halifax,Small,41,2017-01-01,48.8059,-63.98697
+ST0059,Toronto Store 59,Ontario,Toronto,Flagship,52,2023-03-04,50.86428,-96.81637
+ST0060,Gatineau Store 60,Quebec,Gatineau,Medium,40,2015-07-01,50.08785,-122.89852
+ST0061,Red Deer Store 61,Alberta,Red Deer,Flagship,16,2022-06-13,52.20771,-85.61068
+ST0062,Laval Store 62,Quebec,Laval,Large,60,2018-08-29,47.024,-105.26069
+ST0063,Victoria Store 63,British Columbia,Victoria,Flagship,56,2022-08-06,50.48135,-112.55836
+ST0064,Brandon Store 64,Manitoba,Brandon,Small,46,2018-03-21,45.10183,-75.85447
+ST0065,Dartmouth Store 65,Nova Scotia,Dartmouth,Flagship,64,2022-07-30,45.13701,-94.60883
+ST0066,Vancouver Store 66,British Columbia,Vancouver,Large,73,2022-06-12,49.32941,-102.8887
+ST0067,Red Deer Store 67,Alberta,Red Deer,Medium,33,2016-08-26,43.24425,-108.30945
+ST0068,Saint John Store 68,New Brunswick,Saint John,Small,66,2019-08-25,51.86137,-88.45975
+ST0069,Regina Store 69,Saskatchewan,Regina,Flagship,39,2016-08-27,49.56058,-122.66731
+ST0070,Gatineau Store 70,Quebec,Gatineau,Medium,30,2024-01-07,52.57966,-91.92253
+ST0071,London Store 71,Ontario,London,Medium,23,2020-02-13,44.33339,-95.12141
+ST0072,Dartmouth Store 72,Nova Scotia,Dartmouth,Flagship,78,2020-01-01,51.97208,-78.38067
+ST0073,Fredericton Store 73,New Brunswick,Fredericton,Large,39,2022-02-24,45.77311,-76.33951
+ST0074,Saint John Store 74,New Brunswick,Saint John,Medium,43,2019-12-07,43.77483,-105.85631
+ST0075,Brandon Store 75,Manitoba,Brandon,Large,77,2015-11-27,44.38374,-109.12431
+ST0076,Victoria Store 76,British Columbia,Victoria,Small,61,2019-07-28,46.30881,-95.04454
+ST0077,Ottawa Store 77,Ontario,Ottawa,Flagship,57,2023-08-20,48.84079,-81.26862
+ST0078,Regina Store 78,Saskatchewan,Regina,Small,53,2018-05-08,50.53475,-71.79312
+ST0079,Saskatoon Store 79,Saskatchewan,Saskatoon,Flagship,36,2018-01-22,47.35836,-121.25851
+ST0080,Dartmouth Store 80,Nova Scotia,Dartmouth,Medium,67,2016-06-06,52.80722,-90.95258
+ST0081,Saskatoon Store 81,Saskatchewan,Saskatoon,Small,90,2019-10-22,44.35699,-95.29809
+ST0082,Mississauga Store 82,Ontario,Mississauga,Flagship,49,2017-05-16,47.54699,-102.74997
+ST0083,Regina Store 83,Saskatchewan,Regina,Flagship,40,2015-12-02,47.70307,-78.05854
+ST0084,Mississauga Store 84,Ontario,Mississauga,Medium,16,2023-10-05,52.57286,-120.58451
+ST0085,Ottawa Store 85,Ontario,Ottawa,Medium,10,2021-12-19,44.52382,-115.42674
+ST0086,Sherbrooke Store 86,Quebec,Sherbrooke,Medium,67,2022-11-05,45.56244,-100.86629
+ST0087,Quebec City Store 87,Quebec,Quebec City,Large,21,2021-06-28,43.25678,-104.28257
+ST0088,Regina Store 88,Saskatchewan,Regina,Medium,17,2021-08-22,49.90614,-85.36546
+ST0089,Laval Store 89,Quebec,Laval,Small,80,2023-10-11,43.41069,-91.03529
+ST0090,Halifax Store 90,Nova Scotia,Halifax,Large,9,2019-09-17,51.22331,-116.66767
+ST0091,Dartmouth Store 91,Nova Scotia,Dartmouth,Medium,63,2016-12-22,50.33795,-65.07158
+ST0092,Brandon Store 92,Manitoba,Brandon,Flagship,63,2023-03-14,48.92475,-103.66173
+ST0093,Calgary Store 93,Alberta,Calgary,Large,65,2017-09-25,50.50476,-88.80902
+ST0094,Regina Store 94,Saskatchewan,Regina,Small,71,2018-08-24,44.8184,-110.27281
+ST0095,Brandon Store 95,Manitoba,Brandon,Large,84,2022-11-12,51.80107,-89.65254
+ST0096,Calgary Store 96,Alberta,Calgary,Medium,60,2020-06-24,48.55176,-108.58056
+ST0097,Saint John Store 97,New Brunswick,Saint John,Flagship,65,2023-11-22,43.17243,-105.34587
+ST0098,Saskatoon Store 98,Saskatchewan,Saskatoon,Large,82,2019-02-20,47.7326,-91.14468
+ST0099,Regina Store 99,Saskatchewan,Regina,Large,66,2018-01-14,46.06623,-109.16772
+ST0100,Red Deer Store 100,Alberta,Red Deer,Small,76,2023-07-19,49.90164,-111.50754
+ST0101,Fredericton Store 101,New Brunswick,Fredericton,Large,20,2017-03-06,45.96246,-101.34714
+ST0102,Winnipeg Store 102,Manitoba,Winnipeg,Medium,43,2015-07-06,52.74295,-89.79846
+ST0103,Kelowna Store 103,British Columbia,Kelowna,Small,9,2021-06-09,45.84339,-94.27715
+ST0104,Halifax Store 104,Nova Scotia,Halifax,Small,40,2020-05-10,44.14087,-119.07939
+ST0105,Moncton Store 105,New Brunswick,Moncton,Small,27,2016-09-03,51.11142,-66.05246
+ST0106,Quebec City Store 106,Quebec,Quebec City,Small,79,2023-07-29,47.16174,-87.23239
+ST0107,Lethbridge Store 107,Alberta,Lethbridge,Flagship,64,2018-05-02,51.60167,-63.59812
+ST0108,Winnipeg Store 108,Manitoba,Winnipeg,Small,34,2022-01-06,45.11025,-83.37431
+ST0109,Victoria Store 109,British Columbia,Victoria,Medium,78,2015-11-04,44.56533,-98.48895
+ST0110,Fredericton Store 110,New Brunswick,Fredericton,Small,37,2018-03-26,50.06956,-80.82075
+ST0111,Moncton Store 111,New Brunswick,Moncton,Medium,41,2023-11-01,50.91248,-87.61262
+ST0112,Lethbridge Store 112,Alberta,Lethbridge,Small,77,2017-07-09,49.47635,-68.49531
+ST0113,Vancouver Store 113,British Columbia,Vancouver,Small,29,2023-11-21,46.07612,-78.06254
+ST0114,Brandon Store 114,Manitoba,Brandon,Small,67,2022-09-21,46.04091,-98.84949
+ST0115,Brandon Store 115,Manitoba,Brandon,Flagship,18,2021-09-15,43.39861,-97.07828
+ST0116,Dartmouth Store 116,Nova Scotia,Dartmouth,Small,19,2017-07-26,52.61911,-72.84248
+ST0117,Windsor Store 117,Ontario,Windsor,Large,81,2015-06-14,50.63109,-112.48856
+ST0118,Fredericton Store 118,New Brunswick,Fredericton,Medium,82,2019-11-21,49.34785,-93.49645
+ST0119,Gatineau Store 119,Quebec,Gatineau,Large,60,2018-09-27,46.21058,-116.72401
+ST0120,Burnaby Store 120,British Columbia,Burnaby,Flagship,71,2018-03-26,49.62584,-98.97286

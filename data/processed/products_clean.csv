@@ -1,0 +1,1801 @@
+product_id,product_name,category,subcategory,supplier,unit_cost,list_price,product_tier,product_status
+PR00001,Frozen Item 1,Grocery,Frozen,Supplier O,2.89,4.71,B,Active
+PR00002,Men Item 2,Apparel,Men,Supplier D,14.3,25.05,A,Active
+PR00003,Writing Item 3,Office Supplies,Writing,Supplier A,10.38,16.65,C,Active
+PR00004,Women Item 4,Apparel,Women,Supplier B,13.26,19.11,A,Active
+PR00005,Laptops Item 5,Technology,Laptops,Supplier M,120.06,313.88,A,Discontinued
+PR00006,Labels Item 6,Office Supplies,Labels,Supplier M,8.36,12.93,C,Active
+PR00007,Art Item 7,Office Supplies,Art,Supplier A,14.49,37.42,A,Active
+PR00008,Decor Item 8,Home,Decor,Supplier P,22.49,46.47,B,Active
+PR00009,Smart Home Item 9,Technology,Smart Home,Supplier A,56.26,140.78,B,Active
+PR00010,Envelopes Item 10,Office Supplies,Envelopes,Supplier R,7.5,13.28,C,Active
+PR00011,Accessories Item 11,Technology,Accessories,Supplier D,337.49,866.81,C,Active
+PR00012,Decor Item 12,Home,Decor,Supplier A,59.98,82.74,A,Active
+PR00013,Bedding Item 13,Home,Bedding,Supplier N,25.64,37.89,B,Active
+PR00014,Desks Item 14,Furniture,Desks,Supplier O,99.03,196.52,C,Active
+PR00015,Beverages Item 15,Grocery,Beverages,Supplier A,2.71,5.41,A,Discontinued
+PR00016,Bedding Item 16,Home,Bedding,Supplier K,82.12,182.6,A,Active
+PR00017,Tablets Item 17,Technology,Tablets,Supplier R,319.09,428.95,B,Discontinued
+PR00018,Binders Item 18,Office Supplies,Binders,Supplier R,44.0,113.39,C,Discontinued
+PR00019,Women Item 19,Apparel,Women,Supplier D,27.02,54.86,C,Active
+PR00020,Art Item 20,Office Supplies,Art,Supplier M,9.22,19.31,B,Active
+PR00021,Men Item 21,Apparel,Men,Supplier N,19.57,27.01,B,Active
+PR00022,Women Item 22,Apparel,Women,Supplier O,15.11,21.14,B,Active
+PR00023,Lighting Item 23,Home,Lighting,Supplier O,22.98,53.05,A,Active
+PR00024,Lighting Item 24,Home,Lighting,Supplier I,35.79,46.94,B,Active
+PR00025,Chairs Item 25,Furniture,Chairs,Supplier N,128.11,250.31,A,Discontinued
+PR00026,Beverages Item 26,Grocery,Beverages,Supplier C,1.4,2.23,A,Active
+PR00027,Printers Item 27,Technology,Printers,Supplier F,42.73,85.06,B,Active
+PR00028,Frozen Item 28,Grocery,Frozen,Supplier B,5.31,11.17,A,Active
+PR00029,Desks Item 29,Furniture,Desks,Supplier K,84.72,189.35,A,Active
+PR00030,Accessories Item 30,Technology,Accessories,Supplier R,95.8,180.93,C,Active
+PR00031,Lighting Item 31,Home,Lighting,Supplier C,27.83,48.57,C,Active
+PR00032,Accessories Item 32,Apparel,Accessories,Supplier L,47.56,89.17,C,Discontinued
+PR00033,Desks Item 33,Furniture,Desks,Supplier C,157.03,248.99,A,Active
+PR00034,Bedding Item 34,Home,Bedding,Supplier Q,33.62,46.22,C,Active
+PR00035,Accessories Item 35,Technology,Accessories,Supplier H,239.39,568.77,A,Active
+PR00036,Shelving Item 36,Furniture,Shelving,Supplier L,45.67,112.59,B,Discontinued
+PR00037,Frozen Item 37,Grocery,Frozen,Supplier Q,5.95,15.34,C,Discontinued
+PR00038,Cleaning Item 38,Home,Cleaning,Supplier Q,15.38,36.49,A,Active
+PR00039,Smart Home Item 39,Technology,Smart Home,Supplier J,200.57,390.54,B,Active
+PR00040,Decor Item 40,Home,Decor,Supplier O,17.57,28.69,C,Active
+PR00041,Pantry Item 41,Grocery,Pantry,Supplier I,9.55,21.53,C,Active
+PR00042,Smart Home Item 42,Technology,Smart Home,Supplier K,82.01,207.9,B,Active
+PR00043,Printers Item 43,Technology,Printers,Supplier K,143.54,246.24,C,Active
+PR00044,Laptops Item 44,Technology,Laptops,Supplier O,310.86,455.96,B,Active
+PR00045,Monitors Item 45,Technology,Monitors,Supplier O,341.41,625.37,B,Active
+PR00046,Art Item 46,Office Supplies,Art,Supplier C,3.35,4.32,B,Active
+PR00047,Smart Home Item 47,Technology,Smart Home,Supplier B,190.76,455.86,C,Active
+PR00048,Frozen Item 48,Grocery,Frozen,Supplier C,1.68,2.37,A,Active
+PR00049,Accessories Item 49,Apparel,Accessories,Supplier E,21.9,58.06,A,Active
+PR00050,Shoes Item 50,Apparel,Shoes,Supplier F,18.58,40.76,C,Active
+PR00051,Shelving Item 51,Furniture,Shelving,Supplier A,168.86,439.76,B,Active
+PR00052,Laptops Item 52,Technology,Laptops,Supplier I,327.76,751.03,C,Active
+PR00053,Lighting Item 53,Home,Lighting,Supplier Q,9.84,24.6,C,Active
+PR00054,Laptops Item 54,Technology,Laptops,Supplier C,197.39,267.59,A,Active
+PR00055,Frozen Item 55,Grocery,Frozen,Supplier K,2.1,5.09,A,Discontinued
+PR00056,Chairs Item 56,Furniture,Chairs,Supplier G,76.55,185.21,B,Active
+PR00057,Chairs Item 57,Furniture,Chairs,Supplier O,89.21,216.63,C,Active
+PR00058,Tablets Item 58,Technology,Tablets,Supplier O,175.13,261.08,A,Discontinued
+PR00059,Accessories Item 59,Apparel,Accessories,Supplier D,17.47,33.4,A,Active
+PR00060,Monitors Item 60,Technology,Monitors,Supplier H,157.25,309.17,B,Active
+PR00061,Tables Item 61,Furniture,Tables,Supplier L,96.53,190.64,C,Active
+PR00062,Tables Item 62,Furniture,Tables,Supplier O,57.29,92.79,C,Active
+PR00063,Tablets Item 63,Technology,Tablets,Supplier J,160.35,418.45,C,Active
+PR00064,Cleaning Item 64,Home,Cleaning,Supplier L,23.21,30.42,B,Active
+PR00065,Storage Item 65,Furniture,Storage,Supplier M,156.27,332.56,B,Active
+PR00066,Desks Item 66,Furniture,Desks,Supplier J,81.12,166.23,C,Active
+PR00067,Binders Item 67,Office Supplies,Binders,Supplier F,6.96,19.42,A,Active
+PR00068,Paper Item 68,Office Supplies,Paper,Supplier H,4.32,7.54,C,Discontinued
+PR00069,Men Item 69,Apparel,Men,Supplier L,37.89,73.19,A,Active
+PR00070,Paper Item 70,Office Supplies,Paper,Supplier G,8.78,16.51,C,Active
+PR00071,Printers Item 71,Technology,Printers,Supplier G,109.76,256.27,C,Active
+PR00072,Accessories Item 72,Apparel,Accessories,Supplier I,16.04,24.95,C,Active
+PR00073,Beverages Item 73,Grocery,Beverages,Supplier D,2.06,3.48,A,Active
+PR00074,Printers Item 74,Technology,Printers,Supplier H,128.57,305.1,C,Active
+PR00075,Binders Item 75,Office Supplies,Binders,Supplier F,7.13,10.98,C,Active
+PR00076,Binders Item 76,Office Supplies,Binders,Supplier C,8.56,15.84,B,Active
+PR00077,Accessories Item 77,Apparel,Accessories,Supplier L,10.89,14.43,B,Active
+PR00078,Envelopes Item 78,Office Supplies,Envelopes,Supplier Q,9.54,19.31,C,Active
+PR00079,Decor Item 79,Home,Decor,Supplier L,16.18,22.51,C,Discontinued
+PR00080,Shoes Item 80,Apparel,Shoes,Supplier B,39.05,68.84,C,Active
+PR00081,Men Item 81,Apparel,Men,Supplier L,11.35,16.04,B,Active
+PR00082,Pantry Item 82,Grocery,Pantry,Supplier Q,6.5,10.3,B,Discontinued
+PR00083,Kitchen Item 83,Home,Kitchen,Supplier E,37.62,51.43,B,Active
+PR00084,Decor Item 84,Home,Decor,Supplier N,41.79,87.97,C,Active
+PR00085,Accessories Item 85,Technology,Accessories,Supplier J,306.77,562.22,C,Active
+PR00086,Printers Item 86,Technology,Printers,Supplier J,68.09,137.36,C,Active
+PR00087,Frozen Item 87,Grocery,Frozen,Supplier M,2.26,5.83,B,Discontinued
+PR00088,Desks Item 88,Furniture,Desks,Supplier R,55.69,140.32,A,Active
+PR00089,Labels Item 89,Office Supplies,Labels,Supplier R,4.13,8.44,A,Active
+PR00090,Laptops Item 90,Technology,Laptops,Supplier K,84.12,177.51,B,Active
+PR00091,Women Item 91,Apparel,Women,Supplier N,40.99,79.07,A,Active
+PR00092,Paper Item 92,Office Supplies,Paper,Supplier L,5.89,15.14,C,Active
+PR00093,Smart Home Item 93,Technology,Smart Home,Supplier B,165.84,225.24,A,Active
+PR00094,Lighting Item 94,Home,Lighting,Supplier A,19.27,36.66,C,Discontinued
+PR00095,Men Item 95,Apparel,Men,Supplier G,9.13,14.16,C,Active
+PR00096,Fresh Item 96,Grocery,Fresh,Supplier H,3.3,7.23,A,Discontinued
+PR00097,Kitchen Item 97,Home,Kitchen,Supplier N,41.23,62.18,B,Active
+PR00098,Laptops Item 98,Technology,Laptops,Supplier F,122.82,240.09,B,Active
+PR00099,Bedding Item 99,Home,Bedding,Supplier R,45.24,65.12,B,Active
+PR00100,Tables Item 100,Furniture,Tables,Supplier P,185.5,262.82,A,Active
+PR00101,Storage Item 101,Furniture,Storage,Supplier E,87.53,148.0,C,Active
+PR00102,Writing Item 102,Office Supplies,Writing,Supplier C,11.7,28.75,A,Active
+PR00103,Laptops Item 103,Technology,Laptops,Supplier P,137.74,223.6,C,Active
+PR00104,Laptops Item 104,Technology,Laptops,Supplier B,178.45,284.58,C,Active
+PR00105,Accessories Item 105,Apparel,Accessories,Supplier D,21.74,50.01,A,Discontinued
+PR00106,Decor Item 106,Home,Decor,Supplier M,33.42,66.79,C,Active
+PR00107,Kitchen Item 107,Home,Kitchen,Supplier N,11.09,14.36,A,Active
+PR00108,Accessories Item 108,Technology,Accessories,Supplier A,167.61,385.29,B,Active
+PR00109,Fresh Item 109,Grocery,Fresh,Supplier D,4.63,12.17,B,Active
+PR00110,Shoes Item 110,Apparel,Shoes,Supplier D,16.73,21.46,C,Active
+PR00111,Smart Home Item 111,Technology,Smart Home,Supplier F,72.79,103.61,A,Discontinued
+PR00112,Writing Item 112,Office Supplies,Writing,Supplier K,5.49,13.08,C,Active
+PR00113,Envelopes Item 113,Office Supplies,Envelopes,Supplier B,5.58,13.38,B,Active
+PR00114,Shelving Item 114,Furniture,Shelving,Supplier Q,82.47,206.81,A,Active
+PR00115,Accessories Item 115,Apparel,Accessories,Supplier L,12.42,34.35,B,Active
+PR00116,Accessories Item 116,Technology,Accessories,Supplier J,323.66,423.0,A,Active
+PR00117,Fresh Item 117,Grocery,Fresh,Supplier H,4.91,7.29,A,Active
+PR00118,Tablets Item 118,Technology,Tablets,Supplier F,201.39,340.99,B,Active
+PR00119,Labels Item 119,Office Supplies,Labels,Supplier M,5.5,11.01,B,Active
+PR00120,Frozen Item 120,Grocery,Frozen,Supplier I,17.63,33.59,B,Active
+PR00121,Pantry Item 121,Grocery,Pantry,Supplier Q,2.62,5.05,A,Active
+PR00122,Printers Item 122,Technology,Printers,Supplier R,61.78,165.94,C,Active
+PR00123,Fresh Item 123,Grocery,Fresh,Supplier G,4.12,7.29,C,Active
+PR00124,Printers Item 124,Technology,Printers,Supplier M,73.11,120.41,A,Discontinued
+PR00125,Binders Item 125,Office Supplies,Binders,Supplier Q,4.25,8.35,B,Active
+PR00126,Pantry Item 126,Grocery,Pantry,Supplier E,4.26,6.67,A,Active
+PR00127,Shelving Item 127,Furniture,Shelving,Supplier A,89.76,171.33,A,Active
+PR00128,Envelopes Item 128,Office Supplies,Envelopes,Supplier N,4.36,6.93,B,Active
+PR00129,Fresh Item 129,Grocery,Fresh,Supplier D,3.83,10.45,A,Active
+PR00130,Pantry Item 130,Grocery,Pantry,Supplier L,2.69,6.05,B,Active
+PR00131,Laptops Item 131,Technology,Laptops,Supplier E,87.55,197.49,A,Active
+PR00132,Kids Item 132,Apparel,Kids,Supplier C,19.62,32.43,B,Discontinued
+PR00133,Monitors Item 133,Technology,Monitors,Supplier M,117.21,174.52,A,Active
+PR00134,Kids Item 134,Apparel,Kids,Supplier R,15.99,38.06,B,Active
+PR00135,Beverages Item 135,Grocery,Beverages,Supplier R,2.58,6.74,C,Active
+PR00136,Printers Item 136,Technology,Printers,Supplier J,229.21,346.77,B,Active
+PR00137,Shoes Item 137,Apparel,Shoes,Supplier Q,30.41,47.68,B,Active
+PR00138,Lighting Item 138,Home,Lighting,Supplier A,100.92,273.51,C,Active
+PR00139,Shoes Item 139,Apparel,Shoes,Supplier O,15.83,24.35,B,Active
+PR00140,Binders Item 140,Office Supplies,Binders,Supplier G,5.16,11.98,A,Active
+PR00141,Snacks Item 141,Grocery,Snacks,Supplier D,2.18,5.55,B,Active
+PR00142,Fresh Item 142,Grocery,Fresh,Supplier C,1.53,2.58,B,Active
+PR00143,Kids Item 143,Apparel,Kids,Supplier B,9.25,15.44,A,Active
+PR00144,Decor Item 144,Home,Decor,Supplier B,19.23,24.71,C,Active
+PR00145,Tablets Item 145,Technology,Tablets,Supplier E,90.65,186.69,A,Active
+PR00146,Tablets Item 146,Technology,Tablets,Supplier K,287.45,566.23,C,Active
+PR00147,Tables Item 147,Furniture,Tables,Supplier Q,35.05,94.9,B,Active
+PR00148,Paper Item 148,Office Supplies,Paper,Supplier L,8.22,16.58,B,Active
+PR00149,Printers Item 149,Technology,Printers,Supplier H,134.65,264.23,A,Active
+PR00150,Men Item 150,Apparel,Men,Supplier M,19.92,51.78,A,Active
+PR00151,Smart Home Item 151,Technology,Smart Home,Supplier P,53.13,109.44,C,Discontinued
+PR00152,Laptops Item 152,Technology,Laptops,Supplier K,124.59,269.02,B,Active
+PR00153,Men Item 153,Apparel,Men,Supplier F,18.45,41.26,C,Active
+PR00154,Storage Item 154,Furniture,Storage,Supplier P,214.54,521.79,B,Active
+PR00155,Desks Item 155,Furniture,Desks,Supplier B,32.92,83.69,C,Active
+PR00156,Laptops Item 156,Technology,Laptops,Supplier A,423.19,1008.59,C,Active
+PR00157,Pantry Item 157,Grocery,Pantry,Supplier C,2.91,6.05,B,Active
+PR00158,Shoes Item 158,Apparel,Shoes,Supplier I,15.01,29.12,A,Active
+PR00159,Writing Item 159,Office Supplies,Writing,Supplier A,14.61,30.98,B,Active
+PR00160,Paper Item 160,Office Supplies,Paper,Supplier B,6.04,9.07,B,Active
+PR00161,Lighting Item 161,Home,Lighting,Supplier B,38.16,95.59,A,Active
+PR00162,Laptops Item 162,Technology,Laptops,Supplier B,46.77,110.39,C,Active
+PR00163,Kitchen Item 163,Home,Kitchen,Supplier C,19.14,35.36,B,Active
+PR00164,Tablets Item 164,Technology,Tablets,Supplier D,154.8,380.66,B,Active
+PR00165,Frozen Item 165,Grocery,Frozen,Supplier H,2.1,5.7,B,Active
+PR00166,Laptops Item 166,Technology,Laptops,Supplier B,129.25,304.56,A,Active
+PR00167,Accessories Item 167,Apparel,Accessories,Supplier E,10.75,29.51,C,Active
+PR00168,Beverages Item 168,Grocery,Beverages,Supplier F,13.05,30.1,C,Active
+PR00169,Snacks Item 169,Grocery,Snacks,Supplier N,10.82,20.02,C,Active
+PR00170,Shelving Item 170,Furniture,Shelving,Supplier H,241.66,370.62,C,Active
+PR00171,Kids Item 171,Apparel,Kids,Supplier P,10.76,15.28,C,Active
+PR00172,Accessories Item 172,Technology,Accessories,Supplier P,68.59,188.76,B,Active
+PR00173,Chairs Item 173,Furniture,Chairs,Supplier F,28.36,56.07,B,Active
+PR00174,Binders Item 174,Office Supplies,Binders,Supplier Q,9.77,26.98,A,Discontinued
+PR00175,Decor Item 175,Home,Decor,Supplier B,29.92,77.67,A,Active
+PR00176,Decor Item 176,Home,Decor,Supplier J,37.48,94.79,C,Active
+PR00177,Art Item 177,Office Supplies,Art,Supplier P,13.51,25.62,B,Active
+PR00178,Storage Item 178,Furniture,Storage,Supplier E,136.56,351.75,A,Active
+PR00179,Bedding Item 179,Home,Bedding,Supplier G,23.97,37.41,A,Active
+PR00180,Envelopes Item 180,Office Supplies,Envelopes,Supplier H,4.83,6.66,A,Active
+PR00181,Tablets Item 181,Technology,Tablets,Supplier B,234.49,651.24,C,Active
+PR00182,Lighting Item 182,Home,Lighting,Supplier P,17.28,45.84,A,Active
+PR00183,Women Item 183,Apparel,Women,Supplier O,9.93,17.88,B,Active
+PR00184,Art Item 184,Office Supplies,Art,Supplier R,4.83,11.34,A,Active
+PR00185,Monitors Item 185,Technology,Monitors,Supplier K,59.13,134.06,A,Active
+PR00186,Desks Item 186,Furniture,Desks,Supplier E,118.37,240.22,B,Active
+PR00187,Shoes Item 187,Apparel,Shoes,Supplier A,16.62,34.15,B,Active
+PR00188,Laptops Item 188,Technology,Laptops,Supplier L,80.42,117.5,B,Active
+PR00189,Labels Item 189,Office Supplies,Labels,Supplier C,7.48,9.73,C,Active
+PR00190,Chairs Item 190,Furniture,Chairs,Supplier E,39.79,68.03,C,Active
+PR00191,Tables Item 191,Furniture,Tables,Supplier E,90.96,165.76,C,Active
+PR00192,Cleaning Item 192,Home,Cleaning,Supplier K,21.11,34.31,C,Discontinued
+PR00193,Accessories Item 193,Apparel,Accessories,Supplier P,44.35,118.14,A,Active
+PR00194,Envelopes Item 194,Office Supplies,Envelopes,Supplier C,10.19,26.6,B,Active
+PR00195,Paper Item 195,Office Supplies,Paper,Supplier H,9.35,25.77,C,Active
+PR00196,Storage Item 196,Furniture,Storage,Supplier G,64.08,122.34,C,Active
+PR00197,Smart Home Item 197,Technology,Smart Home,Supplier D,112.17,165.38,C,Active
+PR00198,Cleaning Item 198,Home,Cleaning,Supplier C,20.54,53.22,C,Active
+PR00199,Desks Item 199,Furniture,Desks,Supplier R,75.9,135.68,C,Active
+PR00200,Art Item 200,Office Supplies,Art,Supplier P,8.37,21.61,B,Active
+PR00201,Desks Item 201,Furniture,Desks,Supplier R,101.06,164.05,C,Active
+PR00202,Binders Item 202,Office Supplies,Binders,Supplier J,6.59,12.05,C,Active
+PR00203,Shelving Item 203,Furniture,Shelving,Supplier Q,43.3,71.36,B,Active
+PR00204,Kitchen Item 204,Home,Kitchen,Supplier H,27.56,60.53,A,Active
+PR00205,Printers Item 205,Technology,Printers,Supplier D,46.2,72.67,B,Active
+PR00206,Pantry Item 206,Grocery,Pantry,Supplier O,5.69,9.99,C,Active
+PR00207,Men Item 207,Apparel,Men,Supplier G,23.54,65.08,A,Active
+PR00208,Bedding Item 208,Home,Bedding,Supplier R,17.8,31.66,B,Active
+PR00209,Writing Item 209,Office Supplies,Writing,Supplier F,3.67,8.39,C,Active
+PR00210,Bedding Item 210,Home,Bedding,Supplier N,19.26,27.79,B,Active
+PR00211,Decor Item 211,Home,Decor,Supplier I,63.11,87.57,A,Active
+PR00212,Cleaning Item 212,Home,Cleaning,Supplier F,33.84,85.88,A,Active
+PR00213,Beverages Item 213,Grocery,Beverages,Supplier Q,5.12,10.57,C,Active
+PR00214,Men Item 214,Apparel,Men,Supplier L,12.21,22.43,B,Active
+PR00215,Beverages Item 215,Grocery,Beverages,Supplier E,1.84,4.46,A,Active
+PR00216,Shoes Item 216,Apparel,Shoes,Supplier H,12.83,24.07,B,Active
+PR00217,Paper Item 217,Office Supplies,Paper,Supplier O,5.53,9.3,C,Active
+PR00218,Accessories Item 218,Apparel,Accessories,Supplier P,14.4,35.36,C,Active
+PR00219,Cleaning Item 219,Home,Cleaning,Supplier Q,10.43,14.16,C,Active
+PR00220,Labels Item 220,Office Supplies,Labels,Supplier B,4.09,9.08,C,Discontinued
+PR00221,Storage Item 221,Furniture,Storage,Supplier J,89.79,185.53,B,Active
+PR00222,Pantry Item 222,Grocery,Pantry,Supplier O,4.38,10.73,B,Active
+PR00223,Accessories Item 223,Technology,Accessories,Supplier K,78.89,196.32,A,Active
+PR00224,Snacks Item 224,Grocery,Snacks,Supplier O,1.61,4.4,B,Active
+PR00225,Smart Home Item 225,Technology,Smart Home,Supplier F,157.13,338.06,B,Active
+PR00226,Printers Item 226,Technology,Printers,Supplier K,74.1,102.29,C,Active
+PR00227,Chairs Item 227,Furniture,Chairs,Supplier C,89.6,148.69,C,Active
+PR00228,Monitors Item 228,Technology,Monitors,Supplier C,70.66,155.44,C,Active
+PR00229,Men Item 229,Apparel,Men,Supplier L,22.34,28.06,C,Discontinued
+PR00230,Decor Item 230,Home,Decor,Supplier D,36.53,64.94,B,Active
+PR00231,Accessories Item 231,Technology,Accessories,Supplier L,165.78,254.57,A,Active
+PR00232,Men Item 232,Apparel,Men,Supplier I,8.14,12.83,C,Active
+PR00233,Men Item 233,Apparel,Men,Supplier J,35.02,57.02,C,Active
+PR00234,Binders Item 234,Office Supplies,Binders,Supplier L,26.94,65.59,B,Active
+PR00235,Binders Item 235,Office Supplies,Binders,Supplier R,6.09,10.81,C,Active
+PR00236,Tables Item 236,Furniture,Tables,Supplier P,85.2,180.56,C,Active
+PR00237,Storage Item 237,Furniture,Storage,Supplier O,75.9,115.79,A,Active
+PR00238,Fresh Item 238,Grocery,Fresh,Supplier E,3.21,7.61,C,Active
+PR00239,Pantry Item 239,Grocery,Pantry,Supplier M,3.56,5.07,C,Active
+PR00240,Accessories Item 240,Apparel,Accessories,Supplier D,21.24,41.42,B,Active
+PR00241,Art Item 241,Office Supplies,Art,Supplier K,5.05,7.93,B,Active
+PR00242,Shelving Item 242,Furniture,Shelving,Supplier E,99.2,200.74,A,Active
+PR00243,Shelving Item 243,Furniture,Shelving,Supplier F,205.96,387.22,B,Active
+PR00244,Snacks Item 244,Grocery,Snacks,Supplier A,6.23,9.59,B,Active
+PR00245,Writing Item 245,Office Supplies,Writing,Supplier E,16.5,27.05,B,Discontinued
+PR00246,Labels Item 246,Office Supplies,Labels,Supplier O,16.14,40.75,A,Active
+PR00247,Paper Item 247,Office Supplies,Paper,Supplier O,2.64,6.34,B,Discontinued
+PR00248,Smart Home Item 248,Technology,Smart Home,Supplier G,76.75,97.57,C,Active
+PR00249,Snacks Item 249,Grocery,Snacks,Supplier K,1.75,2.63,C,Active
+PR00250,Laptops Item 250,Technology,Laptops,Supplier J,73.02,122.24,C,Active
+PR00251,Lighting Item 251,Home,Lighting,Supplier R,71.33,129.8,B,Active
+PR00252,Shelving Item 252,Furniture,Shelving,Supplier F,29.06,41.52,A,Discontinued
+PR00253,Accessories Item 253,Apparel,Accessories,Supplier I,30.08,77.62,C,Active
+PR00254,Lighting Item 254,Home,Lighting,Supplier M,15.06,41.7,C,Active
+PR00255,Cleaning Item 255,Home,Cleaning,Supplier P,50.17,127.84,C,Active
+PR00256,Pantry Item 256,Grocery,Pantry,Supplier N,6.27,8.14,C,Active
+PR00257,Storage Item 257,Furniture,Storage,Supplier O,71.82,113.83,A,Active
+PR00258,Labels Item 258,Office Supplies,Labels,Supplier I,10.51,20.61,C,Active
+PR00259,Binders Item 259,Office Supplies,Binders,Supplier F,6.93,13.63,C,Active
+PR00260,Decor Item 260,Home,Decor,Supplier B,18.8,49.19,A,Active
+PR00261,Tablets Item 261,Technology,Tablets,Supplier F,116.49,287.13,A,Active
+PR00262,Tablets Item 262,Technology,Tablets,Supplier P,112.84,268.03,A,Active
+PR00263,Fresh Item 263,Grocery,Fresh,Supplier N,2.5,6.02,B,Active
+PR00264,Kitchen Item 264,Home,Kitchen,Supplier J,15.8,35.34,C,Discontinued
+PR00265,Envelopes Item 265,Office Supplies,Envelopes,Supplier I,7.61,11.06,C,Active
+PR00266,Lighting Item 266,Home,Lighting,Supplier B,22.23,32.63,B,Active
+PR00267,Envelopes Item 267,Office Supplies,Envelopes,Supplier B,10.2,16.87,B,Active
+PR00268,Accessories Item 268,Apparel,Accessories,Supplier B,15.72,42.53,B,Active
+PR00269,Men Item 269,Apparel,Men,Supplier A,16.1,43.79,B,Active
+PR00270,Desks Item 270,Furniture,Desks,Supplier H,91.97,251.56,A,Active
+PR00271,Paper Item 271,Office Supplies,Paper,Supplier B,3.8,6.01,A,Active
+PR00272,Accessories Item 272,Apparel,Accessories,Supplier H,10.38,21.54,A,Active
+PR00273,Beverages Item 273,Grocery,Beverages,Supplier R,3.12,4.6,A,Active
+PR00274,Art Item 274,Office Supplies,Art,Supplier R,4.17,10.82,A,Active
+PR00275,Pantry Item 275,Grocery,Pantry,Supplier R,4.0,5.71,A,Active
+PR00276,Accessories Item 276,Technology,Accessories,Supplier M,56.95,88.2,C,Active
+PR00277,Lighting Item 277,Home,Lighting,Supplier C,27.78,65.78,A,Active
+PR00278,Men Item 278,Apparel,Men,Supplier L,39.12,57.19,A,Discontinued
+PR00279,Shelving Item 279,Furniture,Shelving,Supplier H,75.5,183.09,B,Active
+PR00280,Decor Item 280,Home,Decor,Supplier G,18.17,43.98,B,Active
+PR00281,Printers Item 281,Technology,Printers,Supplier K,121.17,210.37,C,Active
+PR00282,Desks Item 282,Furniture,Desks,Supplier O,84.11,115.26,A,Active
+PR00283,Kids Item 283,Apparel,Kids,Supplier B,7.89,18.36,C,Discontinued
+PR00284,Laptops Item 284,Technology,Laptops,Supplier N,124.55,172.14,B,Active
+PR00285,Writing Item 285,Office Supplies,Writing,Supplier M,17.9,36.43,B,Active
+PR00286,Beverages Item 286,Grocery,Beverages,Supplier G,3.99,5.65,B,Active
+PR00287,Labels Item 287,Office Supplies,Labels,Supplier B,4.51,7.79,C,Active
+PR00288,Fresh Item 288,Grocery,Fresh,Supplier I,4.33,10.02,B,Active
+PR00289,Beverages Item 289,Grocery,Beverages,Supplier I,4.97,7.74,B,Active
+PR00290,Envelopes Item 290,Office Supplies,Envelopes,Supplier B,6.01,9.96,B,Active
+PR00291,Smart Home Item 291,Technology,Smart Home,Supplier R,135.91,264.91,B,Active
+PR00292,Printers Item 292,Technology,Printers,Supplier F,127.63,259.64,C,Active
+PR00293,Smart Home Item 293,Technology,Smart Home,Supplier L,101.9,215.47,C,Active
+PR00294,Accessories Item 294,Technology,Accessories,Supplier E,87.63,135.03,B,Active
+PR00295,Writing Item 295,Office Supplies,Writing,Supplier R,9.73,24.55,B,Active
+PR00296,Accessories Item 296,Apparel,Accessories,Supplier A,30.06,67.42,A,Active
+PR00297,Snacks Item 297,Grocery,Snacks,Supplier N,1.64,3.9,B,Active
+PR00298,Kids Item 298,Apparel,Kids,Supplier B,14.69,21.91,A,Active
+PR00299,Bedding Item 299,Home,Bedding,Supplier Q,10.38,23.5,A,Active
+PR00300,Shelving Item 300,Furniture,Shelving,Supplier J,71.24,161.83,B,Active
+PR00301,Printers Item 301,Technology,Printers,Supplier L,140.34,226.25,A,Discontinued
+PR00302,Binders Item 302,Office Supplies,Binders,Supplier G,4.82,12.84,A,Active
+PR00303,Snacks Item 303,Grocery,Snacks,Supplier A,2.61,3.3,C,Discontinued
+PR00304,Cleaning Item 304,Home,Cleaning,Supplier P,25.71,56.82,B,Active
+PR00305,Kitchen Item 305,Home,Kitchen,Supplier H,53.17,99.71,C,Active
+PR00306,Fresh Item 306,Grocery,Fresh,Supplier R,2.56,3.93,C,Active
+PR00307,Writing Item 307,Office Supplies,Writing,Supplier D,25.54,32.49,C,Active
+PR00308,Shoes Item 308,Apparel,Shoes,Supplier H,27.25,75.52,B,Active
+PR00309,Kids Item 309,Apparel,Kids,Supplier P,16.48,30.57,B,Active
+PR00310,Fresh Item 310,Grocery,Fresh,Supplier E,6.85,9.69,A,Active
+PR00311,Accessories Item 311,Apparel,Accessories,Supplier P,32.89,68.82,B,Active
+PR00312,Tables Item 312,Furniture,Tables,Supplier F,40.96,61.22,A,Active
+PR00313,Kids Item 313,Apparel,Kids,Supplier Q,22.24,59.94,A,Active
+PR00314,Writing Item 314,Office Supplies,Writing,Supplier O,9.24,21.73,A,Active
+PR00315,Frozen Item 315,Grocery,Frozen,Supplier L,5.52,12.52,A,Active
+PR00316,Beverages Item 316,Grocery,Beverages,Supplier P,5.54,12.29,A,Active
+PR00317,Fresh Item 317,Grocery,Fresh,Supplier H,4.0,9.71,A,Active
+PR00318,Accessories Item 318,Technology,Accessories,Supplier I,165.59,384.28,C,Active
+PR00319,Beverages Item 319,Grocery,Beverages,Supplier I,5.95,15.73,B,Active
+PR00320,Monitors Item 320,Technology,Monitors,Supplier G,161.46,294.44,C,Active
+PR00321,Decor Item 321,Home,Decor,Supplier J,38.87,72.24,C,Active
+PR00322,Shelving Item 322,Furniture,Shelving,Supplier G,73.69,160.82,B,Active
+PR00323,Laptops Item 323,Technology,Laptops,Supplier I,104.28,268.43,A,Active
+PR00324,Shoes Item 324,Apparel,Shoes,Supplier R,16.79,33.12,C,Active
+PR00325,Envelopes Item 325,Office Supplies,Envelopes,Supplier H,6.46,10.77,A,Active
+PR00326,Shoes Item 326,Apparel,Shoes,Supplier R,12.89,35.97,C,Active
+PR00327,Kitchen Item 327,Home,Kitchen,Supplier G,38.14,84.31,B,Active
+PR00328,Kids Item 328,Apparel,Kids,Supplier B,15.94,27.97,A,Active
+PR00329,Decor Item 329,Home,Decor,Supplier P,17.8,25.95,A,Active
+PR00330,Snacks Item 330,Grocery,Snacks,Supplier H,2.66,4.97,C,Discontinued
+PR00331,Bedding Item 331,Home,Bedding,Supplier B,42.16,82.12,A,Active
+PR00332,Desks Item 332,Furniture,Desks,Supplier I,87.73,133.9,C,Active
+PR00333,Beverages Item 333,Grocery,Beverages,Supplier A,3.14,6.27,A,Active
+PR00334,Snacks Item 334,Grocery,Snacks,Supplier E,2.55,4.4,B,Active
+PR00335,Storage Item 335,Furniture,Storage,Supplier D,188.99,250.17,B,Active
+PR00336,Frozen Item 336,Grocery,Frozen,Supplier E,4.94,11.62,B,Active
+PR00337,Kitchen Item 337,Home,Kitchen,Supplier H,30.92,78.22,A,Active
+PR00338,Bedding Item 338,Home,Bedding,Supplier K,23.81,32.86,B,Active
+PR00339,Accessories Item 339,Technology,Accessories,Supplier B,80.55,204.15,C,Active
+PR00340,Cleaning Item 340,Home,Cleaning,Supplier R,20.36,33.06,C,Active
+PR00341,Printers Item 341,Technology,Printers,Supplier M,87.86,139.72,C,Active
+PR00342,Envelopes Item 342,Office Supplies,Envelopes,Supplier A,12.25,33.66,A,Active
+PR00343,Beverages Item 343,Grocery,Beverages,Supplier D,2.91,7.2,A,Active
+PR00344,Monitors Item 344,Technology,Monitors,Supplier C,162.32,375.82,A,Active
+PR00345,Bedding Item 345,Home,Bedding,Supplier C,32.17,60.53,A,Active
+PR00346,Shelving Item 346,Furniture,Shelving,Supplier H,101.75,230.13,C,Active
+PR00347,Envelopes Item 347,Office Supplies,Envelopes,Supplier L,18.68,51.11,A,Active
+PR00348,Paper Item 348,Office Supplies,Paper,Supplier L,4.78,11.4,C,Active
+PR00349,Bedding Item 349,Home,Bedding,Supplier F,21.28,49.46,B,Active
+PR00350,Kids Item 350,Apparel,Kids,Supplier P,9.55,19.95,A,Active
+PR00351,Paper Item 351,Office Supplies,Paper,Supplier G,9.33,17.17,B,Active
+PR00352,Kitchen Item 352,Home,Kitchen,Supplier P,51.83,90.62,B,Active
+PR00353,Kids Item 353,Apparel,Kids,Supplier I,20.47,39.38,A,Active
+PR00354,Monitors Item 354,Technology,Monitors,Supplier D,56.11,100.98,B,Active
+PR00355,Art Item 355,Office Supplies,Art,Supplier K,23.59,40.66,C,Active
+PR00356,Storage Item 356,Furniture,Storage,Supplier A,48.94,85.32,C,Active
+PR00357,Accessories Item 357,Apparel,Accessories,Supplier F,45.23,80.11,A,Active
+PR00358,Accessories Item 358,Apparel,Accessories,Supplier C,18.97,26.07,A,Active
+PR00359,Chairs Item 359,Furniture,Chairs,Supplier B,102.62,256.14,C,Active
+PR00360,Paper Item 360,Office Supplies,Paper,Supplier L,11.68,29.15,A,Active
+PR00361,Bedding Item 361,Home,Bedding,Supplier M,22.89,60.21,B,Active
+PR00362,Fresh Item 362,Grocery,Fresh,Supplier N,7.12,11.88,A,Active
+PR00363,Smart Home Item 363,Technology,Smart Home,Supplier P,258.76,562.22,A,Active
+PR00364,Kids Item 364,Apparel,Kids,Supplier A,25.35,65.97,B,Active
+PR00365,Storage Item 365,Furniture,Storage,Supplier R,110.17,173.53,C,Active
+PR00366,Accessories Item 366,Technology,Accessories,Supplier N,107.81,184.65,C,Active
+PR00367,Art Item 367,Office Supplies,Art,Supplier F,7.56,11.84,C,Active
+PR00368,Paper Item 368,Office Supplies,Paper,Supplier H,6.71,11.95,A,Active
+PR00369,Frozen Item 369,Grocery,Frozen,Supplier R,4.24,6.79,C,Active
+PR00370,Tablets Item 370,Technology,Tablets,Supplier J,90.55,143.23,C,Active
+PR00371,Monitors Item 371,Technology,Monitors,Supplier A,136.68,187.6,B,Active
+PR00372,Shelving Item 372,Furniture,Shelving,Supplier P,41.35,83.13,A,Active
+PR00373,Accessories Item 373,Technology,Accessories,Supplier Q,83.95,218.78,B,Active
+PR00374,Shelving Item 374,Furniture,Shelving,Supplier F,65.73,164.46,B,Active
+PR00375,Shoes Item 375,Apparel,Shoes,Supplier P,25.53,53.25,B,Active
+PR00376,Tables Item 376,Furniture,Tables,Supplier H,53.36,84.55,A,Discontinued
+PR00377,Monitors Item 377,Technology,Monitors,Supplier K,30.28,83.7,C,Active
+PR00378,Cleaning Item 378,Home,Cleaning,Supplier I,25.54,66.47,B,Active
+PR00379,Accessories Item 379,Technology,Accessories,Supplier O,140.47,249.89,B,Active
+PR00380,Frozen Item 380,Grocery,Frozen,Supplier A,1.02,2.65,C,Discontinued
+PR00381,Desks Item 381,Furniture,Desks,Supplier I,71.46,92.95,A,Active
+PR00382,Writing Item 382,Office Supplies,Writing,Supplier C,4.74,10.96,B,Active
+PR00383,Fresh Item 383,Grocery,Fresh,Supplier R,11.92,32.61,A,Active
+PR00384,Cleaning Item 384,Home,Cleaning,Supplier D,24.23,44.3,C,Active
+PR00385,Accessories Item 385,Apparel,Accessories,Supplier C,25.66,60.77,C,Active
+PR00386,Decor Item 386,Home,Decor,Supplier Q,14.67,27.96,B,Active
+PR00387,Desks Item 387,Furniture,Desks,Supplier I,97.31,173.99,B,Active
+PR00388,Chairs Item 388,Furniture,Chairs,Supplier N,32.12,41.79,B,Active
+PR00389,Beverages Item 389,Grocery,Beverages,Supplier R,4.53,11.34,A,Active
+PR00390,Envelopes Item 390,Office Supplies,Envelopes,Supplier K,8.54,21.19,C,Active
+PR00391,Laptops Item 391,Technology,Laptops,Supplier I,59.87,104.4,A,Discontinued
+PR00392,Envelopes Item 392,Office Supplies,Envelopes,Supplier K,2.71,6.28,B,Active
+PR00393,Fresh Item 393,Grocery,Fresh,Supplier G,8.17,14.65,B,Active
+PR00394,Frozen Item 394,Grocery,Frozen,Supplier P,5.49,7.21,A,Active
+PR00395,Envelopes Item 395,Office Supplies,Envelopes,Supplier B,9.24,18.55,A,Active
+PR00396,Frozen Item 396,Grocery,Frozen,Supplier M,2.59,7.25,A,Active
+PR00397,Monitors Item 397,Technology,Monitors,Supplier P,154.01,300.54,A,Active
+PR00398,Binders Item 398,Office Supplies,Binders,Supplier Q,5.35,7.18,B,Active
+PR00399,Art Item 399,Office Supplies,Art,Supplier E,12.16,23.53,A,Active
+PR00400,Writing Item 400,Office Supplies,Writing,Supplier O,4.01,7.28,C,Discontinued
+PR00401,Labels Item 401,Office Supplies,Labels,Supplier F,4.48,9.76,A,Active
+PR00402,Accessories Item 402,Apparel,Accessories,Supplier P,26.36,56.27,B,Active
+PR00403,Fresh Item 403,Grocery,Fresh,Supplier M,11.24,18.12,A,Active
+PR00404,Binders Item 404,Office Supplies,Binders,Supplier J,8.45,11.43,B,Active
+PR00405,Cleaning Item 405,Home,Cleaning,Supplier R,31.74,64.44,A,Active
+PR00406,Envelopes Item 406,Office Supplies,Envelopes,Supplier R,9.09,17.64,B,Active
+PR00407,Fresh Item 407,Grocery,Fresh,Supplier J,5.69,14.69,A,Active
+PR00408,Lighting Item 408,Home,Lighting,Supplier C,38.78,49.85,A,Active
+PR00409,Decor Item 409,Home,Decor,Supplier E,14.19,33.88,B,Active
+PR00410,Cleaning Item 410,Home,Cleaning,Supplier F,58.34,75.5,B,Active
+PR00411,Accessories Item 411,Apparel,Accessories,Supplier N,20.66,37.98,A,Active
+PR00412,Pantry Item 412,Grocery,Pantry,Supplier E,4.85,10.62,A,Active
+PR00413,Monitors Item 413,Technology,Monitors,Supplier Q,140.82,235.87,C,Active
+PR00414,Art Item 414,Office Supplies,Art,Supplier D,3.01,8.28,B,Active
+PR00415,Women Item 415,Apparel,Women,Supplier J,38.99,84.11,C,Discontinued
+PR00416,Paper Item 416,Office Supplies,Paper,Supplier K,23.49,37.17,B,Active
+PR00417,Accessories Item 417,Technology,Accessories,Supplier D,244.58,346.84,B,Active
+PR00418,Shoes Item 418,Apparel,Shoes,Supplier K,10.26,28.08,C,Active
+PR00419,Envelopes Item 419,Office Supplies,Envelopes,Supplier J,7.64,21.26,A,Active
+PR00420,Smart Home Item 420,Technology,Smart Home,Supplier R,69.84,190.22,C,Active
+PR00421,Pantry Item 421,Grocery,Pantry,Supplier C,8.71,24.03,A,Active
+PR00422,Cleaning Item 422,Home,Cleaning,Supplier K,18.59,39.86,B,Active
+PR00423,Snacks Item 423,Grocery,Snacks,Supplier R,4.17,7.4,B,Active
+PR00424,Art Item 424,Office Supplies,Art,Supplier N,5.48,13.88,B,Active
+PR00425,Accessories Item 425,Technology,Accessories,Supplier L,152.74,259.06,C,Active
+PR00426,Shelving Item 426,Furniture,Shelving,Supplier A,67.49,131.09,A,Active
+PR00427,Fresh Item 427,Grocery,Fresh,Supplier B,7.22,12.84,A,Active
+PR00428,Kids Item 428,Apparel,Kids,Supplier L,8.31,19.5,B,Active
+PR00429,Tablets Item 429,Technology,Tablets,Supplier E,98.73,266.01,C,Active
+PR00430,Storage Item 430,Furniture,Storage,Supplier E,73.1,183.0,B,Active
+PR00431,Women Item 431,Apparel,Women,Supplier J,58.02,135.52,C,Discontinued
+PR00432,Bedding Item 432,Home,Bedding,Supplier C,40.45,77.55,B,Active
+PR00433,Cleaning Item 433,Home,Cleaning,Supplier C,37.76,57.6,A,Active
+PR00434,Pantry Item 434,Grocery,Pantry,Supplier K,2.57,5.23,A,Active
+PR00435,Shelving Item 435,Furniture,Shelving,Supplier A,96.35,238.61,B,Discontinued
+PR00436,Printers Item 436,Technology,Printers,Supplier C,153.6,316.92,B,Active
+PR00437,Bedding Item 437,Home,Bedding,Supplier N,21.5,35.28,C,Active
+PR00438,Men Item 438,Apparel,Men,Supplier B,16.52,43.41,A,Discontinued
+PR00439,Women Item 439,Apparel,Women,Supplier K,21.3,58.45,A,Active
+PR00440,Tables Item 440,Furniture,Tables,Supplier E,94.27,119.71,B,Active
+PR00441,Fresh Item 441,Grocery,Fresh,Supplier I,3.97,9.39,C,Active
+PR00442,Desks Item 442,Furniture,Desks,Supplier Q,89.24,191.42,B,Active
+PR00443,Pantry Item 443,Grocery,Pantry,Supplier E,5.99,15.47,B,Active
+PR00444,Fresh Item 444,Grocery,Fresh,Supplier K,9.73,27.16,C,Active
+PR00445,Art Item 445,Office Supplies,Art,Supplier N,7.02,18.46,B,Active
+PR00446,Writing Item 446,Office Supplies,Writing,Supplier N,22.32,36.65,A,Active
+PR00447,Paper Item 447,Office Supplies,Paper,Supplier C,7.63,13.02,B,Active
+PR00448,Accessories Item 448,Technology,Accessories,Supplier R,229.31,438.56,A,Active
+PR00449,Accessories Item 449,Technology,Accessories,Supplier K,270.31,690.35,B,Active
+PR00450,Men Item 450,Apparel,Men,Supplier B,6.21,7.83,B,Active
+PR00451,Lighting Item 451,Home,Lighting,Supplier A,44.92,122.1,B,Active
+PR00452,Shoes Item 452,Apparel,Shoes,Supplier M,25.99,57.8,C,Active
+PR00453,Lighting Item 453,Home,Lighting,Supplier L,6.74,15.5,B,Active
+PR00454,Art Item 454,Office Supplies,Art,Supplier Q,13.36,35.97,A,Active
+PR00455,Frozen Item 455,Grocery,Frozen,Supplier L,3.68,6.32,A,Discontinued
+PR00456,Tablets Item 456,Technology,Tablets,Supplier H,114.08,226.55,B,Active
+PR00457,Envelopes Item 457,Office Supplies,Envelopes,Supplier C,6.12,7.69,B,Discontinued
+PR00458,Art Item 458,Office Supplies,Art,Supplier R,9.85,17.81,B,Active
+PR00459,Beverages Item 459,Grocery,Beverages,Supplier R,3.55,9.47,C,Active
+PR00460,Decor Item 460,Home,Decor,Supplier Q,13.31,17.79,A,Active
+PR00461,Frozen Item 461,Grocery,Frozen,Supplier F,3.89,6.41,A,Active
+PR00462,Storage Item 462,Furniture,Storage,Supplier D,78.32,204.52,B,Active
+PR00463,Lighting Item 463,Home,Lighting,Supplier Q,11.2,15.72,C,Active
+PR00464,Pantry Item 464,Grocery,Pantry,Supplier R,6.25,16.58,C,Active
+PR00465,Beverages Item 465,Grocery,Beverages,Supplier O,7.59,16.11,B,Active
+PR00466,Binders Item 466,Office Supplies,Binders,Supplier N,6.1,12.6,B,Active
+PR00467,Decor Item 467,Home,Decor,Supplier H,20.44,44.93,B,Active
+PR00468,Women Item 468,Apparel,Women,Supplier D,8.25,23.09,B,Active
+PR00469,Women Item 469,Apparel,Women,Supplier C,32.08,65.64,C,Active
+PR00470,Monitors Item 470,Technology,Monitors,Supplier H,186.09,315.87,A,Discontinued
+PR00471,Chairs Item 471,Furniture,Chairs,Supplier A,147.16,226.01,B,Active
+PR00472,Fresh Item 472,Grocery,Fresh,Supplier B,6.18,10.93,A,Active
+PR00473,Beverages Item 473,Grocery,Beverages,Supplier C,3.48,9.25,A,Active
+PR00474,Laptops Item 474,Technology,Laptops,Supplier H,253.48,425.47,B,Active
+PR00475,Women Item 475,Apparel,Women,Supplier I,6.51,8.7,C,Active
+PR00476,Cleaning Item 476,Home,Cleaning,Supplier N,89.13,224.69,A,Active
+PR00477,Decor Item 477,Home,Decor,Supplier G,32.79,86.14,C,Active
+PR00478,Decor Item 478,Home,Decor,Supplier I,14.36,34.98,B,Active
+PR00479,Beverages Item 479,Grocery,Beverages,Supplier E,5.82,12.2,A,Active
+PR00480,Desks Item 480,Furniture,Desks,Supplier R,87.57,173.17,B,Active
+PR00481,Lighting Item 481,Home,Lighting,Supplier A,20.14,29.7,C,Active
+PR00482,Men Item 482,Apparel,Men,Supplier K,29.47,57.39,C,Active
+PR00483,Writing Item 483,Office Supplies,Writing,Supplier K,12.33,15.87,B,Active
+PR00484,Decor Item 484,Home,Decor,Supplier P,14.32,25.46,C,Active
+PR00485,Envelopes Item 485,Office Supplies,Envelopes,Supplier J,16.21,22.93,C,Active
+PR00486,Shelving Item 486,Furniture,Shelving,Supplier N,104.71,159.11,C,Active
+PR00487,Lighting Item 487,Home,Lighting,Supplier H,72.48,149.67,A,Active
+PR00488,Storage Item 488,Furniture,Storage,Supplier N,32.42,50.38,C,Active
+PR00489,Lighting Item 489,Home,Lighting,Supplier E,18.67,34.62,A,Active
+PR00490,Shoes Item 490,Apparel,Shoes,Supplier Q,17.49,38.3,A,Active
+PR00491,Envelopes Item 491,Office Supplies,Envelopes,Supplier D,4.83,7.16,C,Discontinued
+PR00492,Storage Item 492,Furniture,Storage,Supplier M,232.24,366.3,C,Active
+PR00493,Accessories Item 493,Technology,Accessories,Supplier R,106.27,272.59,A,Active
+PR00494,Paper Item 494,Office Supplies,Paper,Supplier C,4.1,10.89,B,Active
+PR00495,Desks Item 495,Furniture,Desks,Supplier R,125.01,178.09,A,Active
+PR00496,Tables Item 496,Furniture,Tables,Supplier E,72.02,106.31,C,Active
+PR00497,Fresh Item 497,Grocery,Fresh,Supplier G,4.17,7.22,B,Active
+PR00498,Tablets Item 498,Technology,Tablets,Supplier N,177.14,264.52,B,Active
+PR00499,Storage Item 499,Furniture,Storage,Supplier H,65.53,86.66,C,Active
+PR00500,Shoes Item 500,Apparel,Shoes,Supplier M,18.19,26.35,B,Active
+PR00501,Paper Item 501,Office Supplies,Paper,Supplier F,8.97,12.38,A,Active
+PR00502,Kids Item 502,Apparel,Kids,Supplier B,20.24,26.92,B,Active
+PR00503,Printers Item 503,Technology,Printers,Supplier R,147.55,386.69,C,Active
+PR00504,Pantry Item 504,Grocery,Pantry,Supplier I,3.67,9.55,B,Active
+PR00505,Printers Item 505,Technology,Printers,Supplier H,125.3,235.13,C,Active
+PR00506,Storage Item 506,Furniture,Storage,Supplier J,20.18,55.47,C,Active
+PR00507,Monitors Item 507,Technology,Monitors,Supplier J,197.92,462.19,A,Active
+PR00508,Paper Item 508,Office Supplies,Paper,Supplier G,4.24,11.2,C,Active
+PR00509,Fresh Item 509,Grocery,Fresh,Supplier P,28.06,70.03,A,Active
+PR00510,Bedding Item 510,Home,Bedding,Supplier A,24.13,43.37,A,Active
+PR00511,Frozen Item 511,Grocery,Frozen,Supplier H,3.76,8.22,B,Active
+PR00512,Bedding Item 512,Home,Bedding,Supplier M,12.52,16.74,B,Active
+PR00513,Monitors Item 513,Technology,Monitors,Supplier B,159.02,361.37,C,Active
+PR00514,Accessories Item 514,Apparel,Accessories,Supplier N,11.16,16.71,C,Active
+PR00515,Binders Item 515,Office Supplies,Binders,Supplier B,4.24,8.04,A,Active
+PR00516,Accessories Item 516,Technology,Accessories,Supplier P,227.7,614.77,A,Active
+PR00517,Fresh Item 517,Grocery,Fresh,Supplier R,5.39,14.78,C,Active
+PR00518,Tables Item 518,Furniture,Tables,Supplier B,98.93,144.19,A,Active
+PR00519,Binders Item 519,Office Supplies,Binders,Supplier B,17.08,33.03,C,Active
+PR00520,Tablets Item 520,Technology,Tablets,Supplier O,75.53,199.12,B,Active
+PR00521,Beverages Item 521,Grocery,Beverages,Supplier K,7.63,18.82,A,Active
+PR00522,Envelopes Item 522,Office Supplies,Envelopes,Supplier I,6.31,17.05,C,Active
+PR00523,Decor Item 523,Home,Decor,Supplier I,50.61,135.97,B,Active
+PR00524,Printers Item 524,Technology,Printers,Supplier O,105.74,228.46,C,Active
+PR00525,Fresh Item 525,Grocery,Fresh,Supplier E,2.58,4.98,C,Active
+PR00526,Women Item 526,Apparel,Women,Supplier O,17.81,25.17,B,Active
+PR00527,Writing Item 527,Office Supplies,Writing,Supplier D,7.69,18.2,C,Active
+PR00528,Tables Item 528,Furniture,Tables,Supplier L,56.42,96.35,A,Active
+PR00529,Accessories Item 529,Technology,Accessories,Supplier I,77.05,174.57,A,Active
+PR00530,Lighting Item 530,Home,Lighting,Supplier K,43.19,73.72,C,Active
+PR00531,Desks Item 531,Furniture,Desks,Supplier A,40.33,93.46,C,Active
+PR00532,Accessories Item 532,Apparel,Accessories,Supplier R,21.08,51.93,A,Active
+PR00533,Men Item 533,Apparel,Men,Supplier E,16.18,37.89,C,Active
+PR00534,Fresh Item 534,Grocery,Fresh,Supplier D,3.82,9.74,A,Active
+PR00535,Shelving Item 535,Furniture,Shelving,Supplier A,48.0,93.7,C,Active
+PR00536,Kids Item 536,Apparel,Kids,Supplier L,11.45,31.99,B,Active
+PR00537,Chairs Item 537,Furniture,Chairs,Supplier P,49.24,128.14,A,Active
+PR00538,Tables Item 538,Furniture,Tables,Supplier L,69.26,169.08,A,Active
+PR00539,Monitors Item 539,Technology,Monitors,Supplier P,74.26,131.31,C,Active
+PR00540,Snacks Item 540,Grocery,Snacks,Supplier I,6.23,9.52,B,Active
+PR00541,Kids Item 541,Apparel,Kids,Supplier F,18.47,43.76,B,Discontinued
+PR00542,Decor Item 542,Home,Decor,Supplier F,12.91,18.33,C,Active
+PR00543,Accessories Item 543,Technology,Accessories,Supplier R,103.8,273.45,B,Active
+PR00544,Beverages Item 544,Grocery,Beverages,Supplier R,6.68,14.64,C,Active
+PR00545,Pantry Item 545,Grocery,Pantry,Supplier P,4.64,8.59,B,Active
+PR00546,Decor Item 546,Home,Decor,Supplier R,32.19,48.15,A,Active
+PR00547,Cleaning Item 547,Home,Cleaning,Supplier L,29.39,59.05,A,Active
+PR00548,Accessories Item 548,Technology,Accessories,Supplier B,228.43,567.16,C,Active
+PR00549,Printers Item 549,Technology,Printers,Supplier A,86.6,237.48,B,Active
+PR00550,Smart Home Item 550,Technology,Smart Home,Supplier P,90.05,150.96,C,Active
+PR00551,Beverages Item 551,Grocery,Beverages,Supplier R,6.22,15.89,C,Active
+PR00552,Chairs Item 552,Furniture,Chairs,Supplier F,22.45,49.64,C,Active
+PR00553,Tables Item 553,Furniture,Tables,Supplier D,77.28,177.83,B,Active
+PR00554,Pantry Item 554,Grocery,Pantry,Supplier E,7.98,20.74,C,Discontinued
+PR00555,Printers Item 555,Technology,Printers,Supplier H,35.82,81.3,B,Active
+PR00556,Snacks Item 556,Grocery,Snacks,Supplier C,5.22,13.31,C,Active
+PR00557,Storage Item 557,Furniture,Storage,Supplier N,83.53,208.65,C,Active
+PR00558,Snacks Item 558,Grocery,Snacks,Supplier K,2.83,7.7,C,Active
+PR00559,Accessories Item 559,Apparel,Accessories,Supplier K,10.33,18.49,C,Active
+PR00560,Kitchen Item 560,Home,Kitchen,Supplier R,36.45,64.58,B,Active
+PR00561,Monitors Item 561,Technology,Monitors,Supplier A,69.34,92.28,C,Active
+PR00562,Accessories Item 562,Technology,Accessories,Supplier F,165.74,275.17,C,Active
+PR00563,Desks Item 563,Furniture,Desks,Supplier B,98.43,191.3,B,Active
+PR00564,Writing Item 564,Office Supplies,Writing,Supplier Q,9.41,13.79,B,Active
+PR00565,Accessories Item 565,Apparel,Accessories,Supplier E,13.52,32.88,C,Discontinued
+PR00566,Printers Item 566,Technology,Printers,Supplier H,377.22,521.83,B,Active
+PR00567,Snacks Item 567,Grocery,Snacks,Supplier J,5.34,10.92,A,Active
+PR00568,Men Item 568,Apparel,Men,Supplier J,13.4,22.34,B,Active
+PR00569,Accessories Item 569,Technology,Accessories,Supplier Q,164.21,370.15,A,Active
+PR00570,Smart Home Item 570,Technology,Smart Home,Supplier B,47.24,102.71,B,Active
+PR00571,Lighting Item 571,Home,Lighting,Supplier M,33.92,55.36,B,Discontinued
+PR00572,Decor Item 572,Home,Decor,Supplier P,49.4,97.14,A,Active
+PR00573,Printers Item 573,Technology,Printers,Supplier P,51.5,106.29,C,Active
+PR00574,Frozen Item 574,Grocery,Frozen,Supplier M,3.39,6.09,A,Active
+PR00575,Beverages Item 575,Grocery,Beverages,Supplier R,4.59,7.35,A,Active
+PR00576,Printers Item 576,Technology,Printers,Supplier N,178.96,224.85,B,Active
+PR00577,Art Item 577,Office Supplies,Art,Supplier J,6.61,11.21,A,Active
+PR00578,Binders Item 578,Office Supplies,Binders,Supplier P,10.02,27.05,B,Active
+PR00579,Labels Item 579,Office Supplies,Labels,Supplier G,13.84,23.7,B,Discontinued
+PR00580,Printers Item 580,Technology,Printers,Supplier D,190.76,239.13,B,Discontinued
+PR00581,Desks Item 581,Furniture,Desks,Supplier Q,50.42,133.75,C,Active
+PR00582,Women Item 582,Apparel,Women,Supplier G,82.49,126.13,A,Active
+PR00583,Pantry Item 583,Grocery,Pantry,Supplier A,5.79,14.87,B,Active
+PR00584,Tablets Item 584,Technology,Tablets,Supplier I,151.12,253.94,C,Active
+PR00585,Beverages Item 585,Grocery,Beverages,Supplier I,6.3,13.36,C,Active
+PR00586,Accessories Item 586,Apparel,Accessories,Supplier H,9.36,23.62,C,Active
+PR00587,Storage Item 587,Furniture,Storage,Supplier C,70.13,120.33,C,Active
+PR00588,Laptops Item 588,Technology,Laptops,Supplier K,70.43,111.84,C,Active
+PR00589,Shelving Item 589,Furniture,Shelving,Supplier J,72.12,102.38,B,Active
+PR00590,Writing Item 590,Office Supplies,Writing,Supplier K,7.8,10.94,A,Active
+PR00591,Frozen Item 591,Grocery,Frozen,Supplier H,5.27,10.23,B,Active
+PR00592,Shelving Item 592,Furniture,Shelving,Supplier P,63.15,106.34,B,Active
+PR00593,Cleaning Item 593,Home,Cleaning,Supplier Q,50.07,130.82,B,Active
+PR00594,Laptops Item 594,Technology,Laptops,Supplier C,41.21,52.84,B,Active
+PR00595,Kitchen Item 595,Home,Kitchen,Supplier G,10.93,29.8,B,Active
+PR00596,Chairs Item 596,Furniture,Chairs,Supplier B,114.41,218.62,C,Active
+PR00597,Fresh Item 597,Grocery,Fresh,Supplier D,5.68,11.79,C,Active
+PR00598,Tablets Item 598,Technology,Tablets,Supplier N,126.24,326.34,B,Active
+PR00599,Writing Item 599,Office Supplies,Writing,Supplier N,6.61,18.17,C,Active
+PR00600,Snacks Item 600,Grocery,Snacks,Supplier O,6.12,13.91,B,Active
+PR00601,Kitchen Item 601,Home,Kitchen,Supplier B,16.8,43.17,B,Active
+PR00602,Tablets Item 602,Technology,Tablets,Supplier Q,170.18,410.84,B,Active
+PR00603,Fresh Item 603,Grocery,Fresh,Supplier J,1.64,4.14,B,Active
+PR00604,Kids Item 604,Apparel,Kids,Supplier K,11.89,28.13,C,Active
+PR00605,Laptops Item 605,Technology,Laptops,Supplier I,106.84,182.04,A,Active
+PR00606,Decor Item 606,Home,Decor,Supplier L,67.64,162.01,A,Active
+PR00607,Printers Item 607,Technology,Printers,Supplier B,126.57,183.99,A,Active
+PR00608,Tablets Item 608,Technology,Tablets,Supplier G,81.69,202.96,B,Active
+PR00609,Binders Item 609,Office Supplies,Binders,Supplier H,16.0,35.53,B,Active
+PR00610,Tablets Item 610,Technology,Tablets,Supplier G,100.42,161.27,C,Active
+PR00611,Laptops Item 611,Technology,Laptops,Supplier M,280.84,630.88,B,Active
+PR00612,Accessories Item 612,Technology,Accessories,Supplier H,78.66,215.27,C,Active
+PR00613,Accessories Item 613,Technology,Accessories,Supplier I,120.72,319.93,B,Active
+PR00614,Binders Item 614,Office Supplies,Binders,Supplier A,5.45,14.11,A,Active
+PR00615,Beverages Item 615,Grocery,Beverages,Supplier D,4.84,12.17,C,Active
+PR00616,Smart Home Item 616,Technology,Smart Home,Supplier A,161.41,210.55,A,Active
+PR00617,Printers Item 617,Technology,Printers,Supplier M,113.16,244.52,B,Active
+PR00618,Lighting Item 618,Home,Lighting,Supplier M,19.72,46.27,C,Active
+PR00619,Cleaning Item 619,Home,Cleaning,Supplier O,14.37,33.42,C,Active
+PR00620,Fresh Item 620,Grocery,Fresh,Supplier I,1.94,3.61,C,Active
+PR00621,Printers Item 621,Technology,Printers,Supplier C,151.65,365.18,C,Active
+PR00622,Laptops Item 622,Technology,Laptops,Supplier E,182.42,433.74,B,Active
+PR00623,Snacks Item 623,Grocery,Snacks,Supplier A,3.53,7.21,B,Active
+PR00624,Labels Item 624,Office Supplies,Labels,Supplier H,6.02,12.64,A,Active
+PR00625,Storage Item 625,Furniture,Storage,Supplier J,55.49,85.75,C,Active
+PR00626,Tables Item 626,Furniture,Tables,Supplier H,31.88,55.31,A,Active
+PR00627,Writing Item 627,Office Supplies,Writing,Supplier I,6.73,9.51,B,Active
+PR00628,Storage Item 628,Furniture,Storage,Supplier C,87.95,183.41,A,Active
+PR00629,Men Item 629,Apparel,Men,Supplier A,37.87,94.99,C,Active
+PR00630,Art Item 630,Office Supplies,Art,Supplier R,11.45,15.4,B,Discontinued
+PR00631,Accessories Item 631,Technology,Accessories,Supplier P,125.32,191.97,A,Active
+PR00632,Binders Item 632,Office Supplies,Binders,Supplier N,5.61,10.43,A,Discontinued
+PR00633,Storage Item 633,Furniture,Storage,Supplier C,24.12,47.37,C,Active
+PR00634,Paper Item 634,Office Supplies,Paper,Supplier R,5.52,8.83,C,Active
+PR00635,Shoes Item 635,Apparel,Shoes,Supplier M,25.25,46.74,A,Active
+PR00636,Tables Item 636,Furniture,Tables,Supplier C,60.86,84.16,A,Discontinued
+PR00637,Monitors Item 637,Technology,Monitors,Supplier B,159.91,388.26,C,Active
+PR00638,Bedding Item 638,Home,Bedding,Supplier O,12.9,31.1,B,Active
+PR00639,Tables Item 639,Furniture,Tables,Supplier E,166.3,251.25,A,Active
+PR00640,Men Item 640,Apparel,Men,Supplier I,5.79,14.9,C,Active
+PR00641,Frozen Item 641,Grocery,Frozen,Supplier J,5.86,12.46,A,Active
+PR00642,Frozen Item 642,Grocery,Frozen,Supplier O,7.15,15.43,C,Active
+PR00643,Printers Item 643,Technology,Printers,Supplier O,93.26,137.62,B,Active
+PR00644,Bedding Item 644,Home,Bedding,Supplier P,20.83,47.11,C,Active
+PR00645,Men Item 645,Apparel,Men,Supplier N,6.04,8.48,A,Active
+PR00646,Women Item 646,Apparel,Women,Supplier D,15.76,33.39,B,Active
+PR00647,Shelving Item 647,Furniture,Shelving,Supplier C,134.65,303.11,C,Active
+PR00648,Tables Item 648,Furniture,Tables,Supplier F,105.33,160.39,B,Discontinued
+PR00649,Bedding Item 649,Home,Bedding,Supplier L,56.29,128.49,C,Active
+PR00650,Accessories Item 650,Technology,Accessories,Supplier M,60.87,159.09,C,Active
+PR00651,Cleaning Item 651,Home,Cleaning,Supplier O,23.57,65.03,A,Active
+PR00652,Tables Item 652,Furniture,Tables,Supplier G,112.75,306.53,C,Active
+PR00653,Envelopes Item 653,Office Supplies,Envelopes,Supplier N,13.87,27.45,C,Active
+PR00654,Kids Item 654,Apparel,Kids,Supplier H,6.11,9.89,B,Active
+PR00655,Tables Item 655,Furniture,Tables,Supplier E,125.17,165.47,A,Active
+PR00656,Smart Home Item 656,Technology,Smart Home,Supplier J,117.96,221.0,B,Active
+PR00657,Lighting Item 657,Home,Lighting,Supplier M,21.74,42.72,A,Active
+PR00658,Envelopes Item 658,Office Supplies,Envelopes,Supplier J,8.78,20.29,B,Active
+PR00659,Writing Item 659,Office Supplies,Writing,Supplier F,7.9,14.64,C,Active
+PR00660,Shelving Item 660,Furniture,Shelving,Supplier M,48.57,92.23,B,Discontinued
+PR00661,Lighting Item 661,Home,Lighting,Supplier M,40.7,55.47,B,Active
+PR00662,Bedding Item 662,Home,Bedding,Supplier M,25.31,48.3,C,Active
+PR00663,Printers Item 663,Technology,Printers,Supplier P,172.74,276.93,B,Discontinued
+PR00664,Envelopes Item 664,Office Supplies,Envelopes,Supplier M,3.35,7.32,B,Active
+PR00665,Storage Item 665,Furniture,Storage,Supplier O,96.74,161.9,B,Discontinued
+PR00666,Cleaning Item 666,Home,Cleaning,Supplier K,28.44,39.9,C,Active
+PR00667,Smart Home Item 667,Technology,Smart Home,Supplier D,99.61,274.13,B,Active
+PR00668,Men Item 668,Apparel,Men,Supplier N,48.92,119.72,A,Active
+PR00669,Tables Item 669,Furniture,Tables,Supplier F,102.08,250.44,B,Active
+PR00670,Tables Item 670,Furniture,Tables,Supplier R,63.32,85.28,B,Active
+PR00671,Tables Item 671,Furniture,Tables,Supplier L,42.23,82.97,A,Active
+PR00672,Laptops Item 672,Technology,Laptops,Supplier K,138.1,249.9,B,Active
+PR00673,Accessories Item 673,Technology,Accessories,Supplier M,64.59,93.56,C,Active
+PR00674,Decor Item 674,Home,Decor,Supplier J,8.24,13.29,A,Active
+PR00675,Printers Item 675,Technology,Printers,Supplier J,479.07,803.48,B,Active
+PR00676,Paper Item 676,Office Supplies,Paper,Supplier O,10.14,14.32,B,Active
+PR00677,Desks Item 677,Furniture,Desks,Supplier G,38.94,74.1,A,Active
+PR00678,Decor Item 678,Home,Decor,Supplier L,81.72,220.92,A,Active
+PR00679,Women Item 679,Apparel,Women,Supplier L,15.01,40.2,C,Active
+PR00680,Shelving Item 680,Furniture,Shelving,Supplier M,214.61,514.96,C,Discontinued
+PR00681,Fresh Item 681,Grocery,Fresh,Supplier D,2.38,4.92,C,Active
+PR00682,Cleaning Item 682,Home,Cleaning,Supplier C,36.23,81.66,A,Discontinued
+PR00683,Chairs Item 683,Furniture,Chairs,Supplier J,42.6,105.57,B,Active
+PR00684,Shelving Item 684,Furniture,Shelving,Supplier G,176.32,465.45,A,Active
+PR00685,Beverages Item 685,Grocery,Beverages,Supplier R,13.43,26.05,C,Active
+PR00686,Accessories Item 686,Apparel,Accessories,Supplier D,13.52,21.19,A,Active
+PR00687,Frozen Item 687,Grocery,Frozen,Supplier E,10.14,18.99,B,Active
+PR00688,Art Item 688,Office Supplies,Art,Supplier H,4.84,12.2,B,Active
+PR00689,Tables Item 689,Furniture,Tables,Supplier N,65.0,154.06,A,Discontinued
+PR00690,Envelopes Item 690,Office Supplies,Envelopes,Supplier H,3.47,4.62,B,Active
+PR00691,Writing Item 691,Office Supplies,Writing,Supplier R,9.28,19.99,C,Active
+PR00692,Smart Home Item 692,Technology,Smart Home,Supplier B,112.47,256.01,B,Active
+PR00693,Women Item 693,Apparel,Women,Supplier O,26.44,62.3,A,Active
+PR00694,Bedding Item 694,Home,Bedding,Supplier O,20.06,40.74,C,Active
+PR00695,Kitchen Item 695,Home,Kitchen,Supplier Q,10.2,20.72,C,Active
+PR00696,Monitors Item 696,Technology,Monitors,Supplier D,120.43,219.15,A,Active
+PR00697,Laptops Item 697,Technology,Laptops,Supplier A,276.64,624.86,A,Discontinued
+PR00698,Pantry Item 698,Grocery,Pantry,Supplier Q,1.93,3.99,B,Active
+PR00699,Art Item 699,Office Supplies,Art,Supplier Q,3.57,4.92,C,Active
+PR00700,Accessories Item 700,Technology,Accessories,Supplier P,140.61,251.34,B,Active
+PR00701,Smart Home Item 701,Technology,Smart Home,Supplier N,60.44,97.69,A,Active
+PR00702,Envelopes Item 702,Office Supplies,Envelopes,Supplier M,6.14,8.94,C,Active
+PR00703,Kitchen Item 703,Home,Kitchen,Supplier M,29.17,47.39,C,Active
+PR00704,Pantry Item 704,Grocery,Pantry,Supplier Q,2.14,3.73,B,Discontinued
+PR00705,Lighting Item 705,Home,Lighting,Supplier M,22.17,60.73,A,Active
+PR00706,Frozen Item 706,Grocery,Frozen,Supplier C,1.5,4.04,B,Discontinued
+PR00707,Storage Item 707,Furniture,Storage,Supplier M,69.49,189.96,A,Active
+PR00708,Women Item 708,Apparel,Women,Supplier G,25.75,59.94,A,Active
+PR00709,Accessories Item 709,Technology,Accessories,Supplier Q,47.47,70.19,C,Active
+PR00710,Lighting Item 710,Home,Lighting,Supplier I,14.07,31.07,B,Active
+PR00711,Fresh Item 711,Grocery,Fresh,Supplier B,7.65,18.5,B,Active
+PR00712,Smart Home Item 712,Technology,Smart Home,Supplier R,109.76,267.54,C,Active
+PR00713,Decor Item 713,Home,Decor,Supplier O,77.67,199.68,B,Active
+PR00714,Pantry Item 714,Grocery,Pantry,Supplier P,2.48,5.9,C,Active
+PR00715,Writing Item 715,Office Supplies,Writing,Supplier M,15.6,32.02,C,Active
+PR00716,Beverages Item 716,Grocery,Beverages,Supplier H,4.57,9.05,A,Active
+PR00717,Shoes Item 717,Apparel,Shoes,Supplier R,10.5,21.38,C,Active
+PR00718,Tablets Item 718,Technology,Tablets,Supplier Q,100.96,155.05,B,Discontinued
+PR00719,Snacks Item 719,Grocery,Snacks,Supplier C,3.5,5.15,A,Active
+PR00720,Paper Item 720,Office Supplies,Paper,Supplier K,3.59,8.65,C,Active
+PR00721,Beverages Item 721,Grocery,Beverages,Supplier I,3.23,4.3,B,Active
+PR00722,Cleaning Item 722,Home,Cleaning,Supplier C,39.05,109.02,B,Active
+PR00723,Chairs Item 723,Furniture,Chairs,Supplier Q,84.76,166.59,C,Active
+PR00724,Kitchen Item 724,Home,Kitchen,Supplier C,28.02,56.55,B,Active
+PR00725,Envelopes Item 725,Office Supplies,Envelopes,Supplier F,8.5,14.13,A,Active
+PR00726,Shelving Item 726,Furniture,Shelving,Supplier J,72.33,168.16,A,Active
+PR00727,Printers Item 727,Technology,Printers,Supplier F,288.79,475.45,A,Active
+PR00728,Accessories Item 728,Apparel,Accessories,Supplier G,23.49,29.53,A,Active
+PR00729,Pantry Item 729,Grocery,Pantry,Supplier N,5.81,8.79,A,Active
+PR00730,Bedding Item 730,Home,Bedding,Supplier C,68.94,133.11,B,Active
+PR00731,Decor Item 731,Home,Decor,Supplier N,41.56,82.49,A,Active
+PR00732,Monitors Item 732,Technology,Monitors,Supplier Q,182.8,328.88,B,Active
+PR00733,Lighting Item 733,Home,Lighting,Supplier E,18.64,26.52,B,Active
+PR00734,Beverages Item 734,Grocery,Beverages,Supplier E,5.81,14.15,A,Active
+PR00735,Snacks Item 735,Grocery,Snacks,Supplier J,4.25,10.25,C,Active
+PR00736,Men Item 736,Apparel,Men,Supplier O,26.95,49.89,C,Active
+PR00737,Art Item 737,Office Supplies,Art,Supplier I,5.01,8.24,A,Active
+PR00738,Beverages Item 738,Grocery,Beverages,Supplier A,7.02,11.23,C,Discontinued
+PR00739,Fresh Item 739,Grocery,Fresh,Supplier O,1.14,2.82,A,Active
+PR00740,Men Item 740,Apparel,Men,Supplier J,20.73,55.6,A,Active
+PR00741,Men Item 741,Apparel,Men,Supplier L,16.29,27.89,A,Active
+PR00742,Lighting Item 742,Home,Lighting,Supplier O,29.38,47.09,A,Active
+PR00743,Monitors Item 743,Technology,Monitors,Supplier P,157.29,232.52,B,Active
+PR00744,Lighting Item 744,Home,Lighting,Supplier L,90.24,173.98,C,Active
+PR00745,Shoes Item 745,Apparel,Shoes,Supplier K,18.33,41.1,A,Active
+PR00746,Binders Item 746,Office Supplies,Binders,Supplier I,6.24,15.04,B,Active
+PR00747,Fresh Item 747,Grocery,Fresh,Supplier P,4.5,11.58,C,Active
+PR00748,Laptops Item 748,Technology,Laptops,Supplier J,179.51,463.92,C,Active
+PR00749,Desks Item 749,Furniture,Desks,Supplier Q,145.01,262.57,A,Discontinued
+PR00750,Lighting Item 750,Home,Lighting,Supplier Q,21.99,29.4,A,Active
+PR00751,Monitors Item 751,Technology,Monitors,Supplier N,133.54,200.07,C,Active
+PR00752,Envelopes Item 752,Office Supplies,Envelopes,Supplier E,24.84,33.56,A,Active
+PR00753,Monitors Item 753,Technology,Monitors,Supplier O,192.08,274.1,A,Active
+PR00754,Paper Item 754,Office Supplies,Paper,Supplier J,3.18,6.56,B,Active
+PR00755,Labels Item 755,Office Supplies,Labels,Supplier I,4.72,11.24,B,Active
+PR00756,Storage Item 756,Furniture,Storage,Supplier L,95.13,250.75,C,Active
+PR00757,Paper Item 757,Office Supplies,Paper,Supplier G,3.66,8.93,A,Active
+PR00758,Pantry Item 758,Grocery,Pantry,Supplier L,3.28,6.37,C,Active
+PR00759,Printers Item 759,Technology,Printers,Supplier H,110.53,264.52,B,Active
+PR00760,Beverages Item 760,Grocery,Beverages,Supplier F,1.49,2.0,B,Active
+PR00761,Accessories Item 761,Technology,Accessories,Supplier O,212.5,320.91,B,Active
+PR00762,Bedding Item 762,Home,Bedding,Supplier D,19.7,33.51,A,Active
+PR00763,Paper Item 763,Office Supplies,Paper,Supplier B,7.83,9.93,A,Active
+PR00764,Women Item 764,Apparel,Women,Supplier B,14.63,38.71,C,Active
+PR00765,Pantry Item 765,Grocery,Pantry,Supplier J,1.42,3.57,B,Active
+PR00766,Labels Item 766,Office Supplies,Labels,Supplier Q,10.01,24.12,C,Active
+PR00767,Writing Item 767,Office Supplies,Writing,Supplier B,3.98,5.7,A,Active
+PR00768,Beverages Item 768,Grocery,Beverages,Supplier Q,9.59,20.27,C,Discontinued
+PR00769,Kitchen Item 769,Home,Kitchen,Supplier G,33.75,47.12,A,Active
+PR00770,Kids Item 770,Apparel,Kids,Supplier K,9.54,26.42,B,Active
+PR00771,Accessories Item 771,Apparel,Accessories,Supplier D,4.53,9.6,B,Active
+PR00772,Writing Item 772,Office Supplies,Writing,Supplier F,7.47,10.93,B,Discontinued
+PR00773,Bedding Item 773,Home,Bedding,Supplier O,40.88,61.28,A,Active
+PR00774,Shoes Item 774,Apparel,Shoes,Supplier A,17.41,35.9,A,Active
+PR00775,Tablets Item 775,Technology,Tablets,Supplier L,164.47,274.48,C,Active
+PR00776,Binders Item 776,Office Supplies,Binders,Supplier M,6.3,8.07,C,Active
+PR00777,Tables Item 777,Furniture,Tables,Supplier B,45.37,69.06,B,Active
+PR00778,Kitchen Item 778,Home,Kitchen,Supplier I,28.21,78.92,A,Active
+PR00779,Writing Item 779,Office Supplies,Writing,Supplier B,7.93,15.67,A,Discontinued
+PR00780,Beverages Item 780,Grocery,Beverages,Supplier J,5.01,11.76,A,Active
+PR00781,Tablets Item 781,Technology,Tablets,Supplier L,211.03,430.43,A,Active
+PR00782,Kids Item 782,Apparel,Kids,Supplier M,27.83,67.82,C,Active
+PR00783,Accessories Item 783,Apparel,Accessories,Supplier D,27.99,61.7,A,Active
+PR00784,Shelving Item 784,Furniture,Shelving,Supplier C,228.7,470.57,A,Active
+PR00785,Bedding Item 785,Home,Bedding,Supplier A,37.95,93.79,C,Active
+PR00786,Paper Item 786,Office Supplies,Paper,Supplier E,9.1,18.9,B,Active
+PR00787,Binders Item 787,Office Supplies,Binders,Supplier P,6.91,14.5,A,Active
+PR00788,Art Item 788,Office Supplies,Art,Supplier A,15.27,25.38,A,Active
+PR00789,Labels Item 789,Office Supplies,Labels,Supplier N,6.16,11.65,C,Active
+PR00790,Bedding Item 790,Home,Bedding,Supplier H,28.44,39.11,C,Active
+PR00791,Women Item 791,Apparel,Women,Supplier E,32.52,84.5,B,Active
+PR00792,Beverages Item 792,Grocery,Beverages,Supplier A,4.49,10.45,B,Active
+PR00793,Kids Item 793,Apparel,Kids,Supplier K,26.97,66.34,A,Active
+PR00794,Accessories Item 794,Apparel,Accessories,Supplier J,7.69,12.05,A,Active
+PR00795,Cleaning Item 795,Home,Cleaning,Supplier R,24.16,54.69,B,Active
+PR00796,Laptops Item 796,Technology,Laptops,Supplier J,126.56,232.88,B,Active
+PR00797,Beverages Item 797,Grocery,Beverages,Supplier P,2.64,3.32,A,Active
+PR00798,Laptops Item 798,Technology,Laptops,Supplier O,131.57,167.61,C,Active
+PR00799,Fresh Item 799,Grocery,Fresh,Supplier A,5.77,11.15,A,Active
+PR00800,Art Item 800,Office Supplies,Art,Supplier N,5.58,9.7,B,Active
+PR00801,Lighting Item 801,Home,Lighting,Supplier D,10.32,16.16,A,Active
+PR00802,Kitchen Item 802,Home,Kitchen,Supplier R,16.23,23.06,C,Active
+PR00803,Men Item 803,Apparel,Men,Supplier H,17.47,33.03,A,Active
+PR00804,Pantry Item 804,Grocery,Pantry,Supplier Q,4.01,5.79,A,Active
+PR00805,Women Item 805,Apparel,Women,Supplier G,11.11,25.61,C,Active
+PR00806,Women Item 806,Apparel,Women,Supplier G,13.36,17.99,B,Active
+PR00807,Desks Item 807,Furniture,Desks,Supplier A,48.91,100.55,A,Discontinued
+PR00808,Cleaning Item 808,Home,Cleaning,Supplier N,63.96,174.21,C,Active
+PR00809,Decor Item 809,Home,Decor,Supplier L,23.31,60.11,B,Active
+PR00810,Accessories Item 810,Apparel,Accessories,Supplier D,19.14,29.74,C,Active
+PR00811,Lighting Item 811,Home,Lighting,Supplier R,10.26,24.28,B,Active
+PR00812,Women Item 812,Apparel,Women,Supplier F,10.75,19.96,A,Active
+PR00813,Women Item 813,Apparel,Women,Supplier O,17.33,33.68,B,Active
+PR00814,Men Item 814,Apparel,Men,Supplier M,12.81,29.91,B,Active
+PR00815,Tablets Item 815,Technology,Tablets,Supplier O,98.82,169.11,B,Active
+PR00816,Paper Item 816,Office Supplies,Paper,Supplier H,2.93,8.16,B,Active
+PR00817,Tablets Item 817,Technology,Tablets,Supplier C,70.93,107.69,A,Active
+PR00818,Paper Item 818,Office Supplies,Paper,Supplier H,2.91,5.62,C,Active
+PR00819,Cleaning Item 819,Home,Cleaning,Supplier H,33.1,48.4,C,Active
+PR00820,Lighting Item 820,Home,Lighting,Supplier I,38.06,88.13,C,Active
+PR00821,Fresh Item 821,Grocery,Fresh,Supplier J,1.88,3.25,C,Active
+PR00822,Decor Item 822,Home,Decor,Supplier A,15.63,22.2,A,Active
+PR00823,Art Item 823,Office Supplies,Art,Supplier A,5.06,9.85,C,Active
+PR00824,Pantry Item 824,Grocery,Pantry,Supplier F,3.51,5.83,C,Active
+PR00825,Paper Item 825,Office Supplies,Paper,Supplier G,8.22,10.44,B,Active
+PR00826,Art Item 826,Office Supplies,Art,Supplier Q,8.77,23.85,A,Active
+PR00827,Monitors Item 827,Technology,Monitors,Supplier L,136.35,188.51,A,Active
+PR00828,Writing Item 828,Office Supplies,Writing,Supplier B,6.42,8.77,C,Active
+PR00829,Labels Item 829,Office Supplies,Labels,Supplier L,11.92,20.91,C,Discontinued
+PR00830,Frozen Item 830,Grocery,Frozen,Supplier I,5.63,8.03,B,Active
+PR00831,Tables Item 831,Furniture,Tables,Supplier M,48.8,77.54,A,Active
+PR00832,Paper Item 832,Office Supplies,Paper,Supplier R,8.36,11.3,A,Active
+PR00833,Decor Item 833,Home,Decor,Supplier P,15.27,29.83,A,Active
+PR00834,Women Item 834,Apparel,Women,Supplier H,6.41,12.56,A,Active
+PR00835,Chairs Item 835,Furniture,Chairs,Supplier B,126.41,281.91,A,Active
+PR00836,Storage Item 836,Furniture,Storage,Supplier P,137.41,178.31,C,Active
+PR00837,Accessories Item 837,Apparel,Accessories,Supplier C,20.55,49.07,B,Active
+PR00838,Monitors Item 838,Technology,Monitors,Supplier J,85.32,157.88,A,Active
+PR00839,Accessories Item 839,Technology,Accessories,Supplier N,106.91,219.3,A,Active
+PR00840,Tablets Item 840,Technology,Tablets,Supplier G,184.51,403.16,C,Active
+PR00841,Decor Item 841,Home,Decor,Supplier M,32.66,58.55,A,Active
+PR00842,Writing Item 842,Office Supplies,Writing,Supplier K,4.45,5.83,A,Discontinued
+PR00843,Binders Item 843,Office Supplies,Binders,Supplier G,8.47,19.42,B,Active
+PR00844,Envelopes Item 844,Office Supplies,Envelopes,Supplier H,7.29,14.63,B,Active
+PR00845,Desks Item 845,Furniture,Desks,Supplier F,173.43,320.14,C,Active
+PR00846,Kids Item 846,Apparel,Kids,Supplier Q,7.99,10.97,B,Active
+PR00847,Smart Home Item 847,Technology,Smart Home,Supplier L,413.2,1036.5,B,Active
+PR00848,Decor Item 848,Home,Decor,Supplier L,18.43,32.42,A,Active
+PR00849,Accessories Item 849,Apparel,Accessories,Supplier J,11.96,24.18,C,Active
+PR00850,Tablets Item 850,Technology,Tablets,Supplier M,54.04,119.16,B,Active
+PR00851,Smart Home Item 851,Technology,Smart Home,Supplier E,137.17,382.47,B,Active
+PR00852,Lighting Item 852,Home,Lighting,Supplier C,27.15,62.63,C,Active
+PR00853,Decor Item 853,Home,Decor,Supplier D,33.2,68.35,A,Active
+PR00854,Snacks Item 854,Grocery,Snacks,Supplier G,3.45,9.59,A,Active
+PR00855,Cleaning Item 855,Home,Cleaning,Supplier O,51.83,82.12,A,Active
+PR00856,Envelopes Item 856,Office Supplies,Envelopes,Supplier R,12.24,22.72,A,Active
+PR00857,Laptops Item 857,Technology,Laptops,Supplier H,141.59,392.06,B,Active
+PR00858,Lighting Item 858,Home,Lighting,Supplier F,20.6,39.29,A,Active
+PR00859,Lighting Item 859,Home,Lighting,Supplier C,17.0,41.08,C,Active
+PR00860,Art Item 860,Office Supplies,Art,Supplier N,5.09,6.57,A,Active
+PR00861,Chairs Item 861,Furniture,Chairs,Supplier E,299.83,673.73,B,Active
+PR00862,Envelopes Item 862,Office Supplies,Envelopes,Supplier A,2.4,4.94,C,Active
+PR00863,Binders Item 863,Office Supplies,Binders,Supplier Q,4.01,7.6,A,Active
+PR00864,Laptops Item 864,Technology,Laptops,Supplier Q,71.13,92.93,B,Active
+PR00865,Printers Item 865,Technology,Printers,Supplier H,85.15,219.82,C,Active
+PR00866,Printers Item 866,Technology,Printers,Supplier N,151.7,349.49,A,Active
+PR00867,Chairs Item 867,Furniture,Chairs,Supplier A,137.26,300.94,C,Active
+PR00868,Art Item 868,Office Supplies,Art,Supplier O,5.03,6.64,C,Active
+PR00869,Tablets Item 869,Technology,Tablets,Supplier O,82.05,223.34,A,Active
+PR00870,Accessories Item 870,Technology,Accessories,Supplier E,95.36,203.11,C,Active
+PR00871,Snacks Item 871,Grocery,Snacks,Supplier D,2.03,4.88,A,Active
+PR00872,Tablets Item 872,Technology,Tablets,Supplier A,125.21,297.38,A,Active
+PR00873,Labels Item 873,Office Supplies,Labels,Supplier D,9.26,14.99,B,Active
+PR00874,Laptops Item 874,Technology,Laptops,Supplier O,88.86,208.2,B,Active
+PR00875,Women Item 875,Apparel,Women,Supplier E,27.69,72.63,C,Active
+PR00876,Kitchen Item 876,Home,Kitchen,Supplier G,25.18,42.89,A,Active
+PR00877,Smart Home Item 877,Technology,Smart Home,Supplier Q,126.88,276.12,A,Active
+PR00878,Art Item 878,Office Supplies,Art,Supplier O,5.3,13.81,A,Active
+PR00879,Labels Item 879,Office Supplies,Labels,Supplier E,6.84,9.96,C,Active
+PR00880,Cleaning Item 880,Home,Cleaning,Supplier O,15.05,39.19,A,Active
+PR00881,Frozen Item 881,Grocery,Frozen,Supplier K,7.06,9.88,A,Discontinued
+PR00882,Beverages Item 882,Grocery,Beverages,Supplier D,3.15,6.02,B,Active
+PR00883,Shoes Item 883,Apparel,Shoes,Supplier N,17.63,38.17,A,Active
+PR00884,Binders Item 884,Office Supplies,Binders,Supplier N,8.65,10.93,C,Discontinued
+PR00885,Men Item 885,Apparel,Men,Supplier O,26.17,59.17,C,Active
+PR00886,Envelopes Item 886,Office Supplies,Envelopes,Supplier M,10.96,17.9,C,Active
+PR00887,Fresh Item 887,Grocery,Fresh,Supplier G,8.78,18.4,A,Active
+PR00888,Bedding Item 888,Home,Bedding,Supplier K,35.27,56.86,C,Active
+PR00889,Tablets Item 889,Technology,Tablets,Supplier C,89.58,122.67,A,Active
+PR00890,Accessories Item 890,Technology,Accessories,Supplier G,78.68,101.13,A,Active
+PR00891,Storage Item 891,Furniture,Storage,Supplier D,201.31,465.33,C,Active
+PR00892,Decor Item 892,Home,Decor,Supplier I,26.18,35.62,C,Active
+PR00893,Fresh Item 893,Grocery,Fresh,Supplier Q,4.28,6.45,B,Active
+PR00894,Accessories Item 894,Apparel,Accessories,Supplier O,8.51,21.53,C,Active
+PR00895,Laptops Item 895,Technology,Laptops,Supplier R,205.69,469.65,C,Active
+PR00896,Printers Item 896,Technology,Printers,Supplier F,91.45,194.48,A,Active
+PR00897,Shelving Item 897,Furniture,Shelving,Supplier P,96.54,171.37,C,Active
+PR00898,Pantry Item 898,Grocery,Pantry,Supplier B,2.92,6.02,B,Active
+PR00899,Printers Item 899,Technology,Printers,Supplier Q,198.4,456.11,A,Active
+PR00900,Labels Item 900,Office Supplies,Labels,Supplier Q,6.19,12.86,A,Active
+PR00901,Chairs Item 901,Furniture,Chairs,Supplier N,27.91,53.94,A,Active
+PR00902,Art Item 902,Office Supplies,Art,Supplier M,5.06,7.22,A,Discontinued
+PR00903,Accessories Item 903,Apparel,Accessories,Supplier P,36.44,86.05,C,Active
+PR00904,Pantry Item 904,Grocery,Pantry,Supplier C,2.84,3.61,B,Discontinued
+PR00905,Monitors Item 905,Technology,Monitors,Supplier M,49.44,95.99,A,Active
+PR00906,Frozen Item 906,Grocery,Frozen,Supplier A,5.76,15.07,C,Active
+PR00907,Envelopes Item 907,Office Supplies,Envelopes,Supplier H,19.53,30.93,C,Active
+PR00908,Storage Item 908,Furniture,Storage,Supplier C,63.53,102.16,A,Active
+PR00909,Frozen Item 909,Grocery,Frozen,Supplier R,3.22,6.27,A,Active
+PR00910,Printers Item 910,Technology,Printers,Supplier E,167.0,264.94,B,Active
+PR00911,Men Item 911,Apparel,Men,Supplier H,13.55,31.85,B,Active
+PR00912,Shelving Item 912,Furniture,Shelving,Supplier H,120.57,315.52,C,Active
+PR00913,Kitchen Item 913,Home,Kitchen,Supplier I,27.57,73.25,C,Active
+PR00914,Chairs Item 914,Furniture,Chairs,Supplier J,99.28,240.31,A,Active
+PR00915,Fresh Item 915,Grocery,Fresh,Supplier A,8.99,18.06,B,Active
+PR00916,Kitchen Item 916,Home,Kitchen,Supplier R,24.86,56.07,B,Active
+PR00917,Tablets Item 917,Technology,Tablets,Supplier M,69.52,106.79,B,Active
+PR00918,Lighting Item 918,Home,Lighting,Supplier B,39.99,84.66,B,Active
+PR00919,Chairs Item 919,Furniture,Chairs,Supplier I,64.91,85.96,C,Active
+PR00920,Paper Item 920,Office Supplies,Paper,Supplier B,9.83,18.65,A,Discontinued
+PR00921,Beverages Item 921,Grocery,Beverages,Supplier M,2.73,5.62,A,Active
+PR00922,Frozen Item 922,Grocery,Frozen,Supplier G,5.9,12.05,C,Active
+PR00923,Bedding Item 923,Home,Bedding,Supplier G,27.24,64.25,A,Discontinued
+PR00924,Pantry Item 924,Grocery,Pantry,Supplier I,3.94,8.99,B,Active
+PR00925,Binders Item 925,Office Supplies,Binders,Supplier N,5.71,10.11,A,Discontinued
+PR00926,Shelving Item 926,Furniture,Shelving,Supplier M,85.56,178.73,B,Active
+PR00927,Decor Item 927,Home,Decor,Supplier P,29.33,46.27,C,Active
+PR00928,Tables Item 928,Furniture,Tables,Supplier Q,150.46,222.64,B,Discontinued
+PR00929,Chairs Item 929,Furniture,Chairs,Supplier B,117.81,316.89,C,Active
+PR00930,Men Item 930,Apparel,Men,Supplier P,20.83,42.71,B,Active
+PR00931,Storage Item 931,Furniture,Storage,Supplier H,89.28,125.56,B,Active
+PR00932,Pantry Item 932,Grocery,Pantry,Supplier I,2.83,5.07,C,Active
+PR00933,Laptops Item 933,Technology,Laptops,Supplier M,45.57,97.52,A,Active
+PR00934,Shelving Item 934,Furniture,Shelving,Supplier G,25.57,48.67,B,Discontinued
+PR00935,Envelopes Item 935,Office Supplies,Envelopes,Supplier G,10.5,16.48,A,Active
+PR00936,Monitors Item 936,Technology,Monitors,Supplier Q,49.26,63.85,B,Active
+PR00937,Writing Item 937,Office Supplies,Writing,Supplier D,3.45,7.04,A,Discontinued
+PR00938,Kitchen Item 938,Home,Kitchen,Supplier C,40.56,94.6,B,Discontinued
+PR00939,Fresh Item 939,Grocery,Fresh,Supplier P,8.26,17.75,A,Active
+PR00940,Art Item 940,Office Supplies,Art,Supplier G,2.9,5.51,A,Active
+PR00941,Bedding Item 941,Home,Bedding,Supplier L,38.14,99.74,B,Active
+PR00942,Storage Item 942,Furniture,Storage,Supplier I,68.35,129.12,A,Active
+PR00943,Binders Item 943,Office Supplies,Binders,Supplier R,2.55,5.22,A,Active
+PR00944,Kids Item 944,Apparel,Kids,Supplier F,13.92,28.64,C,Discontinued
+PR00945,Monitors Item 945,Technology,Monitors,Supplier Q,70.99,187.35,C,Active
+PR00946,Smart Home Item 946,Technology,Smart Home,Supplier M,47.41,97.72,C,Discontinued
+PR00947,Tables Item 947,Furniture,Tables,Supplier D,101.26,195.19,C,Active
+PR00948,Shelving Item 948,Furniture,Shelving,Supplier G,98.29,145.47,A,Active
+PR00949,Monitors Item 949,Technology,Monitors,Supplier G,258.79,534.4,B,Active
+PR00950,Frozen Item 950,Grocery,Frozen,Supplier E,4.96,7.13,C,Active
+PR00951,Envelopes Item 951,Office Supplies,Envelopes,Supplier P,4.21,8.98,C,Active
+PR00952,Tables Item 952,Furniture,Tables,Supplier H,35.04,68.09,B,Active
+PR00953,Pantry Item 953,Grocery,Pantry,Supplier H,5.56,7.49,C,Active
+PR00954,Tables Item 954,Furniture,Tables,Supplier O,48.78,108.63,B,Active
+PR00955,Smart Home Item 955,Technology,Smart Home,Supplier A,187.28,473.91,A,Active
+PR00956,Lighting Item 956,Home,Lighting,Supplier N,50.4,115.67,B,Active
+PR00957,Men Item 957,Apparel,Men,Supplier J,38.21,62.24,C,Active
+PR00958,Kids Item 958,Apparel,Kids,Supplier I,24.0,45.22,A,Active
+PR00959,Lighting Item 959,Home,Lighting,Supplier M,29.81,38.7,B,Active
+PR00960,Snacks Item 960,Grocery,Snacks,Supplier I,3.18,4.23,A,Active
+PR00961,Laptops Item 961,Technology,Laptops,Supplier O,83.35,178.5,C,Active
+PR00962,Laptops Item 962,Technology,Laptops,Supplier E,365.88,510.04,A,Discontinued
+PR00963,Lighting Item 963,Home,Lighting,Supplier H,20.86,58.14,C,Active
+PR00964,Writing Item 964,Office Supplies,Writing,Supplier R,17.73,30.53,C,Discontinued
+PR00965,Smart Home Item 965,Technology,Smart Home,Supplier P,139.36,245.46,C,Active
+PR00966,Envelopes Item 966,Office Supplies,Envelopes,Supplier J,7.05,16.67,B,Active
+PR00967,Kitchen Item 967,Home,Kitchen,Supplier L,41.02,52.97,B,Active
+PR00968,Bedding Item 968,Home,Bedding,Supplier G,21.71,55.47,B,Active
+PR00969,Tablets Item 969,Technology,Tablets,Supplier O,45.63,74.9,C,Active
+PR00970,Accessories Item 970,Technology,Accessories,Supplier G,88.36,189.59,B,Active
+PR00971,Monitors Item 971,Technology,Monitors,Supplier D,146.71,331.61,C,Active
+PR00972,Tables Item 972,Furniture,Tables,Supplier L,77.94,175.68,B,Active
+PR00973,Decor Item 973,Home,Decor,Supplier A,12.63,31.81,C,Active
+PR00974,Envelopes Item 974,Office Supplies,Envelopes,Supplier G,3.84,9.02,A,Discontinued
+PR00975,Printers Item 975,Technology,Printers,Supplier I,160.56,340.57,A,Active
+PR00976,Envelopes Item 976,Office Supplies,Envelopes,Supplier J,3.72,6.53,A,Active
+PR00977,Smart Home Item 977,Technology,Smart Home,Supplier O,101.92,154.56,C,Active
+PR00978,Art Item 978,Office Supplies,Art,Supplier J,17.72,47.91,C,Active
+PR00979,Monitors Item 979,Technology,Monitors,Supplier D,160.25,444.23,B,Active
+PR00980,Accessories Item 980,Apparel,Accessories,Supplier C,19.01,33.49,A,Active
+PR00981,Writing Item 981,Office Supplies,Writing,Supplier G,9.86,25.61,C,Active
+PR00982,Accessories Item 982,Technology,Accessories,Supplier L,131.9,361.15,B,Active
+PR00983,Accessories Item 983,Technology,Accessories,Supplier D,131.52,166.23,C,Active
+PR00984,Storage Item 984,Furniture,Storage,Supplier C,75.31,107.04,A,Active
+PR00985,Kids Item 985,Apparel,Kids,Supplier H,8.14,20.29,B,Active
+PR00986,Smart Home Item 986,Technology,Smart Home,Supplier I,94.21,146.14,B,Active
+PR00987,Fresh Item 987,Grocery,Fresh,Supplier G,2.11,3.13,C,Active
+PR00988,Tables Item 988,Furniture,Tables,Supplier F,127.79,247.7,A,Active
+PR00989,Chairs Item 989,Furniture,Chairs,Supplier D,137.71,367.15,A,Active
+PR00990,Accessories Item 990,Technology,Accessories,Supplier G,144.43,290.84,B,Active
+PR00991,Desks Item 991,Furniture,Desks,Supplier K,144.99,228.1,B,Active
+PR00992,Chairs Item 992,Furniture,Chairs,Supplier M,97.38,193.12,B,Active
+PR00993,Printers Item 993,Technology,Printers,Supplier R,140.39,312.61,B,Active
+PR00994,Binders Item 994,Office Supplies,Binders,Supplier G,8.42,10.72,A,Active
+PR00995,Monitors Item 995,Technology,Monitors,Supplier L,129.56,230.63,C,Active
+PR00996,Lighting Item 996,Home,Lighting,Supplier Q,65.07,162.65,C,Active
+PR00997,Art Item 997,Office Supplies,Art,Supplier P,7.73,20.09,B,Active
+PR00998,Storage Item 998,Furniture,Storage,Supplier G,132.3,204.8,A,Active
+PR00999,Fresh Item 999,Grocery,Fresh,Supplier B,4.09,6.83,B,Active
+PR01000,Men Item 1000,Apparel,Men,Supplier C,21.48,47.11,C,Active
+PR01001,Shoes Item 1001,Apparel,Shoes,Supplier A,50.89,136.37,A,Active
+PR01002,Bedding Item 1002,Home,Bedding,Supplier G,94.66,249.42,A,Active
+PR01003,Cleaning Item 1003,Home,Cleaning,Supplier N,23.48,44.81,B,Active
+PR01004,Fresh Item 1004,Grocery,Fresh,Supplier L,2.36,5.38,B,Discontinued
+PR01005,Frozen Item 1005,Grocery,Frozen,Supplier F,6.0,7.56,A,Active
+PR01006,Accessories Item 1006,Apparel,Accessories,Supplier F,18.5,27.33,B,Active
+PR01007,Cleaning Item 1007,Home,Cleaning,Supplier L,17.37,38.58,C,Active
+PR01008,Monitors Item 1008,Technology,Monitors,Supplier H,80.17,114.25,C,Active
+PR01009,Art Item 1009,Office Supplies,Art,Supplier O,12.43,16.52,C,Active
+PR01010,Pantry Item 1010,Grocery,Pantry,Supplier M,6.73,15.18,A,Discontinued
+PR01011,Shelving Item 1011,Furniture,Shelving,Supplier F,68.66,183.16,A,Active
+PR01012,Decor Item 1012,Home,Decor,Supplier C,26.21,33.7,B,Discontinued
+PR01013,Pantry Item 1013,Grocery,Pantry,Supplier G,7.05,19.55,C,Active
+PR01014,Kitchen Item 1014,Home,Kitchen,Supplier D,28.46,54.87,B,Active
+PR01015,Chairs Item 1015,Furniture,Chairs,Supplier E,86.14,150.48,A,Active
+PR01016,Kids Item 1016,Apparel,Kids,Supplier D,23.21,59.93,A,Discontinued
+PR01017,Printers Item 1017,Technology,Printers,Supplier K,136.47,225.38,A,Active
+PR01018,Frozen Item 1018,Grocery,Frozen,Supplier M,5.29,7.74,A,Active
+PR01019,Writing Item 1019,Office Supplies,Writing,Supplier L,9.49,18.83,C,Active
+PR01020,Art Item 1020,Office Supplies,Art,Supplier R,5.75,8.33,C,Active
+PR01021,Monitors Item 1021,Technology,Monitors,Supplier M,261.26,409.42,C,Active
+PR01022,Paper Item 1022,Office Supplies,Paper,Supplier F,8.92,15.28,C,Active
+PR01023,Women Item 1023,Apparel,Women,Supplier R,7.38,19.55,C,Active
+PR01024,Laptops Item 1024,Technology,Laptops,Supplier R,122.57,221.41,B,Active
+PR01025,Envelopes Item 1025,Office Supplies,Envelopes,Supplier C,5.15,8.36,A,Active
+PR01026,Accessories Item 1026,Technology,Accessories,Supplier R,58.69,162.79,A,Active
+PR01027,Kids Item 1027,Apparel,Kids,Supplier Q,33.91,64.13,C,Active
+PR01028,Pantry Item 1028,Grocery,Pantry,Supplier A,2.57,7.0,A,Active
+PR01029,Snacks Item 1029,Grocery,Snacks,Supplier L,3.68,8.53,C,Discontinued
+PR01030,Snacks Item 1030,Grocery,Snacks,Supplier H,4.44,8.22,C,Active
+PR01031,Storage Item 1031,Furniture,Storage,Supplier N,123.87,299.54,C,Active
+PR01032,Storage Item 1032,Furniture,Storage,Supplier A,48.15,116.91,C,Discontinued
+PR01033,Envelopes Item 1033,Office Supplies,Envelopes,Supplier K,5.57,9.76,A,Active
+PR01034,Storage Item 1034,Furniture,Storage,Supplier R,63.3,115.04,B,Active
+PR01035,Cleaning Item 1035,Home,Cleaning,Supplier K,48.58,114.78,C,Discontinued
+PR01036,Pantry Item 1036,Grocery,Pantry,Supplier J,2.03,3.74,C,Active
+PR01037,Envelopes Item 1037,Office Supplies,Envelopes,Supplier M,10.72,14.33,C,Discontinued
+PR01038,Monitors Item 1038,Technology,Monitors,Supplier C,64.69,139.15,A,Active
+PR01039,Desks Item 1039,Furniture,Desks,Supplier Q,58.78,125.04,C,Active
+PR01040,Kitchen Item 1040,Home,Kitchen,Supplier P,30.24,77.95,B,Discontinued
+PR01041,Labels Item 1041,Office Supplies,Labels,Supplier C,24.43,41.77,B,Active
+PR01042,Cleaning Item 1042,Home,Cleaning,Supplier N,24.18,46.22,C,Active
+PR01043,Desks Item 1043,Furniture,Desks,Supplier N,135.08,322.37,C,Active
+PR01044,Fresh Item 1044,Grocery,Fresh,Supplier H,6.26,13.86,C,Active
+PR01045,Laptops Item 1045,Technology,Laptops,Supplier C,340.48,572.59,A,Active
+PR01046,Labels Item 1046,Office Supplies,Labels,Supplier Q,9.73,14.51,A,Active
+PR01047,Accessories Item 1047,Apparel,Accessories,Supplier F,41.53,102.8,A,Discontinued
+PR01048,Tablets Item 1048,Technology,Tablets,Supplier L,74.85,116.67,B,Active
+PR01049,Storage Item 1049,Furniture,Storage,Supplier M,51.26,81.17,C,Active
+PR01050,Women Item 1050,Apparel,Women,Supplier R,11.93,29.57,C,Active
+PR01051,Lighting Item 1051,Home,Lighting,Supplier K,19.01,42.3,B,Active
+PR01052,Kids Item 1052,Apparel,Kids,Supplier O,10.09,25.22,A,Active
+PR01053,Monitors Item 1053,Technology,Monitors,Supplier D,37.08,89.83,B,Active
+PR01054,Binders Item 1054,Office Supplies,Binders,Supplier L,10.75,27.0,C,Active
+PR01055,Storage Item 1055,Furniture,Storage,Supplier I,197.56,488.3,C,Active
+PR01056,Binders Item 1056,Office Supplies,Binders,Supplier H,17.01,31.11,C,Active
+PR01057,Chairs Item 1057,Furniture,Chairs,Supplier C,85.23,110.27,A,Active
+PR01058,Kids Item 1058,Apparel,Kids,Supplier L,13.96,36.96,B,Active
+PR01059,Kids Item 1059,Apparel,Kids,Supplier P,31.5,83.73,C,Active
+PR01060,Monitors Item 1060,Technology,Monitors,Supplier K,96.08,250.42,B,Active
+PR01061,Accessories Item 1061,Apparel,Accessories,Supplier Q,22.01,42.28,B,Active
+PR01062,Smart Home Item 1062,Technology,Smart Home,Supplier J,43.45,119.99,B,Active
+PR01063,Printers Item 1063,Technology,Printers,Supplier E,170.33,395.4,A,Active
+PR01064,Shoes Item 1064,Apparel,Shoes,Supplier J,12.38,27.38,C,Active
+PR01065,Shoes Item 1065,Apparel,Shoes,Supplier A,17.29,41.26,B,Active
+PR01066,Desks Item 1066,Furniture,Desks,Supplier E,130.02,290.17,C,Discontinued
+PR01067,Paper Item 1067,Office Supplies,Paper,Supplier K,5.82,11.69,B,Active
+PR01068,Smart Home Item 1068,Technology,Smart Home,Supplier E,259.54,676.12,A,Active
+PR01069,Snacks Item 1069,Grocery,Snacks,Supplier L,2.16,3.43,B,Active
+PR01070,Art Item 1070,Office Supplies,Art,Supplier L,12.78,16.75,B,Discontinued
+PR01071,Art Item 1071,Office Supplies,Art,Supplier Q,5.61,15.17,B,Active
+PR01072,Smart Home Item 1072,Technology,Smart Home,Supplier M,52.01,69.35,A,Discontinued
+PR01073,Beverages Item 1073,Grocery,Beverages,Supplier L,3.25,5.96,B,Active
+PR01074,Laptops Item 1074,Technology,Laptops,Supplier E,84.19,181.29,C,Active
+PR01075,Art Item 1075,Office Supplies,Art,Supplier A,3.46,8.02,C,Active
+PR01076,Laptops Item 1076,Technology,Laptops,Supplier M,103.8,244.17,C,Active
+PR01077,Kids Item 1077,Apparel,Kids,Supplier E,15.23,36.02,C,Active
+PR01078,Shelving Item 1078,Furniture,Shelving,Supplier C,90.97,250.02,C,Active
+PR01079,Accessories Item 1079,Technology,Accessories,Supplier F,178.15,372.9,A,Active
+PR01080,Bedding Item 1080,Home,Bedding,Supplier R,29.35,52.75,B,Active
+PR01081,Monitors Item 1081,Technology,Monitors,Supplier R,154.41,409.67,A,Active
+PR01082,Beverages Item 1082,Grocery,Beverages,Supplier B,5.46,8.33,A,Active
+PR01083,Bedding Item 1083,Home,Bedding,Supplier G,32.58,77.37,C,Active
+PR01084,Desks Item 1084,Furniture,Desks,Supplier K,65.65,138.75,A,Active
+PR01085,Men Item 1085,Apparel,Men,Supplier I,4.81,7.01,C,Active
+PR01086,Bedding Item 1086,Home,Bedding,Supplier D,32.42,48.25,C,Active
+PR01087,Lighting Item 1087,Home,Lighting,Supplier C,20.0,37.0,A,Active
+PR01088,Shoes Item 1088,Apparel,Shoes,Supplier O,10.19,19.7,B,Active
+PR01089,Printers Item 1089,Technology,Printers,Supplier Q,129.8,349.29,A,Discontinued
+PR01090,Cleaning Item 1090,Home,Cleaning,Supplier F,17.27,45.7,B,Active
+PR01091,Men Item 1091,Apparel,Men,Supplier G,28.03,56.74,B,Active
+PR01092,Writing Item 1092,Office Supplies,Writing,Supplier J,3.52,5.4,B,Active
+PR01093,Paper Item 1093,Office Supplies,Paper,Supplier R,3.14,8.74,A,Active
+PR01094,Fresh Item 1094,Grocery,Fresh,Supplier H,3.74,7.25,B,Active
+PR01095,Bedding Item 1095,Home,Bedding,Supplier N,41.08,89.0,B,Active
+PR01096,Decor Item 1096,Home,Decor,Supplier L,24.74,52.23,B,Active
+PR01097,Tablets Item 1097,Technology,Tablets,Supplier L,148.95,338.41,A,Discontinued
+PR01098,Printers Item 1098,Technology,Printers,Supplier N,106.57,152.05,A,Active
+PR01099,Bedding Item 1099,Home,Bedding,Supplier M,18.07,34.32,A,Active
+PR01100,Binders Item 1100,Office Supplies,Binders,Supplier K,24.57,53.52,C,Active
+PR01101,Kitchen Item 1101,Home,Kitchen,Supplier L,21.27,31.56,A,Active
+PR01102,Shoes Item 1102,Apparel,Shoes,Supplier J,21.97,44.64,C,Active
+PR01103,Shoes Item 1103,Apparel,Shoes,Supplier A,23.69,56.52,A,Active
+PR01104,Beverages Item 1104,Grocery,Beverages,Supplier G,3.36,5.01,C,Active
+PR01105,Envelopes Item 1105,Office Supplies,Envelopes,Supplier P,8.75,21.95,A,Active
+PR01106,Kids Item 1106,Apparel,Kids,Supplier I,24.62,64.94,B,Active
+PR01107,Kitchen Item 1107,Home,Kitchen,Supplier M,38.02,90.97,B,Active
+PR01108,Paper Item 1108,Office Supplies,Paper,Supplier O,10.44,26.79,B,Active
+PR01109,Shoes Item 1109,Apparel,Shoes,Supplier Q,25.9,60.39,C,Active
+PR01110,Laptops Item 1110,Technology,Laptops,Supplier N,222.65,473.2,C,Active
+PR01111,Women Item 1111,Apparel,Women,Supplier H,10.52,22.36,A,Active
+PR01112,Printers Item 1112,Technology,Printers,Supplier J,159.84,228.25,B,Active
+PR01113,Pantry Item 1113,Grocery,Pantry,Supplier F,6.77,9.16,B,Active
+PR01114,Monitors Item 1114,Technology,Monitors,Supplier N,89.94,198.05,A,Active
+PR01115,Shelving Item 1115,Furniture,Shelving,Supplier L,23.83,66.02,C,Active
+PR01116,Shoes Item 1116,Apparel,Shoes,Supplier H,23.59,49.54,B,Active
+PR01117,Tables Item 1117,Furniture,Tables,Supplier R,38.92,100.44,A,Active
+PR01118,Paper Item 1118,Office Supplies,Paper,Supplier P,8.88,20.1,A,Discontinued
+PR01119,Labels Item 1119,Office Supplies,Labels,Supplier K,5.22,7.59,B,Active
+PR01120,Writing Item 1120,Office Supplies,Writing,Supplier F,7.71,19.59,C,Active
+PR01121,Tables Item 1121,Furniture,Tables,Supplier O,49.93,76.35,A,Active
+PR01122,Tablets Item 1122,Technology,Tablets,Supplier L,90.7,174.46,B,Active
+PR01123,Frozen Item 1123,Grocery,Frozen,Supplier E,3.68,7.82,A,Active
+PR01124,Accessories Item 1124,Apparel,Accessories,Supplier J,11.39,30.12,A,Active
+PR01125,Shelving Item 1125,Furniture,Shelving,Supplier O,64.47,166.02,B,Active
+PR01126,Shelving Item 1126,Furniture,Shelving,Supplier K,39.07,107.97,C,Active
+PR01127,Laptops Item 1127,Technology,Laptops,Supplier A,80.1,126.67,A,Active
+PR01128,Women Item 1128,Apparel,Women,Supplier K,54.18,108.63,A,Active
+PR01129,Monitors Item 1129,Technology,Monitors,Supplier M,116.32,303.68,A,Active
+PR01130,Fresh Item 1130,Grocery,Fresh,Supplier F,17.52,36.25,B,Active
+PR01131,Decor Item 1131,Home,Decor,Supplier A,12.86,23.51,B,Active
+PR01132,Bedding Item 1132,Home,Bedding,Supplier O,11.97,18.33,A,Active
+PR01133,Paper Item 1133,Office Supplies,Paper,Supplier E,5.41,8.66,C,Active
+PR01134,Men Item 1134,Apparel,Men,Supplier D,40.67,52.8,A,Active
+PR01135,Monitors Item 1135,Technology,Monitors,Supplier G,101.41,197.52,B,Active
+PR01136,Accessories Item 1136,Apparel,Accessories,Supplier C,17.05,22.21,B,Active
+PR01137,Kitchen Item 1137,Home,Kitchen,Supplier N,23.24,37.57,C,Active
+PR01138,Art Item 1138,Office Supplies,Art,Supplier E,8.87,12.9,C,Active
+PR01139,Shelving Item 1139,Furniture,Shelving,Supplier K,111.34,302.9,A,Active
+PR01140,Labels Item 1140,Office Supplies,Labels,Supplier L,3.74,8.19,A,Discontinued
+PR01141,Fresh Item 1141,Grocery,Fresh,Supplier G,2.77,3.98,C,Active
+PR01142,Fresh Item 1142,Grocery,Fresh,Supplier M,15.22,31.77,A,Discontinued
+PR01143,Fresh Item 1143,Grocery,Fresh,Supplier G,1.07,2.44,B,Active
+PR01144,Snacks Item 1144,Grocery,Snacks,Supplier N,3.16,6.53,C,Active
+PR01145,Cleaning Item 1145,Home,Cleaning,Supplier E,31.84,88.67,C,Active
+PR01146,Shoes Item 1146,Apparel,Shoes,Supplier K,14.32,33.28,B,Active
+PR01147,Labels Item 1147,Office Supplies,Labels,Supplier Q,5.34,13.82,A,Active
+PR01148,Tablets Item 1148,Technology,Tablets,Supplier R,101.23,265.47,B,Active
+PR01149,Monitors Item 1149,Technology,Monitors,Supplier C,58.94,124.57,A,Active
+PR01150,Lighting Item 1150,Home,Lighting,Supplier C,26.89,45.59,C,Discontinued
+PR01151,Paper Item 1151,Office Supplies,Paper,Supplier R,6.72,14.72,C,Active
+PR01152,Smart Home Item 1152,Technology,Smart Home,Supplier A,88.94,234.5,C,Active
+PR01153,Bedding Item 1153,Home,Bedding,Supplier Q,31.12,59.68,B,Active
+PR01154,Kids Item 1154,Apparel,Kids,Supplier A,17.41,43.06,A,Active
+PR01155,Binders Item 1155,Office Supplies,Binders,Supplier G,7.38,19.08,B,Active
+PR01156,Paper Item 1156,Office Supplies,Paper,Supplier H,3.39,8.73,B,Active
+PR01157,Men Item 1157,Apparel,Men,Supplier C,25.92,66.66,A,Active
+PR01158,Desks Item 1158,Furniture,Desks,Supplier G,118.96,280.76,A,Active
+PR01159,Kitchen Item 1159,Home,Kitchen,Supplier R,17.31,34.45,C,Discontinued
+PR01160,Bedding Item 1160,Home,Bedding,Supplier C,34.05,55.7,C,Active
+PR01161,Men Item 1161,Apparel,Men,Supplier E,20.32,27.37,C,Active
+PR01162,Writing Item 1162,Office Supplies,Writing,Supplier M,17.36,46.14,C,Active
+PR01163,Storage Item 1163,Furniture,Storage,Supplier Q,92.77,195.58,B,Discontinued
+PR01164,Writing Item 1164,Office Supplies,Writing,Supplier J,16.09,25.71,B,Active
+PR01165,Paper Item 1165,Office Supplies,Paper,Supplier C,4.1,10.6,B,Active
+PR01166,Tablets Item 1166,Technology,Tablets,Supplier K,67.54,108.68,A,Active
+PR01167,Bedding Item 1167,Home,Bedding,Supplier M,30.0,83.45,C,Active
+PR01168,Men Item 1168,Apparel,Men,Supplier L,7.68,10.32,A,Active
+PR01169,Shoes Item 1169,Apparel,Shoes,Supplier K,15.55,25.13,C,Active
+PR01170,Shoes Item 1170,Apparel,Shoes,Supplier B,13.61,35.85,B,Active
+PR01171,Snacks Item 1171,Grocery,Snacks,Supplier E,2.72,6.19,B,Active
+PR01172,Kitchen Item 1172,Home,Kitchen,Supplier F,45.51,99.16,A,Active
+PR01173,Lighting Item 1173,Home,Lighting,Supplier C,13.03,32.12,B,Discontinued
+PR01174,Snacks Item 1174,Grocery,Snacks,Supplier K,6.02,11.34,B,Active
+PR01175,Bedding Item 1175,Home,Bedding,Supplier P,10.16,13.38,C,Active
+PR01176,Writing Item 1176,Office Supplies,Writing,Supplier A,27.28,35.43,C,Discontinued
+PR01177,Laptops Item 1177,Technology,Laptops,Supplier O,159.41,332.92,A,Active
+PR01178,Tablets Item 1178,Technology,Tablets,Supplier B,60.69,154.7,B,Active
+PR01179,Men Item 1179,Apparel,Men,Supplier E,11.57,24.96,B,Discontinued
+PR01180,Kids Item 1180,Apparel,Kids,Supplier O,21.81,50.9,B,Active
+PR01181,Storage Item 1181,Furniture,Storage,Supplier D,73.73,168.43,C,Active
+PR01182,Shelving Item 1182,Furniture,Shelving,Supplier C,109.05,166.36,B,Active
+PR01183,Cleaning Item 1183,Home,Cleaning,Supplier E,22.5,51.36,C,Discontinued
+PR01184,Kids Item 1184,Apparel,Kids,Supplier D,12.56,20.4,B,Active
+PR01185,Beverages Item 1185,Grocery,Beverages,Supplier D,2.51,5.67,C,Discontinued
+PR01186,Beverages Item 1186,Grocery,Beverages,Supplier Q,2.05,4.05,B,Active
+PR01187,Lighting Item 1187,Home,Lighting,Supplier K,23.32,39.52,C,Active
+PR01188,Snacks Item 1188,Grocery,Snacks,Supplier I,5.79,12.37,B,Active
+PR01189,Smart Home Item 1189,Technology,Smart Home,Supplier R,41.94,86.9,A,Active
+PR01190,Tablets Item 1190,Technology,Tablets,Supplier B,44.46,119.23,A,Active
+PR01191,Tables Item 1191,Furniture,Tables,Supplier D,79.34,115.04,A,Active
+PR01192,Tables Item 1192,Furniture,Tables,Supplier R,96.59,205.44,C,Active
+PR01193,Decor Item 1193,Home,Decor,Supplier B,17.06,23.44,A,Active
+PR01194,Binders Item 1194,Office Supplies,Binders,Supplier E,16.35,39.78,B,Active
+PR01195,Fresh Item 1195,Grocery,Fresh,Supplier P,3.0,8.28,C,Active
+PR01196,Bedding Item 1196,Home,Bedding,Supplier Q,35.57,65.16,C,Active
+PR01197,Kitchen Item 1197,Home,Kitchen,Supplier L,22.62,47.62,A,Active
+PR01198,Lighting Item 1198,Home,Lighting,Supplier C,38.27,87.92,A,Active
+PR01199,Labels Item 1199,Office Supplies,Labels,Supplier R,8.04,21.53,A,Active
+PR01200,Labels Item 1200,Office Supplies,Labels,Supplier I,2.77,5.42,B,Discontinued
+PR01201,Pantry Item 1201,Grocery,Pantry,Supplier N,2.77,3.47,C,Active
+PR01202,Smart Home Item 1202,Technology,Smart Home,Supplier C,291.67,495.14,A,Active
+PR01203,Storage Item 1203,Furniture,Storage,Supplier Q,31.95,69.7,A,Active
+PR01204,Storage Item 1204,Furniture,Storage,Supplier N,109.28,191.41,A,Active
+PR01205,Snacks Item 1205,Grocery,Snacks,Supplier I,2.41,5.13,A,Active
+PR01206,Cleaning Item 1206,Home,Cleaning,Supplier I,27.38,45.26,A,Active
+PR01207,Art Item 1207,Office Supplies,Art,Supplier M,10.83,27.8,B,Active
+PR01208,Monitors Item 1208,Technology,Monitors,Supplier R,142.78,198.35,A,Active
+PR01209,Women Item 1209,Apparel,Women,Supplier E,14.77,24.35,B,Discontinued
+PR01210,Men Item 1210,Apparel,Men,Supplier Q,22.09,31.23,C,Active
+PR01211,Fresh Item 1211,Grocery,Fresh,Supplier R,4.26,8.42,B,Active
+PR01212,Accessories Item 1212,Technology,Accessories,Supplier E,110.85,147.89,B,Active
+PR01213,Laptops Item 1213,Technology,Laptops,Supplier A,70.66,90.92,B,Active
+PR01214,Men Item 1214,Apparel,Men,Supplier H,5.57,11.18,C,Active
+PR01215,Kitchen Item 1215,Home,Kitchen,Supplier N,9.94,14.07,C,Active
+PR01216,Women Item 1216,Apparel,Women,Supplier Q,39.2,84.83,A,Active
+PR01217,Binders Item 1217,Office Supplies,Binders,Supplier N,3.91,5.68,C,Active
+PR01218,Tables Item 1218,Furniture,Tables,Supplier R,40.1,92.33,C,Active
+PR01219,Pantry Item 1219,Grocery,Pantry,Supplier J,5.14,9.7,C,Active
+PR01220,Men Item 1220,Apparel,Men,Supplier O,10.58,24.61,A,Active
+PR01221,Lighting Item 1221,Home,Lighting,Supplier K,60.03,148.12,B,Active
+PR01222,Fresh Item 1222,Grocery,Fresh,Supplier I,2.46,6.6,A,Active
+PR01223,Lighting Item 1223,Home,Lighting,Supplier I,27.46,51.61,A,Active
+PR01224,Frozen Item 1224,Grocery,Frozen,Supplier L,5.87,15.02,C,Discontinued
+PR01225,Tablets Item 1225,Technology,Tablets,Supplier E,51.01,96.52,C,Active
+PR01226,Paper Item 1226,Office Supplies,Paper,Supplier P,12.85,22.68,C,Active
+PR01227,Decor Item 1227,Home,Decor,Supplier D,10.44,15.45,A,Active
+PR01228,Accessories Item 1228,Apparel,Accessories,Supplier M,30.12,45.08,B,Active
+PR01229,Smart Home Item 1229,Technology,Smart Home,Supplier R,190.64,369.94,A,Active
+PR01230,Chairs Item 1230,Furniture,Chairs,Supplier N,53.96,96.41,B,Active
+PR01231,Frozen Item 1231,Grocery,Frozen,Supplier Q,8.73,23.4,B,Active
+PR01232,Tablets Item 1232,Technology,Tablets,Supplier P,108.57,172.45,B,Active
+PR01233,Snacks Item 1233,Grocery,Snacks,Supplier N,7.2,12.93,A,Active
+PR01234,Women Item 1234,Apparel,Women,Supplier H,10.78,20.25,A,Active
+PR01235,Decor Item 1235,Home,Decor,Supplier D,33.21,87.25,A,Active
+PR01236,Art Item 1236,Office Supplies,Art,Supplier H,8.12,16.54,A,Active
+PR01237,Kitchen Item 1237,Home,Kitchen,Supplier R,32.77,78.4,C,Active
+PR01238,Snacks Item 1238,Grocery,Snacks,Supplier C,10.17,19.83,A,Active
+PR01239,Monitors Item 1239,Technology,Monitors,Supplier E,255.58,617.8,C,Active
+PR01240,Smart Home Item 1240,Technology,Smart Home,Supplier P,420.41,826.14,A,Active
+PR01241,Kids Item 1241,Apparel,Kids,Supplier O,19.92,37.76,A,Active
+PR01242,Kitchen Item 1242,Home,Kitchen,Supplier N,14.83,30.66,B,Active
+PR01243,Cleaning Item 1243,Home,Cleaning,Supplier G,66.04,88.41,B,Discontinued
+PR01244,Snacks Item 1244,Grocery,Snacks,Supplier B,6.22,9.81,A,Active
+PR01245,Smart Home Item 1245,Technology,Smart Home,Supplier H,152.9,247.36,B,Active
+PR01246,Kitchen Item 1246,Home,Kitchen,Supplier M,30.9,83.07,B,Active
+PR01247,Beverages Item 1247,Grocery,Beverages,Supplier M,2.72,4.75,A,Active
+PR01248,Binders Item 1248,Office Supplies,Binders,Supplier J,10.09,18.61,A,Active
+PR01249,Binders Item 1249,Office Supplies,Binders,Supplier Q,13.66,20.41,A,Active
+PR01250,Laptops Item 1250,Technology,Laptops,Supplier C,416.39,775.76,C,Discontinued
+PR01251,Monitors Item 1251,Technology,Monitors,Supplier I,238.41,469.04,C,Discontinued
+PR01252,Kids Item 1252,Apparel,Kids,Supplier A,5.59,13.0,B,Discontinued
+PR01253,Fresh Item 1253,Grocery,Fresh,Supplier R,1.83,3.43,B,Active
+PR01254,Laptops Item 1254,Technology,Laptops,Supplier F,153.18,398.21,C,Active
+PR01255,Kids Item 1255,Apparel,Kids,Supplier Q,11.59,17.27,C,Active
+PR01256,Frozen Item 1256,Grocery,Frozen,Supplier M,2.46,5.2,C,Active
+PR01257,Chairs Item 1257,Furniture,Chairs,Supplier J,52.84,110.84,C,Active
+PR01258,Accessories Item 1258,Technology,Accessories,Supplier I,116.96,270.96,B,Active
+PR01259,Pantry Item 1259,Grocery,Pantry,Supplier A,6.36,11.76,A,Active
+PR01260,Printers Item 1260,Technology,Printers,Supplier J,92.64,248.21,A,Active
+PR01261,Bedding Item 1261,Home,Bedding,Supplier Q,14.34,33.45,A,Active
+PR01262,Paper Item 1262,Office Supplies,Paper,Supplier D,17.06,35.12,C,Active
+PR01263,Decor Item 1263,Home,Decor,Supplier I,32.83,87.28,C,Active
+PR01264,Beverages Item 1264,Grocery,Beverages,Supplier C,5.43,12.71,A,Active
+PR01265,Women Item 1265,Apparel,Women,Supplier P,51.49,71.33,A,Active
+PR01266,Men Item 1266,Apparel,Men,Supplier O,22.75,41.12,B,Active
+PR01267,Cleaning Item 1267,Home,Cleaning,Supplier N,8.99,17.18,A,Active
+PR01268,Binders Item 1268,Office Supplies,Binders,Supplier H,12.2,18.74,C,Active
+PR01269,Shelving Item 1269,Furniture,Shelving,Supplier P,48.99,62.01,A,Active
+PR01270,Lighting Item 1270,Home,Lighting,Supplier B,18.66,30.52,A,Active
+PR01271,Storage Item 1271,Furniture,Storage,Supplier R,110.96,307.96,A,Active
+PR01272,Snacks Item 1272,Grocery,Snacks,Supplier D,12.03,19.27,C,Active
+PR01273,Bedding Item 1273,Home,Bedding,Supplier I,18.41,44.32,C,Active
+PR01274,Art Item 1274,Office Supplies,Art,Supplier F,16.86,40.91,C,Active
+PR01275,Men Item 1275,Apparel,Men,Supplier E,39.94,68.47,C,Active
+PR01276,Chairs Item 1276,Furniture,Chairs,Supplier Q,163.06,301.96,A,Active
+PR01277,Kitchen Item 1277,Home,Kitchen,Supplier P,29.93,69.61,C,Discontinued
+PR01278,Shoes Item 1278,Apparel,Shoes,Supplier J,19.94,29.28,C,Active
+PR01279,Tables Item 1279,Furniture,Tables,Supplier C,142.79,370.14,C,Active
+PR01280,Paper Item 1280,Office Supplies,Paper,Supplier P,3.64,10.1,B,Discontinued
+PR01281,Fresh Item 1281,Grocery,Fresh,Supplier K,2.41,6.05,A,Active
+PR01282,Chairs Item 1282,Furniture,Chairs,Supplier R,109.34,169.36,C,Active
+PR01283,Frozen Item 1283,Grocery,Frozen,Supplier G,5.82,8.76,C,Active
+PR01284,Lighting Item 1284,Home,Lighting,Supplier C,26.27,52.49,B,Active
+PR01285,Monitors Item 1285,Technology,Monitors,Supplier L,150.93,375.49,A,Active
+PR01286,Labels Item 1286,Office Supplies,Labels,Supplier P,8.77,11.1,B,Active
+PR01287,Beverages Item 1287,Grocery,Beverages,Supplier C,2.48,4.99,C,Active
+PR01288,Kids Item 1288,Apparel,Kids,Supplier F,22.34,48.72,C,Active
+PR01289,Bedding Item 1289,Home,Bedding,Supplier L,17.35,30.83,C,Active
+PR01290,Labels Item 1290,Office Supplies,Labels,Supplier L,9.37,17.93,C,Active
+PR01291,Beverages Item 1291,Grocery,Beverages,Supplier A,3.34,8.19,C,Active
+PR01292,Decor Item 1292,Home,Decor,Supplier F,43.15,118.34,B,Active
+PR01293,Men Item 1293,Apparel,Men,Supplier E,10.73,15.87,A,Active
+PR01294,Decor Item 1294,Home,Decor,Supplier G,38.95,99.61,C,Active
+PR01295,Kids Item 1295,Apparel,Kids,Supplier C,25.55,51.39,A,Active
+PR01296,Beverages Item 1296,Grocery,Beverages,Supplier I,7.15,9.09,C,Active
+PR01297,Kids Item 1297,Apparel,Kids,Supplier L,16.3,22.82,B,Active
+PR01298,Pantry Item 1298,Grocery,Pantry,Supplier C,4.16,11.02,B,Active
+PR01299,Men Item 1299,Apparel,Men,Supplier P,26.03,57.33,C,Active
+PR01300,Beverages Item 1300,Grocery,Beverages,Supplier F,1.81,4.07,B,Active
+PR01301,Laptops Item 1301,Technology,Laptops,Supplier F,128.15,284.28,A,Active
+PR01302,Decor Item 1302,Home,Decor,Supplier P,54.18,88.7,B,Active
+PR01303,Printers Item 1303,Technology,Printers,Supplier O,52.17,132.57,B,Discontinued
+PR01304,Accessories Item 1304,Technology,Accessories,Supplier E,49.86,94.3,A,Active
+PR01305,Accessories Item 1305,Apparel,Accessories,Supplier B,9.21,24.93,B,Active
+PR01306,Cleaning Item 1306,Home,Cleaning,Supplier D,17.1,30.99,A,Active
+PR01307,Women Item 1307,Apparel,Women,Supplier A,23.85,65.73,C,Active
+PR01308,Bedding Item 1308,Home,Bedding,Supplier R,16.66,45.66,C,Discontinued
+PR01309,Pantry Item 1309,Grocery,Pantry,Supplier G,2.97,7.99,A,Active
+PR01310,Lighting Item 1310,Home,Lighting,Supplier K,10.18,20.77,A,Discontinued
+PR01311,Accessories Item 1311,Apparel,Accessories,Supplier L,34.62,56.66,B,Active
+PR01312,Bedding Item 1312,Home,Bedding,Supplier A,18.59,35.77,C,Active
+PR01313,Shelving Item 1313,Furniture,Shelving,Supplier M,95.08,121.71,C,Discontinued
+PR01314,Cleaning Item 1314,Home,Cleaning,Supplier N,23.18,32.55,C,Active
+PR01315,Cleaning Item 1315,Home,Cleaning,Supplier J,41.42,65.64,C,Active
+PR01316,Labels Item 1316,Office Supplies,Labels,Supplier F,5.5,12.78,B,Active
+PR01317,Women Item 1317,Apparel,Women,Supplier C,10.47,26.25,C,Active
+PR01318,Fresh Item 1318,Grocery,Fresh,Supplier F,3.72,4.73,A,Active
+PR01319,Decor Item 1319,Home,Decor,Supplier G,55.93,92.83,C,Active
+PR01320,Women Item 1320,Apparel,Women,Supplier P,20.32,29.53,A,Active
+PR01321,Envelopes Item 1321,Office Supplies,Envelopes,Supplier O,11.47,17.42,B,Active
+PR01322,Storage Item 1322,Furniture,Storage,Supplier N,39.36,106.37,B,Active
+PR01323,Beverages Item 1323,Grocery,Beverages,Supplier M,5.4,9.79,C,Active
+PR01324,Envelopes Item 1324,Office Supplies,Envelopes,Supplier L,11.41,27.05,A,Active
+PR01325,Kids Item 1325,Apparel,Kids,Supplier I,18.98,40.68,C,Active
+PR01326,Writing Item 1326,Office Supplies,Writing,Supplier R,6.4,16.59,A,Active
+PR01327,Women Item 1327,Apparel,Women,Supplier O,13.51,29.47,C,Active
+PR01328,Binders Item 1328,Office Supplies,Binders,Supplier I,4.12,10.74,B,Active
+PR01329,Accessories Item 1329,Apparel,Accessories,Supplier L,52.43,67.07,B,Active
+PR01330,Binders Item 1330,Office Supplies,Binders,Supplier R,6.84,9.7,C,Active
+PR01331,Storage Item 1331,Furniture,Storage,Supplier M,92.47,232.54,A,Active
+PR01332,Men Item 1332,Apparel,Men,Supplier L,20.02,46.5,A,Active
+PR01333,Monitors Item 1333,Technology,Monitors,Supplier K,88.25,196.32,B,Active
+PR01334,Beverages Item 1334,Grocery,Beverages,Supplier G,2.8,6.52,C,Active
+PR01335,Kitchen Item 1335,Home,Kitchen,Supplier P,24.27,32.5,A,Active
+PR01336,Writing Item 1336,Office Supplies,Writing,Supplier L,7.47,20.33,C,Active
+PR01337,Tables Item 1337,Furniture,Tables,Supplier N,97.28,179.08,B,Active
+PR01338,Shoes Item 1338,Apparel,Shoes,Supplier R,13.56,27.42,B,Discontinued
+PR01339,Accessories Item 1339,Technology,Accessories,Supplier H,69.77,94.62,C,Active
+PR01340,Men Item 1340,Apparel,Men,Supplier L,12.83,25.57,C,Active
+PR01341,Shelving Item 1341,Furniture,Shelving,Supplier K,85.44,153.06,C,Active
+PR01342,Shelving Item 1342,Furniture,Shelving,Supplier K,17.32,33.68,C,Active
+PR01343,Bedding Item 1343,Home,Bedding,Supplier I,8.63,12.0,C,Active
+PR01344,Lighting Item 1344,Home,Lighting,Supplier B,33.32,83.37,C,Active
+PR01345,Kitchen Item 1345,Home,Kitchen,Supplier A,22.02,56.14,A,Active
+PR01346,Shoes Item 1346,Apparel,Shoes,Supplier F,17.24,44.06,A,Active
+PR01347,Kitchen Item 1347,Home,Kitchen,Supplier G,36.33,76.97,B,Active
+PR01348,Cleaning Item 1348,Home,Cleaning,Supplier A,13.99,38.35,B,Discontinued
+PR01349,Men Item 1349,Apparel,Men,Supplier L,13.32,26.45,C,Active
+PR01350,Art Item 1350,Office Supplies,Art,Supplier Q,11.98,19.85,A,Active
+PR01351,Writing Item 1351,Office Supplies,Writing,Supplier O,4.84,7.82,B,Active
+PR01352,Monitors Item 1352,Technology,Monitors,Supplier J,54.01,143.27,C,Active
+PR01353,Tablets Item 1353,Technology,Tablets,Supplier C,59.63,130.41,A,Active
+PR01354,Men Item 1354,Apparel,Men,Supplier I,11.11,17.29,A,Active
+PR01355,Art Item 1355,Office Supplies,Art,Supplier D,5.86,13.44,B,Active
+PR01356,Pantry Item 1356,Grocery,Pantry,Supplier O,1.97,2.86,C,Active
+PR01357,Beverages Item 1357,Grocery,Beverages,Supplier Q,3.44,7.48,B,Discontinued
+PR01358,Monitors Item 1358,Technology,Monitors,Supplier J,80.14,161.09,C,Active
+PR01359,Smart Home Item 1359,Technology,Smart Home,Supplier G,100.45,125.78,C,Active
+PR01360,Art Item 1360,Office Supplies,Art,Supplier O,7.87,17.15,A,Active
+PR01361,Binders Item 1361,Office Supplies,Binders,Supplier N,8.08,10.39,B,Active
+PR01362,Shelving Item 1362,Furniture,Shelving,Supplier Q,148.53,250.32,A,Active
+PR01363,Printers Item 1363,Technology,Printers,Supplier L,74.78,150.77,A,Active
+PR01364,Kids Item 1364,Apparel,Kids,Supplier O,32.65,50.94,A,Active
+PR01365,Writing Item 1365,Office Supplies,Writing,Supplier Q,6.84,12.11,A,Active
+PR01366,Beverages Item 1366,Grocery,Beverages,Supplier E,5.74,9.95,B,Active
+PR01367,Kids Item 1367,Apparel,Kids,Supplier J,20.54,30.0,C,Active
+PR01368,Fresh Item 1368,Grocery,Fresh,Supplier P,7.03,17.44,A,Discontinued
+PR01369,Laptops Item 1369,Technology,Laptops,Supplier E,98.96,199.34,A,Active
+PR01370,Shelving Item 1370,Furniture,Shelving,Supplier C,46.87,65.16,C,Active
+PR01371,Decor Item 1371,Home,Decor,Supplier J,36.26,77.83,A,Active
+PR01372,Kitchen Item 1372,Home,Kitchen,Supplier H,19.48,43.42,A,Active
+PR01373,Women Item 1373,Apparel,Women,Supplier P,27.03,60.78,B,Active
+PR01374,Kitchen Item 1374,Home,Kitchen,Supplier R,8.74,20.53,B,Active
+PR01375,Lighting Item 1375,Home,Lighting,Supplier H,27.26,43.9,A,Active
+PR01376,Women Item 1376,Apparel,Women,Supplier A,17.83,23.13,B,Active
+PR01377,Tables Item 1377,Furniture,Tables,Supplier B,50.78,117.02,A,Active
+PR01378,Chairs Item 1378,Furniture,Chairs,Supplier Q,70.39,95.93,A,Active
+PR01379,Monitors Item 1379,Technology,Monitors,Supplier A,71.18,109.32,B,Active
+PR01380,Men Item 1380,Apparel,Men,Supplier Q,12.38,21.93,C,Active
+PR01381,Smart Home Item 1381,Technology,Smart Home,Supplier Q,113.39,142.36,B,Active
+PR01382,Women Item 1382,Apparel,Women,Supplier J,13.29,35.43,C,Active
+PR01383,Lighting Item 1383,Home,Lighting,Supplier O,26.14,68.75,A,Active
+PR01384,Chairs Item 1384,Furniture,Chairs,Supplier R,137.22,261.87,A,Active
+PR01385,Art Item 1385,Office Supplies,Art,Supplier D,9.18,22.43,C,Active
+PR01386,Tablets Item 1386,Technology,Tablets,Supplier D,306.99,458.15,B,Active
+PR01387,Tables Item 1387,Furniture,Tables,Supplier P,98.71,260.94,C,Active
+PR01388,Shelving Item 1388,Furniture,Shelving,Supplier C,75.68,126.68,B,Active
+PR01389,Women Item 1389,Apparel,Women,Supplier E,19.82,43.65,C,Active
+PR01390,Shoes Item 1390,Apparel,Shoes,Supplier H,36.12,54.07,B,Active
+PR01391,Lighting Item 1391,Home,Lighting,Supplier N,13.24,32.92,A,Active
+PR01392,Lighting Item 1392,Home,Lighting,Supplier C,12.08,29.37,C,Active
+PR01393,Printers Item 1393,Technology,Printers,Supplier M,230.73,640.13,C,Active
+PR01394,Labels Item 1394,Office Supplies,Labels,Supplier Q,8.68,17.06,A,Active
+PR01395,Women Item 1395,Apparel,Women,Supplier J,5.85,14.39,A,Active
+PR01396,Art Item 1396,Office Supplies,Art,Supplier F,9.42,16.47,C,Active
+PR01397,Binders Item 1397,Office Supplies,Binders,Supplier K,2.8,7.08,A,Active
+PR01398,Printers Item 1398,Technology,Printers,Supplier H,50.76,93.97,B,Active
+PR01399,Men Item 1399,Apparel,Men,Supplier F,37.09,54.96,B,Active
+PR01400,Cleaning Item 1400,Home,Cleaning,Supplier K,9.05,15.27,B,Active
+PR01401,Accessories Item 1401,Apparel,Accessories,Supplier J,10.76,24.74,C,Active
+PR01402,Shelving Item 1402,Furniture,Shelving,Supplier G,153.16,228.0,C,Active
+PR01403,Women Item 1403,Apparel,Women,Supplier L,46.04,87.96,A,Active
+PR01404,Cleaning Item 1404,Home,Cleaning,Supplier F,36.98,58.64,C,Active
+PR01405,Men Item 1405,Apparel,Men,Supplier Q,30.2,82.62,A,Active
+PR01406,Lighting Item 1406,Home,Lighting,Supplier L,46.14,84.04,A,Active
+PR01407,Accessories Item 1407,Technology,Accessories,Supplier L,172.72,445.92,B,Active
+PR01408,Women Item 1408,Apparel,Women,Supplier J,12.39,27.42,C,Discontinued
+PR01409,Pantry Item 1409,Grocery,Pantry,Supplier A,7.36,12.49,A,Active
+PR01410,Envelopes Item 1410,Office Supplies,Envelopes,Supplier I,18.5,49.42,A,Discontinued
+PR01411,Frozen Item 1411,Grocery,Frozen,Supplier N,7.33,10.49,B,Active
+PR01412,Tables Item 1412,Furniture,Tables,Supplier H,60.27,164.88,C,Active
+PR01413,Tablets Item 1413,Technology,Tablets,Supplier P,115.25,190.39,B,Active
+PR01414,Lighting Item 1414,Home,Lighting,Supplier G,15.6,24.46,C,Discontinued
+PR01415,Women Item 1415,Apparel,Women,Supplier A,29.09,73.54,A,Active
+PR01416,Accessories Item 1416,Technology,Accessories,Supplier F,102.82,234.5,B,Active
+PR01417,Paper Item 1417,Office Supplies,Paper,Supplier K,12.72,28.6,B,Active
+PR01418,Accessories Item 1418,Apparel,Accessories,Supplier K,18.97,36.33,A,Active
+PR01419,Tablets Item 1419,Technology,Tablets,Supplier A,264.66,497.37,A,Active
+PR01420,Labels Item 1420,Office Supplies,Labels,Supplier M,3.19,5.36,C,Active
+PR01421,Chairs Item 1421,Furniture,Chairs,Supplier A,50.0,90.66,C,Active
+PR01422,Tables Item 1422,Furniture,Tables,Supplier M,122.24,219.78,B,Active
+PR01423,Men Item 1423,Apparel,Men,Supplier N,9.66,17.77,C,Active
+PR01424,Women Item 1424,Apparel,Women,Supplier L,45.73,123.54,B,Active
+PR01425,Decor Item 1425,Home,Decor,Supplier D,11.91,21.32,B,Active
+PR01426,Writing Item 1426,Office Supplies,Writing,Supplier O,4.7,8.6,A,Active
+PR01427,Accessories Item 1427,Technology,Accessories,Supplier C,120.09,274.85,C,Active
+PR01428,Fresh Item 1428,Grocery,Fresh,Supplier C,1.87,3.07,A,Active
+PR01429,Lighting Item 1429,Home,Lighting,Supplier F,40.98,100.68,C,Active
+PR01430,Printers Item 1430,Technology,Printers,Supplier R,105.45,229.22,B,Discontinued
+PR01431,Laptops Item 1431,Technology,Laptops,Supplier Q,79.77,126.64,B,Active
+PR01432,Binders Item 1432,Office Supplies,Binders,Supplier D,11.83,23.13,C,Active
+PR01433,Kitchen Item 1433,Home,Kitchen,Supplier Q,27.61,43.48,C,Discontinued
+PR01434,Smart Home Item 1434,Technology,Smart Home,Supplier H,229.16,584.94,C,Active
+PR01435,Labels Item 1435,Office Supplies,Labels,Supplier Q,7.09,18.93,A,Active
+PR01436,Envelopes Item 1436,Office Supplies,Envelopes,Supplier N,4.2,10.38,C,Active
+PR01437,Frozen Item 1437,Grocery,Frozen,Supplier N,3.69,9.1,B,Discontinued
+PR01438,Lighting Item 1438,Home,Lighting,Supplier E,22.56,61.48,C,Active
+PR01439,Snacks Item 1439,Grocery,Snacks,Supplier M,2.02,2.58,C,Active
+PR01440,Shoes Item 1440,Apparel,Shoes,Supplier A,18.67,39.72,C,Active
+PR01441,Desks Item 1441,Furniture,Desks,Supplier I,129.12,227.18,C,Active
+PR01442,Accessories Item 1442,Technology,Accessories,Supplier F,124.86,299.58,A,Active
+PR01443,Monitors Item 1443,Technology,Monitors,Supplier B,103.18,266.35,A,Active
+PR01444,Paper Item 1444,Office Supplies,Paper,Supplier M,6.53,17.77,B,Active
+PR01445,Binders Item 1445,Office Supplies,Binders,Supplier D,9.15,19.31,B,Active
+PR01446,Women Item 1446,Apparel,Women,Supplier R,12.94,18.32,B,Discontinued
+PR01447,Beverages Item 1447,Grocery,Beverages,Supplier N,3.86,6.51,B,Active
+PR01448,Decor Item 1448,Home,Decor,Supplier H,14.89,19.69,C,Active
+PR01449,Bedding Item 1449,Home,Bedding,Supplier C,17.51,35.0,B,Active
+PR01450,Shoes Item 1450,Apparel,Shoes,Supplier I,22.6,28.39,B,Active
+PR01451,Tables Item 1451,Furniture,Tables,Supplier K,55.82,142.03,A,Active
+PR01452,Tables Item 1452,Furniture,Tables,Supplier F,122.42,265.51,B,Active
+PR01453,Binders Item 1453,Office Supplies,Binders,Supplier G,14.71,27.44,A,Active
+PR01454,Accessories Item 1454,Apparel,Accessories,Supplier I,9.8,18.14,A,Active
+PR01455,Kids Item 1455,Apparel,Kids,Supplier D,16.99,34.86,A,Active
+PR01456,Lighting Item 1456,Home,Lighting,Supplier A,21.75,32.25,C,Active
+PR01457,Art Item 1457,Office Supplies,Art,Supplier P,4.57,6.3,A,Active
+PR01458,Women Item 1458,Apparel,Women,Supplier K,30.87,43.53,C,Active
+PR01459,Shelving Item 1459,Furniture,Shelving,Supplier G,27.66,48.93,C,Active
+PR01460,Accessories Item 1460,Technology,Accessories,Supplier K,320.97,700.85,B,Active
+PR01461,Kids Item 1461,Apparel,Kids,Supplier I,21.73,31.05,C,Active
+PR01462,Desks Item 1462,Furniture,Desks,Supplier J,112.62,185.05,B,Active
+PR01463,Printers Item 1463,Technology,Printers,Supplier I,87.43,241.63,B,Active
+PR01464,Desks Item 1464,Furniture,Desks,Supplier B,148.56,295.42,A,Active
+PR01465,Monitors Item 1465,Technology,Monitors,Supplier A,140.2,359.55,B,Active
+PR01466,Beverages Item 1466,Grocery,Beverages,Supplier B,4.3,10.23,B,Active
+PR01467,Fresh Item 1467,Grocery,Fresh,Supplier P,4.85,10.09,A,Active
+PR01468,Smart Home Item 1468,Technology,Smart Home,Supplier J,83.87,229.13,B,Active
+PR01469,Fresh Item 1469,Grocery,Fresh,Supplier P,3.18,8.76,A,Active
+PR01470,Bedding Item 1470,Home,Bedding,Supplier O,44.75,105.89,C,Discontinued
+PR01471,Decor Item 1471,Home,Decor,Supplier R,35.36,74.35,C,Active
+PR01472,Art Item 1472,Office Supplies,Art,Supplier I,7.44,10.76,A,Active
+PR01473,Printers Item 1473,Technology,Printers,Supplier A,82.69,179.9,B,Active
+PR01474,Snacks Item 1474,Grocery,Snacks,Supplier K,4.56,7.56,B,Active
+PR01475,Smart Home Item 1475,Technology,Smart Home,Supplier C,195.39,280.76,A,Active
+PR01476,Tablets Item 1476,Technology,Tablets,Supplier K,153.47,201.18,C,Active
+PR01477,Shelving Item 1477,Furniture,Shelving,Supplier N,159.56,246.13,A,Active
+PR01478,Chairs Item 1478,Furniture,Chairs,Supplier L,118.19,266.92,B,Active
+PR01479,Laptops Item 1479,Technology,Laptops,Supplier G,212.28,294.22,C,Active
+PR01480,Smart Home Item 1480,Technology,Smart Home,Supplier L,236.76,352.39,A,Active
+PR01481,Kids Item 1481,Apparel,Kids,Supplier D,9.87,17.7,C,Active
+PR01482,Beverages Item 1482,Grocery,Beverages,Supplier I,5.75,14.85,B,Active
+PR01483,Tablets Item 1483,Technology,Tablets,Supplier P,57.71,114.49,A,Discontinued
+PR01484,Envelopes Item 1484,Office Supplies,Envelopes,Supplier A,11.44,22.96,A,Active
+PR01485,Chairs Item 1485,Furniture,Chairs,Supplier I,93.99,147.21,B,Active
+PR01486,Paper Item 1486,Office Supplies,Paper,Supplier Q,17.44,45.69,B,Active
+PR01487,Art Item 1487,Office Supplies,Art,Supplier A,8.57,16.97,C,Active
+PR01488,Lighting Item 1488,Home,Lighting,Supplier K,29.34,38.26,A,Active
+PR01489,Smart Home Item 1489,Technology,Smart Home,Supplier J,80.98,141.11,A,Discontinued
+PR01490,Lighting Item 1490,Home,Lighting,Supplier N,38.18,63.0,B,Active
+PR01491,Paper Item 1491,Office Supplies,Paper,Supplier M,3.29,6.64,B,Active
+PR01492,Kitchen Item 1492,Home,Kitchen,Supplier A,12.83,23.23,C,Active
+PR01493,Laptops Item 1493,Technology,Laptops,Supplier H,86.84,142.03,B,Active
+PR01494,Accessories Item 1494,Apparel,Accessories,Supplier F,13.2,27.76,A,Active
+PR01495,Accessories Item 1495,Technology,Accessories,Supplier L,104.41,276.14,A,Active
+PR01496,Women Item 1496,Apparel,Women,Supplier O,27.1,40.28,B,Active
+PR01497,Labels Item 1497,Office Supplies,Labels,Supplier F,7.92,13.33,B,Active
+PR01498,Monitors Item 1498,Technology,Monitors,Supplier Q,82.15,151.68,C,Active
+PR01499,Laptops Item 1499,Technology,Laptops,Supplier M,178.44,342.85,C,Active
+PR01500,Accessories Item 1500,Technology,Accessories,Supplier A,207.62,474.5,A,Active
+PR01501,Kitchen Item 1501,Home,Kitchen,Supplier H,36.37,96.55,C,Active
+PR01502,Accessories Item 1502,Apparel,Accessories,Supplier H,19.72,30.19,A,Active
+PR01503,Decor Item 1503,Home,Decor,Supplier E,22.96,63.71,A,Active
+PR01504,Tablets Item 1504,Technology,Tablets,Supplier J,100.56,226.22,A,Active
+PR01505,Cleaning Item 1505,Home,Cleaning,Supplier I,17.27,35.42,A,Active
+PR01506,Lighting Item 1506,Home,Lighting,Supplier L,28.56,59.94,B,Active
+PR01507,Tablets Item 1507,Technology,Tablets,Supplier F,157.65,413.8,C,Active
+PR01508,Smart Home Item 1508,Technology,Smart Home,Supplier J,87.23,138.68,A,Discontinued
+PR01509,Pantry Item 1509,Grocery,Pantry,Supplier P,2.02,2.92,B,Discontinued
+PR01510,Lighting Item 1510,Home,Lighting,Supplier R,21.73,44.48,C,Discontinued
+PR01511,Fresh Item 1511,Grocery,Fresh,Supplier N,2.88,4.34,A,Active
+PR01512,Binders Item 1512,Office Supplies,Binders,Supplier H,5.86,16.06,A,Discontinued
+PR01513,Shoes Item 1513,Apparel,Shoes,Supplier I,16.53,33.4,C,Active
+PR01514,Accessories Item 1514,Technology,Accessories,Supplier Q,97.4,234.67,A,Active
+PR01515,Decor Item 1515,Home,Decor,Supplier Q,31.64,72.03,C,Active
+PR01516,Monitors Item 1516,Technology,Monitors,Supplier J,93.81,151.22,A,Active
+PR01517,Accessories Item 1517,Apparel,Accessories,Supplier L,21.36,49.73,C,Active
+PR01518,Women Item 1518,Apparel,Women,Supplier A,38.74,105.95,C,Active
+PR01519,Envelopes Item 1519,Office Supplies,Envelopes,Supplier E,11.49,22.07,B,Active
+PR01520,Accessories Item 1520,Technology,Accessories,Supplier F,243.85,610.98,B,Active
+PR01521,Fresh Item 1521,Grocery,Fresh,Supplier B,3.48,4.7,C,Active
+PR01522,Paper Item 1522,Office Supplies,Paper,Supplier J,10.22,26.82,C,Active
+PR01523,Storage Item 1523,Furniture,Storage,Supplier R,112.71,275.61,B,Active
+PR01524,Tablets Item 1524,Technology,Tablets,Supplier I,133.63,277.73,C,Active
+PR01525,Cleaning Item 1525,Home,Cleaning,Supplier D,24.46,48.28,B,Active
+PR01526,Desks Item 1526,Furniture,Desks,Supplier M,39.16,85.3,C,Discontinued
+PR01527,Men Item 1527,Apparel,Men,Supplier R,40.2,97.96,C,Active
+PR01528,Kitchen Item 1528,Home,Kitchen,Supplier J,21.98,38.21,A,Active
+PR01529,Accessories Item 1529,Apparel,Accessories,Supplier P,9.61,20.17,C,Active
+PR01530,Kids Item 1530,Apparel,Kids,Supplier A,13.39,36.79,C,Active
+PR01531,Smart Home Item 1531,Technology,Smart Home,Supplier B,156.31,410.65,C,Discontinued
+PR01532,Tables Item 1532,Furniture,Tables,Supplier E,96.0,176.51,C,Active
+PR01533,Accessories Item 1533,Apparel,Accessories,Supplier K,17.62,29.35,A,Active
+PR01534,Accessories Item 1534,Technology,Accessories,Supplier D,280.75,577.25,A,Active
+PR01535,Storage Item 1535,Furniture,Storage,Supplier A,37.53,86.58,C,Active
+PR01536,Cleaning Item 1536,Home,Cleaning,Supplier Q,16.7,33.37,B,Discontinued
+PR01537,Decor Item 1537,Home,Decor,Supplier A,55.12,95.25,A,Active
+PR01538,Laptops Item 1538,Technology,Laptops,Supplier A,251.16,650.6,B,Active
+PR01539,Tables Item 1539,Furniture,Tables,Supplier P,154.91,317.99,C,Active
+PR01540,Paper Item 1540,Office Supplies,Paper,Supplier P,6.01,10.1,B,Active
+PR01541,Envelopes Item 1541,Office Supplies,Envelopes,Supplier E,9.25,17.97,C,Active
+PR01542,Fresh Item 1542,Grocery,Fresh,Supplier P,1.88,4.59,C,Active
+PR01543,Beverages Item 1543,Grocery,Beverages,Supplier C,4.99,7.52,C,Active
+PR01544,Women Item 1544,Apparel,Women,Supplier M,10.12,25.21,A,Active
+PR01545,Accessories Item 1545,Apparel,Accessories,Supplier N,24.26,32.53,A,Active
+PR01546,Bedding Item 1546,Home,Bedding,Supplier C,24.78,38.4,C,Active
+PR01547,Accessories Item 1547,Apparel,Accessories,Supplier L,9.78,17.23,B,Active
+PR01548,Shelving Item 1548,Furniture,Shelving,Supplier A,77.43,215.61,A,Active
+PR01549,Envelopes Item 1549,Office Supplies,Envelopes,Supplier G,9.41,13.79,B,Active
+PR01550,Bedding Item 1550,Home,Bedding,Supplier M,30.38,48.71,B,Active
+PR01551,Shoes Item 1551,Apparel,Shoes,Supplier I,7.13,14.98,A,Active
+PR01552,Desks Item 1552,Furniture,Desks,Supplier O,27.69,41.47,C,Active
+PR01553,Men Item 1553,Apparel,Men,Supplier C,40.24,83.19,A,Active
+PR01554,Laptops Item 1554,Technology,Laptops,Supplier O,146.4,224.29,A,Discontinued
+PR01555,Shoes Item 1555,Apparel,Shoes,Supplier G,46.62,114.25,A,Active
+PR01556,Tables Item 1556,Furniture,Tables,Supplier L,91.16,234.4,B,Active
+PR01557,Smart Home Item 1557,Technology,Smart Home,Supplier I,44.09,80.52,C,Active
+PR01558,Writing Item 1558,Office Supplies,Writing,Supplier B,7.37,16.56,A,Active
+PR01559,Writing Item 1559,Office Supplies,Writing,Supplier F,12.03,30.32,C,Active
+PR01560,Women Item 1560,Apparel,Women,Supplier F,24.26,34.99,B,Active
+PR01561,Accessories Item 1561,Apparel,Accessories,Supplier P,15.77,24.39,A,Active
+PR01562,Storage Item 1562,Furniture,Storage,Supplier F,52.98,75.42,A,Active
+PR01563,Accessories Item 1563,Apparel,Accessories,Supplier B,24.87,61.92,A,Active
+PR01564,Shoes Item 1564,Apparel,Shoes,Supplier I,24.65,68.5,C,Active
+PR01565,Chairs Item 1565,Furniture,Chairs,Supplier M,86.95,209.41,C,Discontinued
+PR01566,Writing Item 1566,Office Supplies,Writing,Supplier I,16.22,43.01,A,Active
+PR01567,Chairs Item 1567,Furniture,Chairs,Supplier Q,96.35,163.52,C,Discontinued
+PR01568,Pantry Item 1568,Grocery,Pantry,Supplier O,5.71,10.73,B,Active
+PR01569,Bedding Item 1569,Home,Bedding,Supplier I,32.16,71.54,C,Active
+PR01570,Frozen Item 1570,Grocery,Frozen,Supplier H,5.29,14.34,C,Active
+PR01571,Kitchen Item 1571,Home,Kitchen,Supplier P,24.59,44.73,C,Active
+PR01572,Binders Item 1572,Office Supplies,Binders,Supplier P,4.48,11.15,C,Active
+PR01573,Shoes Item 1573,Apparel,Shoes,Supplier G,7.52,19.56,C,Active
+PR01574,Printers Item 1574,Technology,Printers,Supplier J,91.56,225.02,B,Active
+PR01575,Tablets Item 1575,Technology,Tablets,Supplier O,271.98,570.69,C,Active
+PR01576,Women Item 1576,Apparel,Women,Supplier E,8.46,10.98,B,Active
+PR01577,Monitors Item 1577,Technology,Monitors,Supplier D,70.51,184.12,C,Active
+PR01578,Printers Item 1578,Technology,Printers,Supplier P,94.76,220.1,A,Active
+PR01579,Bedding Item 1579,Home,Bedding,Supplier F,17.43,32.44,C,Active
+PR01580,Fresh Item 1580,Grocery,Fresh,Supplier O,4.63,7.25,B,Active
+PR01581,Kids Item 1581,Apparel,Kids,Supplier A,22.91,43.93,B,Active
+PR01582,Desks Item 1582,Furniture,Desks,Supplier N,70.79,151.76,B,Active
+PR01583,Smart Home Item 1583,Technology,Smart Home,Supplier J,299.19,497.87,B,Active
+PR01584,Snacks Item 1584,Grocery,Snacks,Supplier P,4.27,7.04,C,Active
+PR01585,Accessories Item 1585,Technology,Accessories,Supplier L,141.84,390.22,A,Active
+PR01586,Frozen Item 1586,Grocery,Frozen,Supplier H,1.42,2.58,C,Active
+PR01587,Cleaning Item 1587,Home,Cleaning,Supplier M,13.05,32.77,A,Active
+PR01588,Snacks Item 1588,Grocery,Snacks,Supplier G,9.33,12.33,A,Active
+PR01589,Men Item 1589,Apparel,Men,Supplier Q,17.09,24.34,C,Active
+PR01590,Bedding Item 1590,Home,Bedding,Supplier F,14.35,23.58,C,Active
+PR01591,Laptops Item 1591,Technology,Laptops,Supplier G,177.7,436.96,B,Active
+PR01592,Decor Item 1592,Home,Decor,Supplier Q,20.23,31.97,B,Active
+PR01593,Bedding Item 1593,Home,Bedding,Supplier K,64.8,165.92,A,Active
+PR01594,Art Item 1594,Office Supplies,Art,Supplier H,18.45,28.3,C,Active
+PR01595,Frozen Item 1595,Grocery,Frozen,Supplier R,3.51,7.05,A,Active
+PR01596,Laptops Item 1596,Technology,Laptops,Supplier L,49.46,107.16,B,Active
+PR01597,Beverages Item 1597,Grocery,Beverages,Supplier G,2.35,5.22,A,Active
+PR01598,Accessories Item 1598,Apparel,Accessories,Supplier G,32.64,65.85,C,Active
+PR01599,Cleaning Item 1599,Home,Cleaning,Supplier G,27.71,77.53,C,Active
+PR01600,Kids Item 1600,Apparel,Kids,Supplier E,18.72,29.41,B,Active
+PR01601,Cleaning Item 1601,Home,Cleaning,Supplier A,24.71,42.87,B,Active
+PR01602,Kitchen Item 1602,Home,Kitchen,Supplier E,14.68,23.02,A,Active
+PR01603,Shoes Item 1603,Apparel,Shoes,Supplier P,6.06,8.81,A,Active
+PR01604,Chairs Item 1604,Furniture,Chairs,Supplier M,93.02,164.8,B,Active
+PR01605,Printers Item 1605,Technology,Printers,Supplier H,69.35,96.95,B,Active
+PR01606,Men Item 1606,Apparel,Men,Supplier A,17.4,22.68,B,Active
+PR01607,Art Item 1607,Office Supplies,Art,Supplier D,12.39,16.31,A,Active
+PR01608,Kids Item 1608,Apparel,Kids,Supplier B,7.2,19.49,B,Active
+PR01609,Accessories Item 1609,Technology,Accessories,Supplier G,202.73,306.87,B,Active
+PR01610,Fresh Item 1610,Grocery,Fresh,Supplier P,4.38,7.51,C,Active
+PR01611,Shoes Item 1611,Apparel,Shoes,Supplier F,27.06,55.82,C,Active
+PR01612,Envelopes Item 1612,Office Supplies,Envelopes,Supplier Q,12.16,21.57,C,Active
+PR01613,Storage Item 1613,Furniture,Storage,Supplier J,75.99,181.28,C,Active
+PR01614,Desks Item 1614,Furniture,Desks,Supplier F,220.85,359.24,A,Discontinued
+PR01615,Pantry Item 1615,Grocery,Pantry,Supplier H,3.32,8.45,A,Active
+PR01616,Beverages Item 1616,Grocery,Beverages,Supplier D,18.68,35.67,C,Active
+PR01617,Storage Item 1617,Furniture,Storage,Supplier B,22.87,52.05,C,Active
+PR01618,Tables Item 1618,Furniture,Tables,Supplier E,57.31,122.31,A,Active
+PR01619,Envelopes Item 1619,Office Supplies,Envelopes,Supplier K,5.68,12.1,B,Active
+PR01620,Labels Item 1620,Office Supplies,Labels,Supplier N,40.36,61.32,A,Active
+PR01621,Snacks Item 1621,Grocery,Snacks,Supplier A,24.08,62.17,B,Active
+PR01622,Envelopes Item 1622,Office Supplies,Envelopes,Supplier M,10.86,20.33,B,Active
+PR01623,Snacks Item 1623,Grocery,Snacks,Supplier C,2.94,7.05,C,Active
+PR01624,Binders Item 1624,Office Supplies,Binders,Supplier M,3.8,9.7,B,Active
+PR01625,Chairs Item 1625,Furniture,Chairs,Supplier L,95.99,161.54,B,Active
+PR01626,Printers Item 1626,Technology,Printers,Supplier E,86.89,179.7,C,Active
+PR01627,Writing Item 1627,Office Supplies,Writing,Supplier C,3.34,8.47,C,Active
+PR01628,Bedding Item 1628,Home,Bedding,Supplier O,25.34,53.33,A,Active
+PR01629,Snacks Item 1629,Grocery,Snacks,Supplier O,4.37,10.71,B,Active
+PR01630,Binders Item 1630,Office Supplies,Binders,Supplier O,11.84,25.61,B,Active
+PR01631,Shoes Item 1631,Apparel,Shoes,Supplier Q,70.22,110.42,A,Active
+PR01632,Art Item 1632,Office Supplies,Art,Supplier D,17.73,46.22,C,Discontinued
+PR01633,Accessories Item 1633,Technology,Accessories,Supplier P,127.79,349.52,B,Discontinued
+PR01634,Beverages Item 1634,Grocery,Beverages,Supplier A,9.13,13.24,A,Active
+PR01635,Smart Home Item 1635,Technology,Smart Home,Supplier C,66.95,86.74,A,Active
+PR01636,Laptops Item 1636,Technology,Laptops,Supplier D,307.63,504.85,C,Active
+PR01637,Men Item 1637,Apparel,Men,Supplier D,8.58,12.77,C,Active
+PR01638,Printers Item 1638,Technology,Printers,Supplier P,62.71,135.81,C,Active
+PR01639,Women Item 1639,Apparel,Women,Supplier O,62.3,171.47,A,Active
+PR01640,Women Item 1640,Apparel,Women,Supplier Q,15.7,38.97,C,Active
+PR01641,Beverages Item 1641,Grocery,Beverages,Supplier C,3.93,9.8,A,Active
+PR01642,Binders Item 1642,Office Supplies,Binders,Supplier I,8.13,19.41,C,Active
+PR01643,Printers Item 1643,Technology,Printers,Supplier G,109.78,159.56,B,Active
+PR01644,Chairs Item 1644,Furniture,Chairs,Supplier N,53.6,148.22,C,Active
+PR01645,Accessories Item 1645,Technology,Accessories,Supplier F,118.75,265.33,A,Active
+PR01646,Snacks Item 1646,Grocery,Snacks,Supplier K,2.0,4.02,B,Active
+PR01647,Cleaning Item 1647,Home,Cleaning,Supplier L,41.87,62.76,A,Active
+PR01648,Labels Item 1648,Office Supplies,Labels,Supplier F,6.82,9.55,C,Active
+PR01649,Chairs Item 1649,Furniture,Chairs,Supplier F,284.02,560.24,C,Active
+PR01650,Decor Item 1650,Home,Decor,Supplier N,37.17,78.31,A,Active
+PR01651,Laptops Item 1651,Technology,Laptops,Supplier D,295.29,762.45,B,Active
+PR01652,Storage Item 1652,Furniture,Storage,Supplier P,28.4,70.21,A,Active
+PR01653,Paper Item 1653,Office Supplies,Paper,Supplier H,2.48,5.33,C,Active
+PR01654,Kids Item 1654,Apparel,Kids,Supplier L,32.73,82.58,A,Active
+PR01655,Accessories Item 1655,Apparel,Accessories,Supplier N,26.16,71.95,B,Active
+PR01656,Paper Item 1656,Office Supplies,Paper,Supplier O,8.86,20.72,A,Active
+PR01657,Beverages Item 1657,Grocery,Beverages,Supplier J,5.57,13.85,A,Active
+PR01658,Fresh Item 1658,Grocery,Fresh,Supplier M,1.73,4.38,C,Active
+PR01659,Kitchen Item 1659,Home,Kitchen,Supplier Q,33.61,66.28,A,Active
+PR01660,Tables Item 1660,Furniture,Tables,Supplier K,147.8,335.36,C,Active
+PR01661,Tablets Item 1661,Technology,Tablets,Supplier C,346.1,870.27,A,Active
+PR01662,Binders Item 1662,Office Supplies,Binders,Supplier R,20.16,36.74,C,Active
+PR01663,Chairs Item 1663,Furniture,Chairs,Supplier F,59.0,97.66,A,Active
+PR01664,Kids Item 1664,Apparel,Kids,Supplier G,22.03,38.93,A,Active
+PR01665,Art Item 1665,Office Supplies,Art,Supplier L,8.29,21.64,A,Active
+PR01666,Snacks Item 1666,Grocery,Snacks,Supplier H,3.08,5.42,C,Active
+PR01667,Cleaning Item 1667,Home,Cleaning,Supplier B,11.93,26.36,C,Active
+PR01668,Smart Home Item 1668,Technology,Smart Home,Supplier D,60.32,145.23,C,Active
+PR01669,Decor Item 1669,Home,Decor,Supplier M,24.84,42.48,A,Active
+PR01670,Accessories Item 1670,Technology,Accessories,Supplier C,235.14,329.93,C,Active
+PR01671,Accessories Item 1671,Technology,Accessories,Supplier B,103.96,238.52,A,Active
+PR01672,Beverages Item 1672,Grocery,Beverages,Supplier B,5.69,11.61,A,Active
+PR01673,Chairs Item 1673,Furniture,Chairs,Supplier C,150.95,292.83,B,Active
+PR01674,Snacks Item 1674,Grocery,Snacks,Supplier R,6.37,9.91,A,Active
+PR01675,Printers Item 1675,Technology,Printers,Supplier A,204.3,398.41,A,Active
+PR01676,Kitchen Item 1676,Home,Kitchen,Supplier E,28.21,37.49,B,Active
+PR01677,Envelopes Item 1677,Office Supplies,Envelopes,Supplier I,4.04,9.29,A,Active
+PR01678,Laptops Item 1678,Technology,Laptops,Supplier C,120.19,221.43,A,Active
+PR01679,Envelopes Item 1679,Office Supplies,Envelopes,Supplier F,15.11,39.68,B,Active
+PR01680,Lighting Item 1680,Home,Lighting,Supplier H,8.86,14.1,C,Active
+PR01681,Envelopes Item 1681,Office Supplies,Envelopes,Supplier L,11.59,26.34,A,Active
+PR01682,Cleaning Item 1682,Home,Cleaning,Supplier B,28.43,38.37,A,Active
+PR01683,Binders Item 1683,Office Supplies,Binders,Supplier R,6.01,7.72,C,Active
+PR01684,Women Item 1684,Apparel,Women,Supplier O,26.78,38.4,C,Active
+PR01685,Bedding Item 1685,Home,Bedding,Supplier J,15.83,43.14,A,Discontinued
+PR01686,Bedding Item 1686,Home,Bedding,Supplier B,16.29,43.79,B,Active
+PR01687,Shoes Item 1687,Apparel,Shoes,Supplier L,23.71,46.08,B,Active
+PR01688,Lighting Item 1688,Home,Lighting,Supplier I,18.37,24.43,C,Active
+PR01689,Labels Item 1689,Office Supplies,Labels,Supplier E,17.45,37.43,C,Discontinued
+PR01690,Paper Item 1690,Office Supplies,Paper,Supplier I,6.82,18.6,C,Active
+PR01691,Writing Item 1691,Office Supplies,Writing,Supplier G,15.95,32.89,C,Active
+PR01692,Cleaning Item 1692,Home,Cleaning,Supplier R,15.65,24.74,A,Discontinued
+PR01693,Kitchen Item 1693,Home,Kitchen,Supplier C,10.21,23.58,C,Discontinued
+PR01694,Beverages Item 1694,Grocery,Beverages,Supplier D,3.35,7.84,C,Active
+PR01695,Lighting Item 1695,Home,Lighting,Supplier O,23.52,53.94,A,Active
+PR01696,Tables Item 1696,Furniture,Tables,Supplier R,143.16,341.92,B,Active
+PR01697,Decor Item 1697,Home,Decor,Supplier M,12.49,22.41,C,Discontinued
+PR01698,Tablets Item 1698,Technology,Tablets,Supplier C,131.11,185.83,A,Active
+PR01699,Beverages Item 1699,Grocery,Beverages,Supplier F,7.94,18.41,C,Active
+PR01700,Smart Home Item 1700,Technology,Smart Home,Supplier F,113.42,191.23,C,Active
+PR01701,Monitors Item 1701,Technology,Monitors,Supplier J,116.99,213.92,A,Active
+PR01702,Labels Item 1702,Office Supplies,Labels,Supplier C,5.18,7.08,A,Active
+PR01703,Snacks Item 1703,Grocery,Snacks,Supplier M,3.03,6.43,B,Active
+PR01704,Decor Item 1704,Home,Decor,Supplier F,30.01,67.42,C,Active
+PR01705,Shelving Item 1705,Furniture,Shelving,Supplier L,41.74,65.65,B,Active
+PR01706,Shelving Item 1706,Furniture,Shelving,Supplier E,160.35,361.03,A,Active
+PR01707,Beverages Item 1707,Grocery,Beverages,Supplier A,8.34,20.26,A,Active
+PR01708,Women Item 1708,Apparel,Women,Supplier J,8.03,18.77,C,Active
+PR01709,Envelopes Item 1709,Office Supplies,Envelopes,Supplier E,29.43,46.19,B,Active
+PR01710,Decor Item 1710,Home,Decor,Supplier Q,49.65,96.28,B,Active
+PR01711,Pantry Item 1711,Grocery,Pantry,Supplier G,2.06,3.39,C,Active
+PR01712,Kitchen Item 1712,Home,Kitchen,Supplier C,61.46,121.22,A,Active
+PR01713,Shoes Item 1713,Apparel,Shoes,Supplier N,19.97,52.91,B,Active
+PR01714,Cleaning Item 1714,Home,Cleaning,Supplier E,10.85,15.7,B,Active
+PR01715,Writing Item 1715,Office Supplies,Writing,Supplier M,2.28,5.18,B,Discontinued
+PR01716,Cleaning Item 1716,Home,Cleaning,Supplier J,117.26,161.76,C,Active
+PR01717,Fresh Item 1717,Grocery,Fresh,Supplier I,10.98,30.67,A,Active
+PR01718,Cleaning Item 1718,Home,Cleaning,Supplier J,7.83,12.59,C,Active
+PR01719,Labels Item 1719,Office Supplies,Labels,Supplier J,12.08,21.54,C,Active
+PR01720,Desks Item 1720,Furniture,Desks,Supplier P,113.34,262.82,B,Active
+PR01721,Accessories Item 1721,Apparel,Accessories,Supplier K,19.07,41.34,A,Active
+PR01722,Men Item 1722,Apparel,Men,Supplier E,25.71,35.03,C,Active
+PR01723,Printers Item 1723,Technology,Printers,Supplier O,103.7,219.65,B,Active
+PR01724,Frozen Item 1724,Grocery,Frozen,Supplier E,5.13,12.66,C,Discontinued
+PR01725,Snacks Item 1725,Grocery,Snacks,Supplier P,1.62,4.34,C,Active
+PR01726,Snacks Item 1726,Grocery,Snacks,Supplier O,4.84,8.72,A,Active
+PR01727,Beverages Item 1727,Grocery,Beverages,Supplier B,6.61,8.33,A,Active
+PR01728,Snacks Item 1728,Grocery,Snacks,Supplier K,2.46,3.34,A,Active
+PR01729,Frozen Item 1729,Grocery,Frozen,Supplier G,3.43,5.5,A,Active
+PR01730,Cleaning Item 1730,Home,Cleaning,Supplier R,19.17,33.18,A,Active
+PR01731,Paper Item 1731,Office Supplies,Paper,Supplier C,15.6,30.54,A,Active
+PR01732,Labels Item 1732,Office Supplies,Labels,Supplier N,10.41,14.56,C,Active
+PR01733,Printers Item 1733,Technology,Printers,Supplier C,110.08,172.71,B,Discontinued
+PR01734,Smart Home Item 1734,Technology,Smart Home,Supplier F,120.82,291.78,B,Active
+PR01735,Frozen Item 1735,Grocery,Frozen,Supplier O,3.03,5.69,B,Active
+PR01736,Laptops Item 1736,Technology,Laptops,Supplier Q,54.51,122.27,A,Active
+PR01737,Fresh Item 1737,Grocery,Fresh,Supplier C,3.78,9.92,A,Active
+PR01738,Kitchen Item 1738,Home,Kitchen,Supplier D,41.89,100.15,B,Active
+PR01739,Lighting Item 1739,Home,Lighting,Supplier E,25.33,47.92,B,Active
+PR01740,Desks Item 1740,Furniture,Desks,Supplier N,119.1,177.94,B,Active
+PR01741,Envelopes Item 1741,Office Supplies,Envelopes,Supplier O,10.46,26.86,C,Active
+PR01742,Printers Item 1742,Technology,Printers,Supplier J,117.32,321.78,B,Active
+PR01743,Frozen Item 1743,Grocery,Frozen,Supplier I,3.29,5.6,A,Active
+PR01744,Beverages Item 1744,Grocery,Beverages,Supplier M,2.55,3.29,A,Discontinued
+PR01745,Shelving Item 1745,Furniture,Shelving,Supplier C,134.82,341.0,A,Active
+PR01746,Women Item 1746,Apparel,Women,Supplier E,14.85,24.09,C,Active
+PR01747,Beverages Item 1747,Grocery,Beverages,Supplier R,2.75,6.55,B,Active
+PR01748,Labels Item 1748,Office Supplies,Labels,Supplier G,13.84,36.47,A,Active
+PR01749,Fresh Item 1749,Grocery,Fresh,Supplier D,3.99,6.72,B,Active
+PR01750,Desks Item 1750,Furniture,Desks,Supplier R,68.3,129.49,A,Active
+PR01751,Accessories Item 1751,Apparel,Accessories,Supplier C,22.42,43.53,A,Active
+PR01752,Monitors Item 1752,Technology,Monitors,Supplier M,174.23,266.03,B,Active
+PR01753,Monitors Item 1753,Technology,Monitors,Supplier O,114.14,185.81,C,Active
+PR01754,Writing Item 1754,Office Supplies,Writing,Supplier J,2.72,6.15,C,Active
+PR01755,Art Item 1755,Office Supplies,Art,Supplier M,10.19,26.3,B,Active
+PR01756,Kitchen Item 1756,Home,Kitchen,Supplier K,14.76,34.93,B,Active
+PR01757,Desks Item 1757,Furniture,Desks,Supplier D,74.44,151.41,B,Active
+PR01758,Frozen Item 1758,Grocery,Frozen,Supplier J,6.82,16.92,C,Active
+PR01759,Envelopes Item 1759,Office Supplies,Envelopes,Supplier G,10.05,23.94,A,Active
+PR01760,Pantry Item 1760,Grocery,Pantry,Supplier O,2.25,6.01,B,Active
+PR01761,Cleaning Item 1761,Home,Cleaning,Supplier C,24.68,49.97,B,Active
+PR01762,Accessories Item 1762,Technology,Accessories,Supplier I,66.33,171.82,B,Active
+PR01763,Cleaning Item 1763,Home,Cleaning,Supplier K,20.52,29.75,B,Active
+PR01764,Tables Item 1764,Furniture,Tables,Supplier F,61.05,157.82,C,Active
+PR01765,Storage Item 1765,Furniture,Storage,Supplier I,58.01,80.49,A,Active
+PR01766,Paper Item 1766,Office Supplies,Paper,Supplier E,18.68,27.46,B,Active
+PR01767,Men Item 1767,Apparel,Men,Supplier R,12.77,17.39,C,Active
+PR01768,Fresh Item 1768,Grocery,Fresh,Supplier R,2.97,3.79,C,Active
+PR01769,Desks Item 1769,Furniture,Desks,Supplier J,291.7,723.04,C,Active
+PR01770,Printers Item 1770,Technology,Printers,Supplier K,187.85,329.96,C,Active
+PR01771,Fresh Item 1771,Grocery,Fresh,Supplier E,2.37,3.13,A,Active
+PR01772,Kids Item 1772,Apparel,Kids,Supplier C,17.89,40.31,C,Active
+PR01773,Art Item 1773,Office Supplies,Art,Supplier B,16.08,21.36,C,Active
+PR01774,Smart Home Item 1774,Technology,Smart Home,Supplier O,127.21,221.64,C,Active
+PR01775,Pantry Item 1775,Grocery,Pantry,Supplier M,6.36,10.45,B,Active
+PR01776,Pantry Item 1776,Grocery,Pantry,Supplier M,3.5,7.43,A,Active
+PR01777,Frozen Item 1777,Grocery,Frozen,Supplier D,2.56,3.63,C,Active
+PR01778,Pantry Item 1778,Grocery,Pantry,Supplier B,2.18,2.93,C,Active
+PR01779,Laptops Item 1779,Technology,Laptops,Supplier M,160.57,430.8,B,Active
+PR01780,Art Item 1780,Office Supplies,Art,Supplier J,5.18,7.13,A,Active
+PR01781,Tablets Item 1781,Technology,Tablets,Supplier I,83.61,127.47,A,Active
+PR01782,Art Item 1782,Office Supplies,Art,Supplier E,10.71,17.84,A,Active
+PR01783,Frozen Item 1783,Grocery,Frozen,Supplier M,2.94,5.24,B,Active
+PR01784,Monitors Item 1784,Technology,Monitors,Supplier Q,225.15,371.2,B,Active
+PR01785,Frozen Item 1785,Grocery,Frozen,Supplier Q,3.26,8.5,A,Active
+PR01786,Kids Item 1786,Apparel,Kids,Supplier Q,39.42,67.45,C,Active
+PR01787,Frozen Item 1787,Grocery,Frozen,Supplier C,2.86,6.78,C,Active
+PR01788,Paper Item 1788,Office Supplies,Paper,Supplier I,4.41,8.04,C,Active
+PR01789,Chairs Item 1789,Furniture,Chairs,Supplier H,140.65,260.53,A,Active
+PR01790,Paper Item 1790,Office Supplies,Paper,Supplier M,6.6,12.68,B,Active
+PR01791,Cleaning Item 1791,Home,Cleaning,Supplier J,57.66,116.51,A,Active
+PR01792,Fresh Item 1792,Grocery,Fresh,Supplier P,2.21,4.44,A,Active
+PR01793,Kitchen Item 1793,Home,Kitchen,Supplier N,34.3,80.8,A,Active
+PR01794,Storage Item 1794,Furniture,Storage,Supplier E,114.79,206.69,C,Active
+PR01795,Writing Item 1795,Office Supplies,Writing,Supplier D,11.67,18.31,B,Active
+PR01796,Snacks Item 1796,Grocery,Snacks,Supplier B,4.8,12.87,C,Active
+PR01797,Laptops Item 1797,Technology,Laptops,Supplier H,136.87,174.3,B,Active
+PR01798,Beverages Item 1798,Grocery,Beverages,Supplier F,6.26,9.69,B,Active
+PR01799,Tables Item 1799,Furniture,Tables,Supplier G,45.66,85.9,A,Active
+PR01800,Shelving Item 1800,Furniture,Shelving,Supplier B,149.86,197.57,B,Active

@@ -1,0 +1,901 @@
+campaign_id,campaign_name,campaign_channel,target_segment,start_date,campaign_spend,campaign_objective,end_date
+CA00001,Search Campaign 1,Social,Student,2025-08-20,20062.93,Retention,2025-09-18
+CA00002,Display Campaign 2,Email,Small Business,2025-10-10,6387.26,Conversion,2025-10-24
+CA00003,Influencer Campaign 3,Influencer,All Customers,2025-11-16,17245.3,Conversion,2025-12-08
+CA00004,Social Campaign 4,Loyalty App,Corporate,2025-09-14,7408.88,Winback,2025-10-01
+CA00005,Flyer Campaign 5,Social,Student,2025-06-01,5971.73,Conversion,2025-06-04
+CA00006,Display Campaign 6,Email,Consumer,2024-02-16,2116.43,Conversion,2024-03-02
+CA00007,Display Campaign 7,Loyalty App,Corporate,2024-05-04,7790.83,Winback,2024-05-20
+CA00008,Loyalty App Campaign 8,Loyalty App,Consumer,2024-02-29,3195.1,Conversion,2024-03-17
+CA00009,Search Campaign 9,Influencer,Student,2025-07-07,4975.09,Retention,2025-08-02
+CA00010,Flyer Campaign 10,Social,Corporate,2023-12-08,4915.07,Awareness,2023-12-26
+CA00011,Influencer Campaign 11,Social,All Customers,2024-10-15,3163.9,Retention,2024-11-13
+CA00012,Search Campaign 12,Flyer,Premium,2025-02-08,6013.81,Retention,2025-03-04
+CA00013,Loyalty App Campaign 13,Flyer,Student,2024-06-13,6522.68,Awareness,2024-07-13
+CA00014,Loyalty App Campaign 14,Loyalty App,Small Business,2024-09-05,3973.17,Winback,2024-09-26
+CA00015,Display Campaign 15,Search,Consumer,2023-09-27,1663.22,Awareness,2023-10-15
+CA00016,Search Campaign 16,Email,Consumer,2024-10-02,9250.16,Winback,2024-10-17
+CA00017,Email Campaign 17,Display,All Customers,2025-09-09,6501.5,Conversion,2025-09-14
+CA00018,Influencer Campaign 18,Loyalty App,Premium,2024-10-14,10027.56,Conversion,2024-11-01
+CA00019,Search Campaign 19,Influencer,Premium,2023-11-10,6517.89,Winback,2023-12-02
+CA00020,Social Campaign 20,Social,Consumer,2025-01-11,1424.11,Awareness,2025-01-15
+CA00021,Flyer Campaign 21,Influencer,Small Business,2025-07-08,4827.0,Conversion,2025-07-18
+CA00022,Influencer Campaign 22,Social,Premium,2023-09-06,10335.26,Awareness,2023-09-21
+CA00023,Search Campaign 23,Social,All Customers,2024-11-15,12565.29,Awareness,2024-12-30
+CA00024,Search Campaign 24,Loyalty App,Premium,2023-04-14,3934.11,Conversion,2023-04-20
+CA00025,Influencer Campaign 25,Flyer,Corporate,2024-05-08,14963.15,Conversion,2024-06-09
+CA00026,Loyalty App Campaign 26,Email,Corporate,2023-06-18,8549.99,Retention,2023-06-29
+CA00027,Display Campaign 27,Email,Small Business,2023-04-23,1888.87,Retention,2023-05-29
+CA00028,Search Campaign 28,Flyer,Small Business,2023-11-29,4726.11,Winback,2023-12-21
+CA00029,Social Campaign 29,Social,Corporate,2023-11-09,14113.34,Conversion,2023-12-21
+CA00030,Influencer Campaign 30,Influencer,Premium,2024-08-25,35716.51,Retention,2024-09-23
+CA00031,Loyalty App Campaign 31,Email,Corporate,2025-04-09,5172.66,Winback,2025-05-13
+CA00032,Social Campaign 32,Influencer,Student,2024-12-15,9882.45,Conversion,2025-01-28
+CA00033,Display Campaign 33,Loyalty App,Student,2024-12-01,2008.25,Conversion,2024-12-13
+CA00034,Search Campaign 34,Search,All Customers,2024-03-24,6994.07,Retention,2024-04-28
+CA00035,Search Campaign 35,Flyer,Consumer,2024-04-01,2762.86,Winback,2024-04-19
+CA00036,Display Campaign 36,Search,Small Business,2024-11-19,4581.5,Retention,2024-12-12
+CA00037,Flyer Campaign 37,Loyalty App,Corporate,2024-10-25,2354.72,Conversion,2024-11-12
+CA00038,Display Campaign 38,Flyer,Consumer,2025-04-26,3593.19,Awareness,2025-05-08
+CA00039,Display Campaign 39,Loyalty App,Corporate,2023-08-19,11635.04,Awareness,2023-09-07
+CA00040,Display Campaign 40,Influencer,All Customers,2023-04-14,32256.77,Retention,2023-05-18
+CA00041,Display Campaign 41,Loyalty App,Premium,2025-04-24,13514.54,Retention,2025-06-03
+CA00042,Email Campaign 42,Influencer,Small Business,2025-11-11,11062.78,Winback,2025-12-16
+CA00043,Social Campaign 43,Display,Premium,2023-07-22,5686.6,Conversion,2023-08-21
+CA00044,Flyer Campaign 44,Email,Corporate,2025-09-14,12004.16,Retention,2025-09-20
+CA00045,Search Campaign 45,Search,Consumer,2024-10-08,5356.06,Conversion,2024-10-20
+CA00046,Display Campaign 46,Influencer,Student,2025-04-22,2252.6,Winback,2025-05-11
+CA00047,Search Campaign 47,Flyer,Corporate,2024-03-06,4865.84,Awareness,2024-03-14
+CA00048,Email Campaign 48,Flyer,Corporate,2025-10-11,3191.0,Winback,2025-11-07
+CA00049,Flyer Campaign 49,Influencer,All Customers,2024-09-24,382.84,Conversion,2024-11-02
+CA00050,Display Campaign 50,Flyer,Small Business,2023-10-20,25371.32,Conversion,2023-11-03
+CA00051,Loyalty App Campaign 51,Flyer,Premium,2025-02-08,5206.8,Conversion,2025-02-17
+CA00052,Display Campaign 52,Email,All Customers,2024-02-11,4899.72,Retention,2024-03-12
+CA00053,Loyalty App Campaign 53,Loyalty App,Small Business,2023-04-24,9763.43,Conversion,2023-06-07
+CA00054,Search Campaign 54,Loyalty App,Student,2023-11-29,4928.41,Awareness,2023-12-19
+CA00055,Display Campaign 55,Display,All Customers,2023-10-03,4291.64,Awareness,2023-10-29
+CA00056,Email Campaign 56,Email,All Customers,2025-10-18,6561.03,Winback,2025-11-13
+CA00057,Social Campaign 57,Search,Consumer,2025-04-20,7909.62,Winback,2025-05-21
+CA00058,Display Campaign 58,Influencer,Consumer,2023-03-30,12498.98,Awareness,2023-04-25
+CA00059,Flyer Campaign 59,Social,Small Business,2023-01-25,2587.13,Retention,2023-02-06
+CA00060,Social Campaign 60,Email,Premium,2024-08-28,4120.67,Awareness,2024-09-09
+CA00061,Influencer Campaign 61,Flyer,Small Business,2025-04-02,3035.99,Awareness,2025-05-09
+CA00062,Loyalty App Campaign 62,Display,All Customers,2023-04-05,4493.45,Conversion,2023-04-20
+CA00063,Display Campaign 63,Display,Corporate,2024-03-25,6367.19,Conversion,2024-04-12
+CA00064,Email Campaign 64,Email,Corporate,2023-04-24,8178.38,Awareness,2023-06-05
+CA00065,Search Campaign 65,Search,Corporate,2025-04-01,12285.31,Conversion,2025-04-17
+CA00066,Search Campaign 66,Display,Premium,2025-04-27,11083.36,Retention,2025-05-21
+CA00067,Influencer Campaign 67,Flyer,Corporate,2025-01-21,9253.38,Winback,2025-01-27
+CA00068,Search Campaign 68,Search,Premium,2024-08-04,9852.77,Awareness,2024-08-19
+CA00069,Influencer Campaign 69,Flyer,Premium,2024-09-24,62735.37,Winback,2024-10-11
+CA00070,Display Campaign 70,Search,Small Business,2024-04-26,4159.29,Winback,2024-05-06
+CA00071,Display Campaign 71,Loyalty App,Consumer,2023-02-05,21530.9,Retention,2023-03-19
+CA00072,Email Campaign 72,Loyalty App,Premium,2025-10-07,1175.15,Winback,2025-10-31
+CA00073,Display Campaign 73,Influencer,Corporate,2024-03-06,8875.21,Winback,2024-03-16
+CA00074,Social Campaign 74,Social,Consumer,2025-06-18,1216.15,Awareness,2025-07-18
+CA00075,Flyer Campaign 75,Influencer,Corporate,2025-03-28,7618.99,Awareness,2025-05-11
+CA00076,Loyalty App Campaign 76,Loyalty App,Consumer,2024-12-25,26617.39,Conversion,2025-01-07
+CA00077,Search Campaign 77,Display,Premium,2024-05-02,4206.19,Winback,2024-06-08
+CA00078,Loyalty App Campaign 78,Email,Consumer,2024-04-24,11696.0,Conversion,2024-06-03
+CA00079,Social Campaign 79,Flyer,Premium,2025-03-08,9018.02,Awareness,2025-03-14
+CA00080,Flyer Campaign 80,Loyalty App,Premium,2024-12-16,1691.6,Retention,2025-01-30
+CA00081,Influencer Campaign 81,Display,All Customers,2024-05-27,8128.68,Retention,2024-07-04
+CA00082,Flyer Campaign 82,Email,Small Business,2025-07-24,2938.45,Retention,2025-08-19
+CA00083,Influencer Campaign 83,Display,Student,2023-08-04,7681.91,Retention,2023-08-20
+CA00084,Search Campaign 84,Social,Corporate,2025-08-23,14134.35,Conversion,2025-09-11
+CA00085,Display Campaign 85,Search,Student,2025-06-26,4755.09,Retention,2025-07-26
+CA00086,Search Campaign 86,Influencer,Student,2023-10-30,3206.13,Retention,2023-11-11
+CA00087,Flyer Campaign 87,Email,Corporate,2023-08-05,7008.61,Conversion,2023-08-30
+CA00088,Email Campaign 88,Email,Premium,2023-12-09,8914.08,Retention,2024-01-14
+CA00089,Flyer Campaign 89,Flyer,All Customers,2025-03-16,6649.91,Winback,2025-04-03
+CA00090,Loyalty App Campaign 90,Email,Student,2025-06-24,21716.96,Winback,2025-08-04
+CA00091,Flyer Campaign 91,Search,Consumer,2024-02-10,22216.47,Awareness,2024-02-17
+CA00092,Social Campaign 92,Loyalty App,Small Business,2024-06-06,8719.47,Conversion,2024-07-09
+CA00093,Search Campaign 93,Influencer,Premium,2024-05-18,2348.08,Winback,2024-06-02
+CA00094,Display Campaign 94,Search,Student,2024-11-11,18288.52,Winback,2024-12-15
+CA00095,Influencer Campaign 95,Email,Premium,2025-10-04,49434.29,Conversion,2025-10-23
+CA00096,Display Campaign 96,Flyer,Corporate,2023-10-14,9289.01,Conversion,2023-11-11
+CA00097,Flyer Campaign 97,Search,Premium,2023-10-06,24921.69,Winback,2023-10-11
+CA00098,Social Campaign 98,Influencer,Small Business,2023-10-28,2417.72,Conversion,2023-11-30
+CA00099,Search Campaign 99,Email,Consumer,2025-02-15,1516.49,Retention,2025-03-12
+CA00100,Loyalty App Campaign 100,Search,Premium,2024-11-16,24384.64,Winback,2024-12-09
+CA00101,Influencer Campaign 101,Social,Small Business,2025-07-27,5089.29,Awareness,2025-09-06
+CA00102,Influencer Campaign 102,Search,Corporate,2024-09-20,20733.65,Retention,2024-09-27
+CA00103,Social Campaign 103,Influencer,Premium,2025-06-29,5377.81,Retention,2025-07-10
+CA00104,Display Campaign 104,Social,All Customers,2025-02-07,6593.01,Conversion,2025-02-16
+CA00105,Display Campaign 105,Loyalty App,All Customers,2023-06-02,9549.94,Conversion,2023-06-23
+CA00106,Influencer Campaign 106,Social,Consumer,2023-01-17,4631.56,Awareness,2023-01-28
+CA00107,Display Campaign 107,Display,Corporate,2024-03-05,8241.01,Winback,2024-03-18
+CA00108,Flyer Campaign 108,Display,Student,2024-03-12,4059.45,Conversion,2024-03-27
+CA00109,Social Campaign 109,Social,Small Business,2023-09-23,3019.6,Awareness,2023-10-28
+CA00110,Social Campaign 110,Search,Corporate,2024-05-03,59588.04,Awareness,2024-05-10
+CA00111,Loyalty App Campaign 111,Influencer,Corporate,2023-12-24,15417.35,Winback,2024-02-02
+CA00112,Email Campaign 112,Influencer,Premium,2023-07-13,8162.52,Awareness,2023-07-16
+CA00113,Influencer Campaign 113,Influencer,Consumer,2023-03-04,3916.02,Awareness,2023-04-09
+CA00114,Influencer Campaign 114,Flyer,Consumer,2024-07-18,4864.59,Awareness,2024-08-10
+CA00115,Email Campaign 115,Email,Corporate,2025-05-10,958.06,Awareness,2025-05-24
+CA00116,Social Campaign 116,Social,Student,2023-03-29,7421.22,Winback,2023-05-02
+CA00117,Display Campaign 117,Loyalty App,Small Business,2024-07-06,8156.1,Awareness,2024-07-17
+CA00118,Display Campaign 118,Influencer,All Customers,2024-05-08,8079.41,Winback,2024-05-29
+CA00119,Search Campaign 119,Email,Premium,2025-06-13,10117.96,Conversion,2025-06-26
+CA00120,Display Campaign 120,Email,Small Business,2025-02-06,4039.54,Winback,2025-02-19
+CA00121,Influencer Campaign 121,Email,Corporate,2024-04-18,23141.56,Winback,2024-05-01
+CA00122,Influencer Campaign 122,Influencer,All Customers,2024-07-28,9664.78,Awareness,2024-08-13
+CA00123,Loyalty App Campaign 123,Email,Student,2023-08-05,2529.38,Awareness,2023-09-06
+CA00124,Flyer Campaign 124,Display,All Customers,2023-09-01,9389.05,Awareness,2023-09-25
+CA00125,Search Campaign 125,Social,Small Business,2023-06-03,3970.32,Winback,2023-06-20
+CA00126,Search Campaign 126,Loyalty App,All Customers,2023-06-12,1436.1,Awareness,2023-07-20
+CA00127,Email Campaign 127,Search,Premium,2025-08-08,15051.63,Retention,2025-09-17
+CA00128,Influencer Campaign 128,Email,All Customers,2024-07-30,2204.81,Retention,2024-09-10
+CA00129,Flyer Campaign 129,Social,Student,2023-01-01,4311.68,Winback,2023-01-05
+CA00130,Search Campaign 130,Loyalty App,All Customers,2024-04-27,5442.56,Winback,2024-05-18
+CA00131,Display Campaign 131,Flyer,All Customers,2024-05-19,15274.36,Retention,2024-05-26
+CA00132,Influencer Campaign 132,Social,Small Business,2023-08-22,5833.14,Retention,2023-08-27
+CA00133,Email Campaign 133,Loyalty App,Small Business,2025-06-04,1906.03,Retention,2025-07-10
+CA00134,Display Campaign 134,Display,Consumer,2025-10-25,3530.75,Awareness,2025-11-28
+CA00135,Social Campaign 135,Social,Premium,2025-06-08,4448.61,Retention,2025-06-14
+CA00136,Flyer Campaign 136,Email,Premium,2025-01-13,4510.45,Retention,2025-01-20
+CA00137,Email Campaign 137,Social,Corporate,2024-05-27,8435.1,Retention,2024-06-04
+CA00138,Influencer Campaign 138,Search,Small Business,2024-11-18,10160.1,Conversion,2024-12-16
+CA00139,Influencer Campaign 139,Display,Corporate,2024-12-10,5757.28,Conversion,2025-01-02
+CA00140,Display Campaign 140,Flyer,All Customers,2025-11-15,4853.89,Retention,2025-12-06
+CA00141,Loyalty App Campaign 141,Display,Student,2024-01-31,5475.37,Awareness,2024-02-10
+CA00142,Social Campaign 142,Email,Corporate,2024-05-18,2442.64,Conversion,2024-06-10
+CA00143,Loyalty App Campaign 143,Display,Premium,2023-05-24,2801.36,Conversion,2023-06-09
+CA00144,Influencer Campaign 144,Display,Student,2024-08-17,3682.59,Awareness,2024-08-21
+CA00145,Loyalty App Campaign 145,Influencer,Premium,2024-06-20,3141.38,Retention,2024-08-03
+CA00146,Loyalty App Campaign 146,Search,All Customers,2023-02-05,7448.57,Conversion,2023-02-17
+CA00147,Email Campaign 147,Display,All Customers,2024-09-01,4574.79,Winback,2024-09-13
+CA00148,Loyalty App Campaign 148,Display,Small Business,2025-10-25,3904.2,Conversion,2025-11-10
+CA00149,Influencer Campaign 149,Flyer,All Customers,2023-03-18,14218.51,Awareness,2023-05-01
+CA00150,Display Campaign 150,Search,Consumer,2024-04-15,5377.76,Winback,2024-04-29
+CA00151,Social Campaign 151,Display,Consumer,2023-05-21,6456.21,Winback,2023-06-13
+CA00152,Influencer Campaign 152,Flyer,Student,2025-10-13,5028.91,Winback,2025-11-13
+CA00153,Search Campaign 153,Loyalty App,Consumer,2024-01-07,3082.25,Retention,2024-01-14
+CA00154,Email Campaign 154,Social,Corporate,2025-03-08,8246.04,Conversion,2025-04-10
+CA00155,Loyalty App Campaign 155,Email,Corporate,2023-03-14,5226.78,Conversion,2023-04-19
+CA00156,Email Campaign 156,Flyer,Premium,2025-11-24,8881.01,Awareness,2025-12-29
+CA00157,Display Campaign 157,Flyer,Student,2023-12-25,2088.86,Winback,2023-12-29
+CA00158,Email Campaign 158,Search,Small Business,2024-04-08,3417.63,Conversion,2024-05-08
+CA00159,Influencer Campaign 159,Flyer,Consumer,2024-12-21,12815.58,Conversion,2024-12-24
+CA00160,Search Campaign 160,Search,All Customers,2024-03-24,2207.88,Winback,2024-04-16
+CA00161,Display Campaign 161,Loyalty App,Small Business,2023-11-30,2072.27,Awareness,2023-12-15
+CA00162,Email Campaign 162,Email,Consumer,2024-02-19,2352.44,Winback,2024-04-04
+CA00163,Search Campaign 163,Email,Consumer,2023-12-08,3704.43,Conversion,2024-01-08
+CA00164,Flyer Campaign 164,Flyer,Student,2025-03-27,16111.42,Conversion,2025-04-20
+CA00165,Email Campaign 165,Social,Small Business,2024-01-05,2787.67,Retention,2024-01-29
+CA00166,Influencer Campaign 166,Email,Premium,2025-03-17,7635.54,Conversion,2025-04-26
+CA00167,Influencer Campaign 167,Search,Student,2023-03-07,3648.71,Winback,2023-03-19
+CA00168,Search Campaign 168,Loyalty App,Premium,2023-09-16,9995.59,Retention,2023-10-11
+CA00169,Search Campaign 169,Social,Corporate,2024-10-29,11280.83,Winback,2024-11-05
+CA00170,Email Campaign 170,Display,Premium,2025-03-08,29733.55,Awareness,2025-03-29
+CA00171,Social Campaign 171,Flyer,Consumer,2023-07-19,4839.22,Retention,2023-08-17
+CA00172,Flyer Campaign 172,Search,Small Business,2024-08-22,15258.34,Awareness,2024-08-27
+CA00173,Loyalty App Campaign 173,Search,Corporate,2023-12-26,3459.27,Retention,2024-02-01
+CA00174,Email Campaign 174,Display,Small Business,2024-04-03,3965.27,Awareness,2024-05-05
+CA00175,Search Campaign 175,Influencer,Consumer,2024-07-23,5649.81,Retention,2024-08-13
+CA00176,Social Campaign 176,Flyer,Corporate,2023-10-05,5099.75,Retention,2023-11-16
+CA00177,Search Campaign 177,Email,Small Business,2024-10-23,9285.6,Retention,2024-11-14
+CA00178,Social Campaign 178,Flyer,Small Business,2023-04-01,23604.17,Winback,2023-04-17
+CA00179,Social Campaign 179,Influencer,Premium,2023-07-31,3122.0,Awareness,2023-09-10
+CA00180,Influencer Campaign 180,Influencer,Consumer,2025-08-16,12383.79,Awareness,2025-08-27
+CA00181,Influencer Campaign 181,Influencer,All Customers,2023-06-08,8542.42,Awareness,2023-07-13
+CA00182,Email Campaign 182,Email,All Customers,2023-09-23,19936.5,Winback,2023-10-05
+CA00183,Search Campaign 183,Display,Corporate,2023-08-21,15737.89,Conversion,2023-09-04
+CA00184,Email Campaign 184,Display,Consumer,2025-02-18,7189.31,Winback,2025-04-01
+CA00185,Influencer Campaign 185,Email,Student,2024-03-17,2954.3,Retention,2024-03-29
+CA00186,Social Campaign 186,Flyer,Student,2023-11-24,8610.27,Retention,2023-12-26
+CA00187,Social Campaign 187,Social,Student,2024-09-16,1683.48,Conversion,2024-09-29
+CA00188,Display Campaign 188,Social,Student,2024-10-03,15670.17,Conversion,2024-10-20
+CA00189,Display Campaign 189,Display,All Customers,2023-01-14,28672.11,Winback,2023-01-17
+CA00190,Influencer Campaign 190,Social,Small Business,2023-03-01,7834.62,Awareness,2023-04-09
+CA00191,Flyer Campaign 191,Email,Corporate,2024-09-09,7917.91,Awareness,2024-10-05
+CA00192,Flyer Campaign 192,Flyer,Corporate,2023-10-22,7137.01,Awareness,2023-10-30
+CA00193,Display Campaign 193,Search,Small Business,2025-03-17,4595.83,Retention,2025-03-28
+CA00194,Social Campaign 194,Flyer,Consumer,2023-10-10,4339.69,Awareness,2023-10-26
+CA00195,Email Campaign 195,Flyer,Student,2024-03-03,3464.81,Conversion,2024-04-06
+CA00196,Search Campaign 196,Social,Student,2023-08-24,7651.09,Awareness,2023-09-24
+CA00197,Email Campaign 197,Social,Premium,2025-08-07,15625.86,Retention,2025-09-09
+CA00198,Loyalty App Campaign 198,Loyalty App,All Customers,2024-12-22,4475.87,Retention,2025-01-15
+CA00199,Loyalty App Campaign 199,Flyer,All Customers,2023-04-08,4759.89,Awareness,2023-05-20
+CA00200,Email Campaign 200,Influencer,Student,2024-05-28,6643.52,Winback,2024-06-06
+CA00201,Flyer Campaign 201,Search,Student,2024-01-26,7705.62,Winback,2024-02-12
+CA00202,Flyer Campaign 202,Influencer,All Customers,2025-07-27,1887.65,Winback,2025-08-23
+CA00203,Email Campaign 203,Display,Small Business,2025-07-29,5405.46,Conversion,2025-08-27
+CA00204,Flyer Campaign 204,Display,Student,2023-09-15,3573.39,Conversion,2023-10-05
+CA00205,Email Campaign 205,Display,Consumer,2025-03-30,7258.24,Awareness,2025-04-24
+CA00206,Flyer Campaign 206,Flyer,All Customers,2023-08-18,11615.68,Retention,2023-09-13
+CA00207,Search Campaign 207,Search,Student,2024-10-23,13574.77,Winback,2024-12-07
+CA00208,Email Campaign 208,Influencer,Consumer,2025-06-15,5049.76,Conversion,2025-06-22
+CA00209,Search Campaign 209,Social,Premium,2025-09-30,7389.91,Awareness,2025-10-03
+CA00210,Social Campaign 210,Flyer,Corporate,2024-04-26,3724.31,Retention,2024-06-01
+CA00211,Social Campaign 211,Search,Corporate,2024-06-13,8415.56,Retention,2024-07-04
+CA00212,Display Campaign 212,Email,Premium,2025-04-05,1016.65,Winback,2025-05-04
+CA00213,Influencer Campaign 213,Flyer,Corporate,2025-01-29,6933.53,Conversion,2025-02-28
+CA00214,Influencer Campaign 214,Influencer,Student,2023-01-24,2740.91,Winback,2023-02-05
+CA00215,Email Campaign 215,Social,Small Business,2025-08-14,4273.07,Retention,2025-08-29
+CA00216,Flyer Campaign 216,Search,Corporate,2023-06-05,5035.94,Awareness,2023-07-11
+CA00217,Flyer Campaign 217,Social,All Customers,2025-05-31,5349.79,Retention,2025-06-24
+CA00218,Search Campaign 218,Display,Premium,2025-07-09,1555.05,Conversion,2025-07-21
+CA00219,Email Campaign 219,Loyalty App,Consumer,2024-06-07,6267.61,Awareness,2024-06-15
+CA00220,Loyalty App Campaign 220,Email,Student,2025-05-20,1392.27,Awareness,2025-06-10
+CA00221,Display Campaign 221,Social,Small Business,2024-10-05,3122.81,Retention,2024-10-31
+CA00222,Loyalty App Campaign 222,Flyer,Small Business,2025-10-17,5011.01,Awareness,2025-10-28
+CA00223,Search Campaign 223,Loyalty App,Corporate,2025-04-27,2671.83,Conversion,2025-05-15
+CA00224,Search Campaign 224,Search,Corporate,2025-01-19,1958.27,Retention,2025-02-24
+CA00225,Social Campaign 225,Email,All Customers,2023-08-28,3847.32,Conversion,2023-09-16
+CA00226,Email Campaign 226,Email,Premium,2023-02-23,15692.86,Awareness,2023-03-15
+CA00227,Email Campaign 227,Flyer,Student,2023-11-01,3752.61,Winback,2023-11-09
+CA00228,Display Campaign 228,Influencer,Premium,2025-10-12,1563.49,Winback,2025-10-25
+CA00229,Influencer Campaign 229,Influencer,Small Business,2023-05-11,4750.56,Awareness,2023-05-24
+CA00230,Loyalty App Campaign 230,Social,Premium,2023-01-04,4482.47,Awareness,2023-01-23
+CA00231,Influencer Campaign 231,Social,Corporate,2025-07-12,6859.32,Retention,2025-08-16
+CA00232,Social Campaign 232,Flyer,Small Business,2024-10-24,5920.21,Retention,2024-11-20
+CA00233,Display Campaign 233,Social,All Customers,2025-01-11,10242.37,Awareness,2025-02-07
+CA00234,Email Campaign 234,Influencer,Small Business,2025-08-19,3225.58,Winback,2025-09-21
+CA00235,Flyer Campaign 235,Social,Student,2024-01-19,4766.57,Winback,2024-01-27
+CA00236,Social Campaign 236,Display,Premium,2024-02-12,4588.82,Retention,2024-02-16
+CA00237,Flyer Campaign 237,Email,Student,2023-03-28,7954.87,Awareness,2023-03-31
+CA00238,Influencer Campaign 238,Social,Small Business,2024-05-17,6644.44,Awareness,2024-06-12
+CA00239,Display Campaign 239,Loyalty App,Premium,2025-04-30,2148.08,Winback,2025-05-06
+CA00240,Display Campaign 240,Display,All Customers,2024-04-03,20788.04,Awareness,2024-04-08
+CA00241,Loyalty App Campaign 241,Influencer,Consumer,2023-04-10,6199.28,Awareness,2023-04-25
+CA00242,Flyer Campaign 242,Display,Student,2025-11-19,8912.66,Conversion,2025-12-31
+CA00243,Search Campaign 243,Display,Premium,2024-04-11,3539.25,Winback,2024-05-15
+CA00244,Loyalty App Campaign 244,Search,All Customers,2024-09-28,8926.47,Retention,2024-11-09
+CA00245,Loyalty App Campaign 245,Search,Small Business,2025-02-23,9275.87,Awareness,2025-03-21
+CA00246,Social Campaign 246,Search,All Customers,2025-07-15,8141.23,Awareness,2025-08-08
+CA00247,Email Campaign 247,Social,Student,2025-07-15,2174.18,Retention,2025-07-29
+CA00248,Social Campaign 248,Loyalty App,Student,2024-06-28,2704.75,Retention,2024-07-27
+CA00249,Email Campaign 249,Flyer,Consumer,2025-07-26,4820.82,Winback,2025-09-06
+CA00250,Search Campaign 250,Social,Corporate,2024-06-01,7208.84,Conversion,2024-06-08
+CA00251,Display Campaign 251,Influencer,Consumer,2024-09-03,13537.78,Winback,2024-10-09
+CA00252,Email Campaign 252,Search,Consumer,2023-06-02,7518.75,Conversion,2023-06-15
+CA00253,Display Campaign 253,Social,Corporate,2024-08-02,15159.89,Winback,2024-08-16
+CA00254,Flyer Campaign 254,Influencer,Consumer,2024-10-10,15862.5,Retention,2024-10-15
+CA00255,Display Campaign 255,Loyalty App,Corporate,2023-01-18,3679.74,Conversion,2023-02-26
+CA00256,Influencer Campaign 256,Influencer,Premium,2023-07-23,4441.43,Winback,2023-08-19
+CA00257,Loyalty App Campaign 257,Social,Small Business,2024-12-26,21289.44,Winback,2025-02-06
+CA00258,Display Campaign 258,Loyalty App,Student,2025-10-10,13444.65,Awareness,2025-11-16
+CA00259,Influencer Campaign 259,Search,Consumer,2025-02-01,10162.7,Retention,2025-03-17
+CA00260,Email Campaign 260,Search,Small Business,2024-03-11,14692.88,Conversion,2024-04-20
+CA00261,Email Campaign 261,Flyer,Small Business,2025-11-21,2425.6,Awareness,2025-11-25
+CA00262,Search Campaign 262,Flyer,Student,2025-07-03,14190.82,Awareness,2025-07-11
+CA00263,Influencer Campaign 263,Flyer,Small Business,2025-11-13,5901.37,Conversion,2025-11-25
+CA00264,Loyalty App Campaign 264,Influencer,Corporate,2025-05-14,2802.53,Retention,2025-05-20
+CA00265,Email Campaign 265,Influencer,Student,2024-06-07,3472.1,Retention,2024-07-08
+CA00266,Social Campaign 266,Loyalty App,Consumer,2023-05-03,6585.31,Awareness,2023-05-22
+CA00267,Email Campaign 267,Email,Small Business,2024-04-07,5396.08,Winback,2024-05-14
+CA00268,Social Campaign 268,Flyer,Premium,2024-02-08,9772.02,Retention,2024-03-08
+CA00269,Loyalty App Campaign 269,Email,Small Business,2024-08-21,12666.99,Winback,2024-09-24
+CA00270,Search Campaign 270,Influencer,Small Business,2025-01-05,5611.44,Winback,2025-02-02
+CA00271,Search Campaign 271,Influencer,All Customers,2025-09-07,4863.5,Awareness,2025-10-15
+CA00272,Social Campaign 272,Display,Consumer,2025-11-24,6366.45,Retention,2026-01-05
+CA00273,Social Campaign 273,Loyalty App,All Customers,2023-05-27,5317.03,Retention,2023-06-22
+CA00274,Loyalty App Campaign 274,Flyer,All Customers,2024-07-11,3177.08,Winback,2024-08-05
+CA00275,Email Campaign 275,Social,Premium,2025-08-27,2679.94,Conversion,2025-09-08
+CA00276,Influencer Campaign 276,Loyalty App,Small Business,2025-10-10,15909.36,Conversion,2025-11-18
+CA00277,Influencer Campaign 277,Influencer,Corporate,2025-02-07,40762.97,Conversion,2025-03-16
+CA00278,Flyer Campaign 278,Display,All Customers,2024-02-01,3344.03,Retention,2024-03-14
+CA00279,Flyer Campaign 279,Social,Student,2025-04-11,2926.71,Awareness,2025-05-24
+CA00280,Influencer Campaign 280,Loyalty App,Consumer,2024-03-15,6916.26,Winback,2024-03-20
+CA00281,Flyer Campaign 281,Flyer,Student,2025-02-04,5113.64,Winback,2025-02-22
+CA00282,Influencer Campaign 282,Search,Corporate,2025-11-24,6214.7,Retention,2025-12-09
+CA00283,Email Campaign 283,Influencer,All Customers,2025-10-01,14609.2,Retention,2025-10-26
+CA00284,Social Campaign 284,Search,Corporate,2023-12-25,15570.15,Retention,2024-01-31
+CA00285,Loyalty App Campaign 285,Search,Consumer,2025-07-05,8847.15,Retention,2025-07-09
+CA00286,Loyalty App Campaign 286,Flyer,Small Business,2024-02-15,5144.08,Retention,2024-03-07
+CA00287,Flyer Campaign 287,Social,Consumer,2024-04-13,2522.1,Conversion,2024-05-27
+CA00288,Display Campaign 288,Influencer,Premium,2023-09-21,10175.71,Retention,2023-11-03
+CA00289,Influencer Campaign 289,Flyer,Consumer,2024-04-01,1384.74,Retention,2024-04-25
+CA00290,Social Campaign 290,Flyer,Small Business,2025-03-05,4552.41,Conversion,2025-03-10
+CA00291,Social Campaign 291,Email,Consumer,2023-06-23,24872.7,Conversion,2023-07-19
+CA00292,Search Campaign 292,Influencer,Small Business,2023-12-18,8127.54,Winback,2024-01-11
+CA00293,Flyer Campaign 293,Email,Consumer,2025-07-09,4037.08,Winback,2025-08-09
+CA00294,Loyalty App Campaign 294,Loyalty App,Premium,2025-08-03,4476.34,Awareness,2025-09-04
+CA00295,Flyer Campaign 295,Influencer,Small Business,2024-04-04,769.52,Winback,2024-04-19
+CA00296,Display Campaign 296,Search,Corporate,2025-05-29,3686.25,Awareness,2025-06-12
+CA00297,Social Campaign 297,Display,Premium,2023-12-13,3808.0,Winback,2023-12-28
+CA00298,Display Campaign 298,Flyer,Consumer,2024-02-24,7075.54,Conversion,2024-03-10
+CA00299,Influencer Campaign 299,Flyer,Corporate,2025-07-03,12250.65,Awareness,2025-08-13
+CA00300,Display Campaign 300,Influencer,Small Business,2025-08-21,6025.91,Retention,2025-09-14
+CA00301,Loyalty App Campaign 301,Social,Student,2024-03-22,3047.3,Winback,2024-03-28
+CA00302,Email Campaign 302,Flyer,Small Business,2023-11-24,11811.18,Winback,2023-12-04
+CA00303,Email Campaign 303,Search,Small Business,2025-01-18,4637.38,Winback,2025-02-05
+CA00304,Loyalty App Campaign 304,Social,Small Business,2024-02-02,4898.58,Conversion,2024-03-16
+CA00305,Email Campaign 305,Social,Corporate,2023-09-04,4859.99,Conversion,2023-09-21
+CA00306,Flyer Campaign 306,Influencer,Small Business,2024-03-31,14357.4,Winback,2024-05-04
+CA00307,Search Campaign 307,Influencer,All Customers,2023-02-19,25251.23,Retention,2023-02-27
+CA00308,Flyer Campaign 308,Loyalty App,Consumer,2024-04-26,6975.72,Awareness,2024-06-10
+CA00309,Flyer Campaign 309,Flyer,All Customers,2023-09-09,3836.33,Conversion,2023-09-20
+CA00310,Influencer Campaign 310,Search,Consumer,2025-01-05,4788.28,Conversion,2025-02-17
+CA00311,Social Campaign 311,Loyalty App,Student,2023-07-31,10058.39,Conversion,2023-09-10
+CA00312,Display Campaign 312,Social,All Customers,2025-03-16,10264.86,Conversion,2025-04-15
+CA00313,Social Campaign 313,Email,Small Business,2023-12-09,2938.49,Conversion,2023-12-17
+CA00314,Flyer Campaign 314,Flyer,Student,2025-06-02,5445.69,Awareness,2025-06-28
+CA00315,Email Campaign 315,Influencer,Premium,2024-11-21,4924.13,Retention,2024-12-06
+CA00316,Search Campaign 316,Search,Premium,2024-05-23,4429.44,Retention,2024-06-04
+CA00317,Display Campaign 317,Loyalty App,Premium,2023-10-24,2910.62,Awareness,2023-10-27
+CA00318,Social Campaign 318,Email,Student,2023-07-18,5795.16,Conversion,2023-08-23
+CA00319,Flyer Campaign 319,Flyer,All Customers,2025-04-02,2817.35,Awareness,2025-05-15
+CA00320,Loyalty App Campaign 320,Flyer,Student,2024-02-24,2404.16,Conversion,2024-03-04
+CA00321,Influencer Campaign 321,Loyalty App,Premium,2025-03-17,2301.29,Winback,2025-04-17
+CA00322,Email Campaign 322,Flyer,Premium,2025-01-06,12980.17,Conversion,2025-01-11
+CA00323,Display Campaign 323,Flyer,Premium,2025-04-09,13002.39,Winback,2025-05-17
+CA00324,Loyalty App Campaign 324,Display,Small Business,2025-04-03,9066.67,Winback,2025-04-09
+CA00325,Social Campaign 325,Loyalty App,Premium,2024-08-22,15184.95,Conversion,2024-09-11
+CA00326,Loyalty App Campaign 326,Email,Consumer,2023-06-06,5635.36,Awareness,2023-06-30
+CA00327,Loyalty App Campaign 327,Display,Corporate,2024-04-14,3695.99,Winback,2024-04-26
+CA00328,Loyalty App Campaign 328,Flyer,Student,2025-01-22,10283.24,Winback,2025-02-03
+CA00329,Email Campaign 329,Flyer,Corporate,2025-01-01,6846.41,Awareness,2025-01-08
+CA00330,Loyalty App Campaign 330,Display,Premium,2025-10-11,2022.77,Winback,2025-11-02
+CA00331,Social Campaign 331,Search,Small Business,2023-12-30,33585.31,Awareness,2024-01-05
+CA00332,Display Campaign 332,Social,Corporate,2023-06-26,17774.29,Winback,2023-08-04
+CA00333,Search Campaign 333,Social,Corporate,2024-10-29,2219.52,Conversion,2024-11-06
+CA00334,Email Campaign 334,Email,Student,2025-03-30,5685.67,Retention,2025-05-13
+CA00335,Email Campaign 335,Influencer,Consumer,2025-01-02,3491.34,Conversion,2025-02-02
+CA00336,Email Campaign 336,Flyer,Student,2025-07-20,27530.39,Conversion,2025-07-25
+CA00337,Loyalty App Campaign 337,Display,All Customers,2025-10-09,9428.99,Retention,2025-11-03
+CA00338,Search Campaign 338,Search,Corporate,2025-10-13,9451.86,Conversion,2025-11-08
+CA00339,Search Campaign 339,Social,Small Business,2023-04-28,2853.16,Winback,2023-06-12
+CA00340,Influencer Campaign 340,Influencer,Student,2025-02-28,10243.34,Winback,2025-03-09
+CA00341,Loyalty App Campaign 341,Influencer,Small Business,2025-07-13,15582.87,Awareness,2025-07-17
+CA00342,Display Campaign 342,Search,Small Business,2024-09-06,4173.88,Retention,2024-09-10
+CA00343,Flyer Campaign 343,Email,Consumer,2025-01-31,4503.99,Retention,2025-03-01
+CA00344,Social Campaign 344,Influencer,Consumer,2024-04-27,6746.28,Conversion,2024-05-29
+CA00345,Loyalty App Campaign 345,Display,Premium,2024-02-14,7317.31,Winback,2024-03-02
+CA00346,Search Campaign 346,Influencer,Corporate,2024-06-25,9126.56,Conversion,2024-07-13
+CA00347,Email Campaign 347,Display,Corporate,2023-05-11,8371.7,Retention,2023-06-23
+CA00348,Display Campaign 348,Loyalty App,Student,2024-09-25,3171.27,Retention,2024-10-11
+CA00349,Search Campaign 349,Display,Student,2024-04-14,2131.74,Awareness,2024-05-19
+CA00350,Display Campaign 350,Loyalty App,Premium,2025-07-05,8392.75,Winback,2025-07-16
+CA00351,Display Campaign 351,Influencer,Premium,2025-07-29,4956.31,Retention,2025-08-20
+CA00352,Email Campaign 352,Influencer,Consumer,2025-02-28,4933.82,Retention,2025-04-05
+CA00353,Email Campaign 353,Email,Small Business,2025-07-23,9224.96,Conversion,2025-08-28
+CA00354,Social Campaign 354,Flyer,Student,2024-01-22,3795.19,Conversion,2024-02-12
+CA00355,Influencer Campaign 355,Influencer,Student,2025-04-11,3584.29,Retention,2025-05-09
+CA00356,Influencer Campaign 356,Loyalty App,All Customers,2024-01-05,4255.52,Awareness,2024-02-13
+CA00357,Influencer Campaign 357,Flyer,Small Business,2025-01-23,24265.06,Retention,2025-02-28
+CA00358,Social Campaign 358,Display,Small Business,2025-01-23,31420.6,Retention,2025-02-12
+CA00359,Display Campaign 359,Email,All Customers,2025-07-11,5457.93,Retention,2025-08-06
+CA00360,Email Campaign 360,Flyer,Student,2023-12-07,5479.6,Awareness,2024-01-17
+CA00361,Social Campaign 361,Social,Premium,2023-11-12,1667.4,Winback,2023-12-18
+CA00362,Flyer Campaign 362,Display,Student,2023-02-14,2689.67,Conversion,2023-03-30
+CA00363,Loyalty App Campaign 363,Loyalty App,Small Business,2023-10-13,10853.39,Retention,2023-10-27
+CA00364,Display Campaign 364,Flyer,Consumer,2024-09-17,6289.07,Awareness,2024-10-24
+CA00365,Search Campaign 365,Influencer,Premium,2023-05-17,5963.57,Retention,2023-06-05
+CA00366,Influencer Campaign 366,Email,Student,2025-09-27,6662.6,Winback,2025-10-27
+CA00367,Social Campaign 367,Email,Student,2024-05-17,1305.77,Conversion,2024-05-21
+CA00368,Social Campaign 368,Influencer,All Customers,2025-09-24,11133.86,Winback,2025-10-17
+CA00369,Social Campaign 369,Search,All Customers,2023-03-21,5039.11,Winback,2023-03-30
+CA00370,Loyalty App Campaign 370,Influencer,Corporate,2024-07-07,3613.8,Winback,2024-07-13
+CA00371,Loyalty App Campaign 371,Email,Consumer,2023-06-09,3030.24,Winback,2023-07-02
+CA00372,Flyer Campaign 372,Email,Corporate,2024-01-19,3648.15,Conversion,2024-01-23
+CA00373,Influencer Campaign 373,Search,Corporate,2023-04-20,8409.84,Winback,2023-05-25
+CA00374,Social Campaign 374,Search,Consumer,2025-01-29,4079.8,Winback,2025-03-03
+CA00375,Email Campaign 375,Email,Premium,2023-07-04,4536.03,Winback,2023-08-02
+CA00376,Influencer Campaign 376,Flyer,Small Business,2023-02-11,5776.99,Retention,2023-02-19
+CA00377,Search Campaign 377,Search,All Customers,2024-01-14,661.73,Conversion,2024-02-21
+CA00378,Flyer Campaign 378,Flyer,Student,2023-07-15,14866.94,Conversion,2023-07-30
+CA00379,Social Campaign 379,Search,Consumer,2024-02-14,5751.59,Conversion,2024-02-28
+CA00380,Search Campaign 380,Search,Student,2025-10-24,3899.09,Retention,2025-11-15
+CA00381,Loyalty App Campaign 381,Search,All Customers,2023-11-23,18304.62,Retention,2023-12-26
+CA00382,Loyalty App Campaign 382,Flyer,Premium,2023-10-24,2397.71,Winback,2023-11-10
+CA00383,Loyalty App Campaign 383,Flyer,Premium,2023-03-03,1244.19,Retention,2023-03-29
+CA00384,Flyer Campaign 384,Search,Student,2023-05-30,7264.56,Awareness,2023-06-15
+CA00385,Social Campaign 385,Display,Small Business,2023-04-20,2127.61,Awareness,2023-06-04
+CA00386,Display Campaign 386,Influencer,Premium,2023-05-05,11751.61,Awareness,2023-06-10
+CA00387,Display Campaign 387,Display,Student,2023-04-23,20993.13,Awareness,2023-05-08
+CA00388,Flyer Campaign 388,Display,All Customers,2025-02-28,11272.81,Awareness,2025-04-04
+CA00389,Flyer Campaign 389,Flyer,All Customers,2024-08-14,1886.24,Winback,2024-09-07
+CA00390,Email Campaign 390,Loyalty App,Small Business,2025-10-27,8931.77,Awareness,2025-12-11
+CA00391,Email Campaign 391,Flyer,Premium,2025-10-08,3843.85,Awareness,2025-10-31
+CA00392,Loyalty App Campaign 392,Search,Student,2025-01-01,3724.59,Conversion,2025-01-09
+CA00393,Display Campaign 393,Loyalty App,All Customers,2023-06-01,2754.64,Winback,2023-06-24
+CA00394,Display Campaign 394,Email,Student,2024-11-27,6239.12,Retention,2024-12-25
+CA00395,Social Campaign 395,Loyalty App,All Customers,2023-12-24,2615.42,Conversion,2024-01-09
+CA00396,Social Campaign 396,Email,Student,2023-01-23,3071.18,Conversion,2023-02-06
+CA00397,Search Campaign 397,Social,Small Business,2025-06-03,7415.73,Awareness,2025-06-23
+CA00398,Email Campaign 398,Display,Consumer,2024-07-31,5277.34,Retention,2024-08-18
+CA00399,Influencer Campaign 399,Social,Corporate,2025-04-09,9648.36,Retention,2025-05-05
+CA00400,Social Campaign 400,Loyalty App,All Customers,2023-10-19,2858.65,Conversion,2023-11-04
+CA00401,Display Campaign 401,Flyer,Small Business,2025-07-28,11182.1,Awareness,2025-09-02
+CA00402,Social Campaign 402,Display,Premium,2023-01-28,35262.92,Awareness,2023-02-05
+CA00403,Loyalty App Campaign 403,Search,Small Business,2024-10-17,3439.65,Retention,2024-11-15
+CA00404,Influencer Campaign 404,Loyalty App,Premium,2023-08-17,13032.96,Awareness,2023-09-06
+CA00405,Influencer Campaign 405,Search,Small Business,2024-06-26,10362.54,Retention,2024-07-05
+CA00406,Display Campaign 406,Search,Corporate,2025-02-10,2304.84,Retention,2025-03-07
+CA00407,Loyalty App Campaign 407,Display,Premium,2023-02-19,1919.94,Retention,2023-03-19
+CA00408,Loyalty App Campaign 408,Display,Corporate,2025-07-15,4167.53,Conversion,2025-08-03
+CA00409,Search Campaign 409,Flyer,Small Business,2023-07-04,8642.89,Retention,2023-08-04
+CA00410,Search Campaign 410,Influencer,All Customers,2025-02-26,3750.7,Conversion,2025-03-25
+CA00411,Social Campaign 411,Influencer,Student,2025-06-22,5427.22,Awareness,2025-06-26
+CA00412,Email Campaign 412,Social,Student,2023-05-02,6503.96,Conversion,2023-05-08
+CA00413,Influencer Campaign 413,Loyalty App,Consumer,2023-09-15,10530.66,Winback,2023-10-11
+CA00414,Display Campaign 414,Loyalty App,Premium,2023-09-09,6103.12,Awareness,2023-10-04
+CA00415,Social Campaign 415,Influencer,Student,2024-09-10,5547.59,Retention,2024-09-26
+CA00416,Loyalty App Campaign 416,Search,Student,2023-12-09,17176.81,Awareness,2024-01-09
+CA00417,Email Campaign 417,Loyalty App,Student,2023-01-24,3122.45,Winback,2023-02-20
+CA00418,Search Campaign 418,Search,All Customers,2024-03-29,6474.22,Winback,2024-04-18
+CA00419,Loyalty App Campaign 419,Search,Consumer,2023-05-02,10757.36,Conversion,2023-05-07
+CA00420,Flyer Campaign 420,Loyalty App,Small Business,2023-03-21,4869.81,Awareness,2023-03-31
+CA00421,Social Campaign 421,Flyer,Student,2023-03-27,2943.42,Conversion,2023-04-10
+CA00422,Search Campaign 422,Loyalty App,Consumer,2025-11-09,4482.98,Winback,2025-11-16
+CA00423,Display Campaign 423,Social,Premium,2024-05-18,17061.8,Winback,2024-06-15
+CA00424,Social Campaign 424,Display,Small Business,2023-09-09,5565.29,Winback,2023-10-11
+CA00425,Search Campaign 425,Social,Consumer,2024-08-25,6656.79,Retention,2024-10-08
+CA00426,Social Campaign 426,Influencer,Small Business,2023-10-26,3178.05,Conversion,2023-11-09
+CA00427,Flyer Campaign 427,Display,Small Business,2025-10-26,6698.88,Winback,2025-11-25
+CA00428,Social Campaign 428,Loyalty App,Small Business,2023-06-05,2488.61,Conversion,2023-06-23
+CA00429,Search Campaign 429,Social,Small Business,2023-11-10,24505.44,Awareness,2023-12-15
+CA00430,Influencer Campaign 430,Influencer,Consumer,2025-09-07,14454.03,Retention,2025-10-20
+CA00431,Email Campaign 431,Influencer,Premium,2025-05-25,4842.09,Conversion,2025-06-06
+CA00432,Email Campaign 432,Social,Corporate,2024-07-23,9721.25,Conversion,2024-07-28
+CA00433,Email Campaign 433,Email,Small Business,2024-01-19,8652.73,Winback,2024-03-03
+CA00434,Email Campaign 434,Display,All Customers,2024-03-02,6209.48,Conversion,2024-04-08
+CA00435,Search Campaign 435,Loyalty App,Corporate,2025-07-04,10514.13,Winback,2025-07-14
+CA00436,Search Campaign 436,Search,Small Business,2024-10-07,11229.55,Winback,2024-11-18
+CA00437,Search Campaign 437,Email,Corporate,2023-09-12,1687.58,Awareness,2023-10-08
+CA00438,Social Campaign 438,Display,Corporate,2024-06-23,2698.14,Awareness,2024-07-31
+CA00439,Flyer Campaign 439,Influencer,All Customers,2023-04-01,1805.27,Retention,2023-05-07
+CA00440,Email Campaign 440,Email,Consumer,2024-02-09,14512.58,Awareness,2024-03-06
+CA00441,Flyer Campaign 441,Email,Corporate,2025-01-28,6927.08,Retention,2025-03-08
+CA00442,Loyalty App Campaign 442,Flyer,Corporate,2024-08-12,11119.77,Retention,2024-08-17
+CA00443,Email Campaign 443,Social,Student,2024-08-28,12522.83,Conversion,2024-09-21
+CA00444,Influencer Campaign 444,Search,Student,2023-11-05,9828.08,Winback,2023-11-29
+CA00445,Display Campaign 445,Search,Premium,2024-12-17,10851.12,Conversion,2025-01-07
+CA00446,Flyer Campaign 446,Loyalty App,Premium,2024-08-18,4321.39,Retention,2024-09-27
+CA00447,Flyer Campaign 447,Flyer,Corporate,2024-12-01,38413.01,Retention,2024-12-31
+CA00448,Influencer Campaign 448,Loyalty App,Consumer,2025-04-11,16661.54,Awareness,2025-04-20
+CA00449,Influencer Campaign 449,Social,All Customers,2023-04-25,19741.11,Conversion,2023-05-05
+CA00450,Social Campaign 450,Flyer,Consumer,2024-04-21,9330.35,Winback,2024-04-25
+CA00451,Social Campaign 451,Flyer,Small Business,2025-08-02,12083.06,Conversion,2025-09-05
+CA00452,Search Campaign 452,Display,Premium,2024-12-12,29419.62,Awareness,2025-01-04
+CA00453,Social Campaign 453,Email,Student,2025-11-23,7952.27,Conversion,2025-12-21
+CA00454,Display Campaign 454,Display,All Customers,2023-09-11,7633.08,Retention,2023-09-26
+CA00455,Social Campaign 455,Loyalty App,Student,2023-12-13,14359.64,Retention,2024-01-27
+CA00456,Search Campaign 456,Search,Corporate,2023-04-15,6714.04,Winback,2023-05-10
+CA00457,Influencer Campaign 457,Social,Student,2023-07-23,6327.63,Conversion,2023-08-31
+CA00458,Email Campaign 458,Search,All Customers,2025-05-02,3807.45,Awareness,2025-06-09
+CA00459,Email Campaign 459,Email,Consumer,2023-08-01,3840.75,Conversion,2023-08-17
+CA00460,Display Campaign 460,Flyer,Corporate,2023-07-27,1553.06,Retention,2023-08-11
+CA00461,Display Campaign 461,Flyer,Student,2025-08-19,4797.45,Conversion,2025-09-04
+CA00462,Social Campaign 462,Email,Corporate,2023-03-19,5138.44,Retention,2023-04-01
+CA00463,Search Campaign 463,Search,All Customers,2023-09-28,4922.52,Conversion,2023-10-16
+CA00464,Influencer Campaign 464,Flyer,Small Business,2023-11-27,8625.77,Awareness,2024-01-08
+CA00465,Loyalty App Campaign 465,Search,All Customers,2023-09-08,2758.22,Awareness,2023-09-28
+CA00466,Flyer Campaign 466,Display,Corporate,2023-02-24,2495.67,Conversion,2023-04-09
+CA00467,Display Campaign 467,Email,Small Business,2024-03-14,4396.51,Winback,2024-04-23
+CA00468,Search Campaign 468,Flyer,Premium,2023-07-23,1365.1,Awareness,2023-08-17
+CA00469,Loyalty App Campaign 469,Flyer,Premium,2025-07-26,9717.73,Conversion,2025-08-17
+CA00470,Loyalty App Campaign 470,Influencer,Small Business,2024-08-29,2336.2,Retention,2024-09-10
+CA00471,Flyer Campaign 471,Search,Premium,2024-04-21,3749.42,Conversion,2024-04-30
+CA00472,Social Campaign 472,Flyer,Small Business,2023-02-20,6626.95,Conversion,2023-04-03
+CA00473,Social Campaign 473,Influencer,All Customers,2023-01-19,5450.31,Winback,2023-02-21
+CA00474,Influencer Campaign 474,Social,Small Business,2024-11-10,8037.97,Retention,2024-11-15
+CA00475,Social Campaign 475,Display,Corporate,2025-05-18,4805.17,Retention,2025-05-24
+CA00476,Loyalty App Campaign 476,Display,Corporate,2025-10-18,1376.32,Awareness,2025-11-03
+CA00477,Search Campaign 477,Influencer,Premium,2023-12-14,2257.71,Conversion,2023-12-31
+CA00478,Search Campaign 478,Loyalty App,Consumer,2024-07-12,3880.1,Winback,2024-08-10
+CA00479,Loyalty App Campaign 479,Social,Corporate,2025-08-16,13793.03,Retention,2025-08-25
+CA00480,Flyer Campaign 480,Display,Corporate,2024-07-23,3290.62,Retention,2024-09-01
+CA00481,Search Campaign 481,Display,Small Business,2024-03-11,5380.91,Winback,2024-04-22
+CA00482,Email Campaign 482,Loyalty App,Consumer,2024-09-24,19752.11,Winback,2024-10-15
+CA00483,Search Campaign 483,Influencer,Small Business,2023-07-19,5141.35,Awareness,2023-08-11
+CA00484,Email Campaign 484,Search,All Customers,2024-08-27,5900.98,Awareness,2024-09-14
+CA00485,Influencer Campaign 485,Display,Premium,2023-05-09,2674.61,Awareness,2023-06-02
+CA00486,Search Campaign 486,Social,Consumer,2024-12-12,12891.77,Awareness,2025-01-15
+CA00487,Loyalty App Campaign 487,Influencer,Corporate,2023-12-31,16044.0,Conversion,2024-01-08
+CA00488,Influencer Campaign 488,Search,Small Business,2025-06-12,2420.59,Winback,2025-06-19
+CA00489,Email Campaign 489,Email,Student,2024-12-01,8350.25,Winback,2024-12-25
+CA00490,Email Campaign 490,Search,Small Business,2025-11-12,18206.4,Retention,2025-11-20
+CA00491,Email Campaign 491,Search,Small Business,2023-08-10,16747.13,Retention,2023-08-27
+CA00492,Social Campaign 492,Influencer,Student,2023-04-27,7196.21,Winback,2023-05-21
+CA00493,Search Campaign 493,Flyer,All Customers,2023-03-10,4981.2,Winback,2023-04-21
+CA00494,Social Campaign 494,Flyer,Corporate,2023-12-17,3931.04,Conversion,2024-01-31
+CA00495,Display Campaign 495,Loyalty App,Student,2023-07-06,4524.06,Retention,2023-07-16
+CA00496,Display Campaign 496,Influencer,Student,2025-04-21,6130.87,Winback,2025-05-02
+CA00497,Loyalty App Campaign 497,Display,Premium,2025-11-04,4068.85,Awareness,2025-11-15
+CA00498,Search Campaign 498,Display,Student,2025-11-01,11096.43,Conversion,2025-11-28
+CA00499,Display Campaign 499,Flyer,Consumer,2024-07-01,2393.99,Conversion,2024-07-21
+CA00500,Search Campaign 500,Email,Student,2023-02-27,6071.62,Conversion,2023-04-13
+CA00501,Search Campaign 501,Email,Student,2024-04-18,1828.83,Retention,2024-04-30
+CA00502,Flyer Campaign 502,Social,Small Business,2024-09-09,4665.43,Winback,2024-09-25
+CA00503,Influencer Campaign 503,Flyer,Student,2024-12-24,14942.49,Winback,2024-12-29
+CA00504,Loyalty App Campaign 504,Social,Corporate,2025-11-01,7019.65,Awareness,2025-11-05
+CA00505,Flyer Campaign 505,Social,Student,2024-05-14,5318.72,Conversion,2024-06-23
+CA00506,Social Campaign 506,Flyer,Consumer,2025-09-17,2368.83,Retention,2025-10-15
+CA00507,Social Campaign 507,Search,Student,2025-11-04,19459.48,Awareness,2025-12-09
+CA00508,Influencer Campaign 508,Flyer,Corporate,2023-04-25,17272.25,Awareness,2023-05-10
+CA00509,Flyer Campaign 509,Email,Student,2024-04-26,3652.79,Retention,2024-05-15
+CA00510,Flyer Campaign 510,Search,Consumer,2025-09-25,7016.99,Conversion,2025-11-01
+CA00511,Search Campaign 511,Display,Small Business,2023-06-06,5714.1,Retention,2023-06-30
+CA00512,Search Campaign 512,Influencer,Corporate,2023-01-03,9384.55,Conversion,2023-02-08
+CA00513,Search Campaign 513,Social,Student,2023-08-15,2469.01,Winback,2023-09-22
+CA00514,Search Campaign 514,Email,Small Business,2024-07-09,6827.13,Awareness,2024-08-16
+CA00515,Display Campaign 515,Search,Consumer,2024-09-03,2067.34,Retention,2024-09-22
+CA00516,Loyalty App Campaign 516,Loyalty App,All Customers,2024-03-21,12351.8,Retention,2024-03-29
+CA00517,Flyer Campaign 517,Search,Consumer,2025-06-03,6622.7,Retention,2025-06-22
+CA00518,Influencer Campaign 518,Flyer,Corporate,2023-06-24,10570.48,Winback,2023-08-05
+CA00519,Display Campaign 519,Loyalty App,Consumer,2025-05-19,8376.24,Conversion,2025-06-27
+CA00520,Loyalty App Campaign 520,Flyer,Premium,2025-03-19,8718.61,Awareness,2025-04-13
+CA00521,Influencer Campaign 521,Flyer,Student,2025-05-07,3231.21,Awareness,2025-05-13
+CA00522,Social Campaign 522,Social,All Customers,2024-04-11,7052.01,Retention,2024-05-09
+CA00523,Loyalty App Campaign 523,Loyalty App,Premium,2025-04-29,28959.49,Winback,2025-05-06
+CA00524,Search Campaign 524,Loyalty App,Consumer,2025-08-02,3287.44,Winback,2025-09-05
+CA00525,Flyer Campaign 525,Influencer,All Customers,2023-11-04,9052.02,Awareness,2023-11-20
+CA00526,Search Campaign 526,Loyalty App,Corporate,2025-07-08,8614.65,Winback,2025-07-15
+CA00527,Display Campaign 527,Loyalty App,Small Business,2024-09-28,1481.15,Awareness,2024-10-14
+CA00528,Influencer Campaign 528,Social,Premium,2024-03-08,4040.88,Winback,2024-04-12
+CA00529,Email Campaign 529,Display,Small Business,2023-12-26,7620.43,Retention,2024-01-15
+CA00530,Email Campaign 530,Display,Consumer,2024-02-07,6886.76,Awareness,2024-02-23
+CA00531,Loyalty App Campaign 531,Flyer,Corporate,2025-01-23,2453.01,Conversion,2025-02-14
+CA00532,Influencer Campaign 532,Flyer,Consumer,2023-02-03,8231.68,Conversion,2023-03-05
+CA00533,Social Campaign 533,Display,Small Business,2023-12-15,4526.52,Conversion,2023-12-25
+CA00534,Search Campaign 534,Email,Corporate,2024-06-11,9103.71,Retention,2024-06-19
+CA00535,Social Campaign 535,Email,Consumer,2025-05-19,4883.77,Awareness,2025-06-28
+CA00536,Display Campaign 536,Search,Premium,2023-12-30,15335.18,Retention,2024-01-07
+CA00537,Email Campaign 537,Loyalty App,Premium,2023-01-04,13187.73,Conversion,2023-02-12
+CA00538,Display Campaign 538,Social,Small Business,2024-11-06,3083.05,Awareness,2024-12-10
+CA00539,Loyalty App Campaign 539,Influencer,Corporate,2025-11-14,3393.16,Retention,2025-11-17
+CA00540,Influencer Campaign 540,Influencer,Small Business,2025-09-14,3697.24,Awareness,2025-09-25
+CA00541,Social Campaign 541,Search,Corporate,2024-07-26,5218.53,Awareness,2024-08-22
+CA00542,Search Campaign 542,Display,Premium,2024-08-15,807.74,Winback,2024-09-21
+CA00543,Display Campaign 543,Loyalty App,Consumer,2024-10-19,1929.62,Retention,2024-10-26
+CA00544,Email Campaign 544,Email,Consumer,2025-08-14,2223.22,Retention,2025-08-28
+CA00545,Loyalty App Campaign 545,Search,Premium,2025-05-05,3310.79,Awareness,2025-06-07
+CA00546,Social Campaign 546,Search,Consumer,2024-07-23,1908.2,Awareness,2024-07-26
+CA00547,Influencer Campaign 547,Influencer,Corporate,2025-11-23,4160.8,Conversion,2025-12-25
+CA00548,Email Campaign 548,Display,Small Business,2025-06-24,5546.15,Retention,2025-08-08
+CA00549,Social Campaign 549,Flyer,All Customers,2025-10-19,9070.82,Winback,2025-11-25
+CA00550,Display Campaign 550,Email,Corporate,2025-07-01,11609.0,Retention,2025-08-11
+CA00551,Influencer Campaign 551,Flyer,Small Business,2025-02-18,3959.49,Winback,2025-03-30
+CA00552,Search Campaign 552,Social,All Customers,2024-08-14,27535.81,Retention,2024-09-04
+CA00553,Social Campaign 553,Influencer,Small Business,2023-12-22,3463.12,Awareness,2024-01-19
+CA00554,Loyalty App Campaign 554,Email,All Customers,2025-01-01,2161.45,Awareness,2025-01-13
+CA00555,Social Campaign 555,Email,Small Business,2025-05-18,7545.52,Awareness,2025-06-24
+CA00556,Email Campaign 556,Email,Student,2023-10-07,3224.67,Awareness,2023-11-10
+CA00557,Search Campaign 557,Flyer,All Customers,2023-09-17,15534.33,Retention,2023-09-27
+CA00558,Flyer Campaign 558,Influencer,Consumer,2024-06-11,5671.94,Conversion,2024-06-14
+CA00559,Display Campaign 559,Search,Small Business,2023-01-11,2998.11,Conversion,2023-01-25
+CA00560,Loyalty App Campaign 560,Loyalty App,Student,2023-04-27,13407.5,Winback,2023-05-01
+CA00561,Display Campaign 561,Display,Student,2024-09-20,10432.27,Winback,2024-10-18
+CA00562,Display Campaign 562,Search,Consumer,2024-02-14,11244.11,Retention,2024-03-28
+CA00563,Social Campaign 563,Influencer,Small Business,2023-07-19,16229.38,Awareness,2023-08-20
+CA00564,Flyer Campaign 564,Display,Consumer,2023-04-29,6644.69,Winback,2023-05-20
+CA00565,Social Campaign 565,Display,Consumer,2024-11-28,3982.61,Awareness,2024-12-29
+CA00566,Flyer Campaign 566,Email,Small Business,2023-12-17,2896.05,Winback,2024-01-11
+CA00567,Display Campaign 567,Social,Student,2024-02-23,15687.48,Retention,2024-03-03
+CA00568,Loyalty App Campaign 568,Email,Consumer,2025-02-13,5908.45,Conversion,2025-03-21
+CA00569,Search Campaign 569,Search,Consumer,2024-12-30,38029.09,Awareness,2025-01-28
+CA00570,Loyalty App Campaign 570,Influencer,Corporate,2024-02-12,32449.5,Winback,2024-03-20
+CA00571,Social Campaign 571,Flyer,Premium,2024-06-06,4590.82,Conversion,2024-06-09
+CA00572,Flyer Campaign 572,Loyalty App,Premium,2023-11-13,2997.76,Retention,2023-12-06
+CA00573,Email Campaign 573,Loyalty App,Small Business,2025-09-25,8996.6,Retention,2025-10-20
+CA00574,Influencer Campaign 574,Loyalty App,Small Business,2025-10-13,11453.48,Retention,2025-10-26
+CA00575,Display Campaign 575,Display,All Customers,2025-01-10,6059.84,Retention,2025-01-27
+CA00576,Search Campaign 576,Search,Premium,2023-03-20,5434.96,Retention,2023-04-04
+CA00577,Display Campaign 577,Social,Consumer,2024-12-13,8782.09,Conversion,2025-01-22
+CA00578,Influencer Campaign 578,Display,All Customers,2023-06-08,10297.37,Retention,2023-07-01
+CA00579,Email Campaign 579,Email,All Customers,2024-11-20,1722.4,Winback,2024-12-20
+CA00580,Loyalty App Campaign 580,Search,Consumer,2023-04-13,6325.71,Winback,2023-05-25
+CA00581,Email Campaign 581,Social,Consumer,2024-05-09,7004.53,Conversion,2024-06-16
+CA00582,Influencer Campaign 582,Influencer,Premium,2025-04-26,12839.14,Winback,2025-05-13
+CA00583,Email Campaign 583,Search,Corporate,2023-02-20,2594.26,Awareness,2023-03-20
+CA00584,Flyer Campaign 584,Flyer,Student,2023-01-12,4381.6,Retention,2023-02-12
+CA00585,Influencer Campaign 585,Display,Corporate,2023-01-15,19939.78,Awareness,2023-01-26
+CA00586,Social Campaign 586,Flyer,Premium,2025-07-23,2536.57,Conversion,2025-08-12
+CA00587,Email Campaign 587,Loyalty App,Small Business,2023-04-05,22239.16,Conversion,2023-04-30
+CA00588,Social Campaign 588,Flyer,All Customers,2025-04-04,8904.95,Retention,2025-04-09
+CA00589,Search Campaign 589,Email,All Customers,2024-04-14,4689.5,Awareness,2024-04-23
+CA00590,Email Campaign 590,Search,All Customers,2024-08-13,4479.33,Winback,2024-09-19
+CA00591,Email Campaign 591,Flyer,Student,2023-06-29,2274.28,Conversion,2023-08-03
+CA00592,Flyer Campaign 592,Flyer,All Customers,2023-06-21,9290.21,Retention,2023-08-03
+CA00593,Social Campaign 593,Loyalty App,Consumer,2024-07-18,21860.43,Awareness,2024-08-21
+CA00594,Email Campaign 594,Social,Small Business,2023-10-02,11555.34,Winback,2023-10-14
+CA00595,Display Campaign 595,Display,Consumer,2024-11-20,14401.88,Awareness,2024-12-11
+CA00596,Display Campaign 596,Display,Consumer,2023-03-05,20065.21,Winback,2023-04-01
+CA00597,Flyer Campaign 597,Loyalty App,All Customers,2023-05-23,2885.2,Conversion,2023-06-25
+CA00598,Display Campaign 598,Display,Corporate,2023-03-13,3280.52,Conversion,2023-04-05
+CA00599,Influencer Campaign 599,Loyalty App,Student,2025-06-22,5714.89,Winback,2025-07-07
+CA00600,Social Campaign 600,Search,Consumer,2025-09-27,14075.96,Awareness,2025-10-10
+CA00601,Flyer Campaign 601,Display,Consumer,2023-04-30,10915.78,Conversion,2023-05-18
+CA00602,Search Campaign 602,Email,Student,2023-11-09,12270.14,Winback,2023-12-02
+CA00603,Flyer Campaign 603,Social,Premium,2024-08-13,3006.73,Retention,2024-08-28
+CA00604,Influencer Campaign 604,Email,Small Business,2023-09-23,3351.35,Conversion,2023-10-28
+CA00605,Influencer Campaign 605,Flyer,Student,2023-11-02,4943.45,Retention,2023-11-30
+CA00606,Display Campaign 606,Social,All Customers,2025-10-29,6590.12,Conversion,2025-11-18
+CA00607,Social Campaign 607,Flyer,All Customers,2023-04-13,4245.62,Conversion,2023-05-02
+CA00608,Search Campaign 608,Loyalty App,Small Business,2024-11-16,11598.3,Winback,2024-11-30
+CA00609,Flyer Campaign 609,Loyalty App,All Customers,2025-04-26,8211.4,Awareness,2025-05-11
+CA00610,Social Campaign 610,Search,Consumer,2024-04-11,6229.36,Conversion,2024-05-21
+CA00611,Flyer Campaign 611,Loyalty App,Corporate,2023-11-28,4014.63,Winback,2023-12-28
+CA00612,Display Campaign 612,Search,Corporate,2025-11-21,6968.63,Retention,2025-12-25
+CA00613,Loyalty App Campaign 613,Influencer,Corporate,2024-10-02,3227.36,Winback,2024-10-27
+CA00614,Influencer Campaign 614,Search,Consumer,2023-03-28,12483.67,Winback,2023-04-25
+CA00615,Loyalty App Campaign 615,Email,Premium,2023-11-11,45613.69,Winback,2023-11-28
+CA00616,Flyer Campaign 616,Loyalty App,Consumer,2025-07-30,3455.74,Retention,2025-08-03
+CA00617,Social Campaign 617,Loyalty App,Premium,2024-12-16,21731.24,Conversion,2025-01-21
+CA00618,Social Campaign 618,Search,Corporate,2024-03-20,13666.04,Winback,2024-04-01
+CA00619,Search Campaign 619,Display,Student,2023-01-16,3165.86,Retention,2023-01-30
+CA00620,Influencer Campaign 620,Flyer,All Customers,2025-01-02,7980.85,Winback,2025-02-09
+CA00621,Display Campaign 621,Display,Consumer,2024-09-23,3239.97,Winback,2024-11-01
+CA00622,Social Campaign 622,Email,Consumer,2024-03-16,10291.34,Retention,2024-04-16
+CA00623,Search Campaign 623,Display,Premium,2025-10-09,16123.83,Retention,2025-11-10
+CA00624,Influencer Campaign 624,Loyalty App,Premium,2025-11-04,37105.49,Retention,2025-12-16
+CA00625,Display Campaign 625,Social,Corporate,2024-12-13,9538.13,Awareness,2024-12-26
+CA00626,Flyer Campaign 626,Loyalty App,Corporate,2023-10-22,12747.69,Winback,2023-11-17
+CA00627,Social Campaign 627,Influencer,All Customers,2025-09-22,11453.94,Retention,2025-10-26
+CA00628,Email Campaign 628,Loyalty App,Consumer,2025-03-21,2463.47,Awareness,2025-04-28
+CA00629,Email Campaign 629,Search,Premium,2024-02-15,50791.95,Awareness,2024-03-02
+CA00630,Loyalty App Campaign 630,Display,All Customers,2024-07-06,31304.73,Awareness,2024-07-18
+CA00631,Loyalty App Campaign 631,Email,All Customers,2025-01-08,4079.01,Awareness,2025-02-17
+CA00632,Email Campaign 632,Email,Student,2024-05-20,8776.15,Retention,2024-06-12
+CA00633,Display Campaign 633,Email,Student,2023-06-18,1952.1,Winback,2023-06-27
+CA00634,Email Campaign 634,Loyalty App,Corporate,2025-10-08,14400.16,Retention,2025-11-01
+CA00635,Flyer Campaign 635,Social,Premium,2025-03-02,7716.89,Retention,2025-03-05
+CA00636,Display Campaign 636,Search,Premium,2025-06-29,3565.25,Retention,2025-07-29
+CA00637,Influencer Campaign 637,Loyalty App,Corporate,2023-06-02,2602.4,Retention,2023-06-14
+CA00638,Loyalty App Campaign 638,Display,Corporate,2024-12-16,24063.9,Awareness,2024-12-30
+CA00639,Social Campaign 639,Influencer,Student,2024-03-01,18892.62,Winback,2024-03-28
+CA00640,Social Campaign 640,Search,Small Business,2023-12-19,11904.87,Conversion,2023-12-28
+CA00641,Email Campaign 641,Social,Small Business,2024-12-18,6821.01,Retention,2025-01-23
+CA00642,Flyer Campaign 642,Flyer,Premium,2024-04-03,2735.26,Retention,2024-05-05
+CA00643,Search Campaign 643,Email,Corporate,2024-11-15,6567.64,Winback,2024-12-27
+CA00644,Display Campaign 644,Social,Premium,2025-06-21,10072.37,Winback,2025-07-10
+CA00645,Social Campaign 645,Loyalty App,Corporate,2025-03-02,3162.06,Retention,2025-04-06
+CA00646,Loyalty App Campaign 646,Social,Premium,2024-04-08,3692.13,Conversion,2024-05-17
+CA00647,Display Campaign 647,Loyalty App,Corporate,2023-12-17,8796.54,Awareness,2024-01-04
+CA00648,Social Campaign 648,Search,Student,2024-05-23,6012.03,Awareness,2024-06-03
+CA00649,Loyalty App Campaign 649,Influencer,Small Business,2024-06-08,11982.86,Conversion,2024-07-08
+CA00650,Email Campaign 650,Flyer,Corporate,2024-03-29,8642.43,Awareness,2024-05-01
+CA00651,Loyalty App Campaign 651,Email,Consumer,2023-09-16,3712.16,Retention,2023-10-12
+CA00652,Loyalty App Campaign 652,Display,Corporate,2025-01-28,5104.3,Retention,2025-02-03
+CA00653,Social Campaign 653,Social,Small Business,2025-11-15,2988.59,Conversion,2025-11-21
+CA00654,Social Campaign 654,Display,Corporate,2023-10-16,7528.61,Winback,2023-11-27
+CA00655,Loyalty App Campaign 655,Display,All Customers,2025-01-29,5537.8,Conversion,2025-02-09
+CA00656,Influencer Campaign 656,Flyer,Premium,2023-02-06,2332.2,Winback,2023-02-17
+CA00657,Loyalty App Campaign 657,Flyer,All Customers,2025-08-16,23082.31,Retention,2025-08-23
+CA00658,Social Campaign 658,Flyer,Student,2025-07-14,7681.02,Retention,2025-07-25
+CA00659,Social Campaign 659,Loyalty App,Premium,2023-08-09,921.54,Retention,2023-09-06
+CA00660,Email Campaign 660,Influencer,Consumer,2025-03-31,4454.65,Winback,2025-04-19
+CA00661,Flyer Campaign 661,Social,Student,2025-08-10,10424.1,Winback,2025-09-06
+CA00662,Email Campaign 662,Social,Corporate,2024-01-29,6664.7,Winback,2024-03-06
+CA00663,Email Campaign 663,Flyer,Student,2025-01-18,7345.25,Awareness,2025-02-06
+CA00664,Display Campaign 664,Email,Small Business,2024-06-22,14300.3,Awareness,2024-07-16
+CA00665,Search Campaign 665,Email,Small Business,2023-09-24,17224.48,Awareness,2023-10-07
+CA00666,Influencer Campaign 666,Influencer,All Customers,2025-03-27,3918.86,Retention,2025-04-30
+CA00667,Flyer Campaign 667,Flyer,All Customers,2024-12-05,3705.17,Winback,2025-01-16
+CA00668,Loyalty App Campaign 668,Display,Small Business,2023-05-31,1715.92,Winback,2023-06-19
+CA00669,Search Campaign 669,Display,All Customers,2025-07-30,5463.8,Retention,2025-08-14
+CA00670,Social Campaign 670,Influencer,Small Business,2025-10-20,16977.27,Retention,2025-11-14
+CA00671,Social Campaign 671,Email,Consumer,2023-04-03,4486.76,Winback,2023-04-22
+CA00672,Flyer Campaign 672,Influencer,Corporate,2024-06-13,7280.19,Awareness,2024-07-03
+CA00673,Social Campaign 673,Social,Consumer,2023-06-07,2394.82,Conversion,2023-06-17
+CA00674,Social Campaign 674,Loyalty App,Corporate,2025-01-20,3825.96,Retention,2025-01-28
+CA00675,Email Campaign 675,Influencer,Student,2025-10-02,1691.63,Awareness,2025-11-15
+CA00676,Display Campaign 676,Social,All Customers,2024-07-28,4142.97,Awareness,2024-09-04
+CA00677,Flyer Campaign 677,Influencer,All Customers,2023-11-11,7084.92,Retention,2023-11-24
+CA00678,Social Campaign 678,Influencer,Small Business,2025-11-04,10445.97,Retention,2025-11-30
+CA00679,Search Campaign 679,Social,Premium,2024-11-27,14310.03,Conversion,2025-01-07
+CA00680,Search Campaign 680,Email,Premium,2023-05-01,5450.96,Awareness,2023-06-04
+CA00681,Loyalty App Campaign 681,Display,Student,2023-07-19,2494.12,Awareness,2023-09-01
+CA00682,Flyer Campaign 682,Social,Small Business,2024-05-26,5349.31,Retention,2024-07-04
+CA00683,Flyer Campaign 683,Email,Consumer,2024-01-14,5356.06,Winback,2024-02-05
+CA00684,Display Campaign 684,Display,Student,2025-03-04,9241.62,Retention,2025-04-10
+CA00685,Search Campaign 685,Display,All Customers,2024-06-21,5709.71,Conversion,2024-06-28
+CA00686,Search Campaign 686,Influencer,Corporate,2025-11-22,5203.34,Awareness,2025-11-30
+CA00687,Influencer Campaign 687,Loyalty App,Premium,2025-08-11,4279.87,Winback,2025-09-03
+CA00688,Loyalty App Campaign 688,Display,Consumer,2025-07-25,5900.24,Conversion,2025-08-12
+CA00689,Email Campaign 689,Flyer,Consumer,2023-12-27,2493.17,Conversion,2024-01-03
+CA00690,Loyalty App Campaign 690,Influencer,Corporate,2025-11-01,5779.17,Retention,2025-11-11
+CA00691,Display Campaign 691,Loyalty App,Corporate,2023-10-17,2287.52,Retention,2023-10-22
+CA00692,Influencer Campaign 692,Loyalty App,Premium,2024-07-18,3229.24,Awareness,2024-08-11
+CA00693,Social Campaign 693,Search,Corporate,2023-12-10,5503.27,Winback,2024-01-19
+CA00694,Email Campaign 694,Display,Small Business,2023-05-30,22034.4,Conversion,2023-06-24
+CA00695,Email Campaign 695,Search,Student,2023-12-01,7960.11,Winback,2024-01-04
+CA00696,Display Campaign 696,Email,Corporate,2024-12-07,14625.21,Awareness,2025-01-04
+CA00697,Flyer Campaign 697,Loyalty App,Small Business,2025-09-14,3376.22,Retention,2025-10-07
+CA00698,Email Campaign 698,Loyalty App,Small Business,2024-02-04,12552.51,Retention,2024-02-25
+CA00699,Search Campaign 699,Influencer,Corporate,2024-03-11,7562.57,Awareness,2024-03-29
+CA00700,Loyalty App Campaign 700,Display,Student,2023-10-30,4141.98,Winback,2023-11-29
+CA00701,Flyer Campaign 701,Display,Premium,2023-08-25,6253.94,Winback,2023-09-10
+CA00702,Social Campaign 702,Loyalty App,All Customers,2025-11-02,2877.8,Winback,2025-12-17
+CA00703,Display Campaign 703,Loyalty App,Corporate,2025-07-09,5292.24,Awareness,2025-08-14
+CA00704,Email Campaign 704,Influencer,Premium,2024-12-19,7514.38,Winback,2024-12-29
+CA00705,Email Campaign 705,Email,Corporate,2025-09-16,8680.55,Conversion,2025-09-19
+CA00706,Search Campaign 706,Display,All Customers,2023-06-20,9951.82,Conversion,2023-07-21
+CA00707,Influencer Campaign 707,Search,Student,2025-08-30,20107.88,Retention,2025-10-07
+CA00708,Social Campaign 708,Search,All Customers,2024-03-22,4758.78,Awareness,2024-04-11
+CA00709,Influencer Campaign 709,Display,Premium,2023-07-18,9200.28,Winback,2023-08-14
+CA00710,Display Campaign 710,Display,Consumer,2024-11-05,6112.34,Retention,2024-11-22
+CA00711,Search Campaign 711,Email,Small Business,2024-12-31,14036.45,Winback,2025-01-16
+CA00712,Display Campaign 712,Search,Consumer,2024-12-05,11045.74,Retention,2024-12-13
+CA00713,Influencer Campaign 713,Influencer,Premium,2023-06-17,5131.61,Winback,2023-07-09
+CA00714,Email Campaign 714,Flyer,Small Business,2025-03-08,6924.83,Winback,2025-03-23
+CA00715,Email Campaign 715,Social,All Customers,2024-05-30,9818.58,Winback,2024-07-09
+CA00716,Display Campaign 716,Flyer,Student,2023-10-15,4702.31,Retention,2023-11-18
+CA00717,Email Campaign 717,Flyer,Corporate,2024-11-18,3641.97,Conversion,2024-11-26
+CA00718,Social Campaign 718,Social,All Customers,2024-07-14,14114.23,Winback,2024-08-28
+CA00719,Search Campaign 719,Email,Consumer,2024-04-10,7654.64,Winback,2024-05-15
+CA00720,Influencer Campaign 720,Influencer,Premium,2023-07-30,3304.75,Retention,2023-09-05
+CA00721,Email Campaign 721,Influencer,Premium,2025-03-14,4968.98,Winback,2025-03-23
+CA00722,Email Campaign 722,Email,Small Business,2023-02-08,16802.76,Winback,2023-02-25
+CA00723,Social Campaign 723,Email,Consumer,2025-01-09,23738.09,Awareness,2025-02-11
+CA00724,Loyalty App Campaign 724,Search,Corporate,2025-06-16,18167.08,Conversion,2025-06-22
+CA00725,Email Campaign 725,Loyalty App,Small Business,2023-07-26,6987.0,Awareness,2023-08-09
+CA00726,Social Campaign 726,Flyer,Corporate,2024-10-20,4038.81,Retention,2024-11-22
+CA00727,Influencer Campaign 727,Influencer,Student,2024-05-22,5685.03,Retention,2024-06-10
+CA00728,Search Campaign 728,Social,Small Business,2025-03-05,1806.95,Winback,2025-04-09
+CA00729,Influencer Campaign 729,Search,Premium,2024-08-28,4398.22,Conversion,2024-10-03
+CA00730,Email Campaign 730,Email,Student,2023-06-09,7005.51,Awareness,2023-06-13
+CA00731,Loyalty App Campaign 731,Display,Premium,2024-09-20,5067.1,Conversion,2024-10-19
+CA00732,Flyer Campaign 732,Influencer,Consumer,2023-07-24,4071.1,Winback,2023-08-23
+CA00733,Loyalty App Campaign 733,Flyer,Student,2025-09-17,3582.04,Winback,2025-10-12
+CA00734,Display Campaign 734,Social,Corporate,2023-11-05,6221.08,Awareness,2023-12-07
+CA00735,Search Campaign 735,Influencer,Premium,2023-03-21,3783.47,Winback,2023-03-29
+CA00736,Influencer Campaign 736,Influencer,All Customers,2024-01-24,47565.43,Winback,2024-02-22
+CA00737,Social Campaign 737,Display,Consumer,2024-11-01,26575.36,Conversion,2024-11-08
+CA00738,Display Campaign 738,Display,Premium,2025-07-10,886.35,Awareness,2025-08-23
+CA00739,Social Campaign 739,Email,Student,2023-02-09,4713.92,Winback,2023-02-24
+CA00740,Search Campaign 740,Search,Small Business,2024-05-20,5505.87,Awareness,2024-07-02
+CA00741,Email Campaign 741,Display,All Customers,2024-09-30,6391.53,Retention,2024-10-14
+CA00742,Search Campaign 742,Search,All Customers,2023-04-18,1831.17,Awareness,2023-05-24
+CA00743,Loyalty App Campaign 743,Loyalty App,Small Business,2023-09-17,13207.86,Conversion,2023-10-07
+CA00744,Display Campaign 744,Search,Student,2025-10-07,9062.74,Awareness,2025-11-05
+CA00745,Loyalty App Campaign 745,Influencer,Corporate,2023-08-31,3836.39,Awareness,2023-09-14
+CA00746,Search Campaign 746,Influencer,Student,2025-10-09,6629.07,Retention,2025-10-31
+CA00747,Influencer Campaign 747,Influencer,All Customers,2025-06-21,2339.76,Retention,2025-06-25
+CA00748,Search Campaign 748,Flyer,Corporate,2024-04-28,4265.55,Winback,2024-05-19
+CA00749,Loyalty App Campaign 749,Search,All Customers,2023-10-31,6372.01,Retention,2023-11-12
+CA00750,Display Campaign 750,Search,Consumer,2024-03-11,7972.36,Winback,2024-03-24
+CA00751,Social Campaign 751,Social,Student,2024-09-13,31556.18,Retention,2024-10-05
+CA00752,Display Campaign 752,Social,All Customers,2023-09-03,9099.71,Awareness,2023-10-07
+CA00753,Display Campaign 753,Flyer,Small Business,2025-01-19,3231.54,Awareness,2025-02-01
+CA00754,Flyer Campaign 754,Email,Corporate,2025-10-01,794.75,Conversion,2025-10-10
+CA00755,Display Campaign 755,Display,Student,2025-03-18,4622.04,Conversion,2025-03-29
+CA00756,Flyer Campaign 756,Search,All Customers,2025-08-10,9846.05,Winback,2025-08-20
+CA00757,Influencer Campaign 757,Social,Consumer,2024-01-26,10250.45,Conversion,2024-02-15
+CA00758,Influencer Campaign 758,Social,Small Business,2024-07-08,8933.84,Awareness,2024-08-08
+CA00759,Display Campaign 759,Flyer,Corporate,2025-07-07,9014.53,Awareness,2025-08-01
+CA00760,Email Campaign 760,Display,Corporate,2023-02-23,4706.0,Conversion,2023-03-06
+CA00761,Influencer Campaign 761,Email,Small Business,2023-04-10,1502.76,Retention,2023-04-23
+CA00762,Email Campaign 762,Flyer,Premium,2025-04-03,2482.32,Winback,2025-05-18
+CA00763,Flyer Campaign 763,Display,Premium,2023-06-28,22106.25,Winback,2023-08-04
+CA00764,Search Campaign 764,Loyalty App,Consumer,2023-08-01,2542.66,Conversion,2023-09-12
+CA00765,Loyalty App Campaign 765,Loyalty App,All Customers,2024-10-24,2237.91,Winback,2024-12-03
+CA00766,Loyalty App Campaign 766,Search,Premium,2023-09-11,6617.07,Winback,2023-10-05
+CA00767,Loyalty App Campaign 767,Email,Corporate,2024-02-22,20703.43,Conversion,2024-02-29
+CA00768,Loyalty App Campaign 768,Social,Small Business,2025-01-16,4305.47,Awareness,2025-01-30
+CA00769,Social Campaign 769,Social,Student,2024-07-06,1631.0,Winback,2024-07-10
+CA00770,Email Campaign 770,Email,Corporate,2024-05-10,4207.8,Winback,2024-05-21
+CA00771,Loyalty App Campaign 771,Search,Corporate,2025-06-24,3473.4,Awareness,2025-08-05
+CA00772,Loyalty App Campaign 772,Search,Student,2023-05-13,3435.25,Retention,2023-06-14
+CA00773,Flyer Campaign 773,Influencer,Student,2025-10-12,3014.85,Conversion,2025-11-12
+CA00774,Display Campaign 774,Loyalty App,Corporate,2025-08-25,5254.3,Winback,2025-09-05
+CA00775,Search Campaign 775,Influencer,All Customers,2025-05-04,3981.27,Winback,2025-05-16
+CA00776,Loyalty App Campaign 776,Search,Small Business,2025-09-01,4868.94,Winback,2025-10-07
+CA00777,Loyalty App Campaign 777,Social,All Customers,2023-08-23,9832.48,Conversion,2023-09-07
+CA00778,Loyalty App Campaign 778,Email,Premium,2024-07-08,6306.33,Conversion,2024-07-31
+CA00779,Influencer Campaign 779,Influencer,Consumer,2023-06-08,7561.59,Winback,2023-07-22
+CA00780,Flyer Campaign 780,Influencer,Consumer,2025-05-01,848.93,Awareness,2025-05-20
+CA00781,Flyer Campaign 781,Social,All Customers,2023-04-14,3617.88,Conversion,2023-05-11
+CA00782,Display Campaign 782,Display,All Customers,2024-09-27,7272.18,Conversion,2024-10-19
+CA00783,Loyalty App Campaign 783,Display,Consumer,2023-04-19,10887.55,Winback,2023-04-30
+CA00784,Display Campaign 784,Email,Consumer,2025-05-26,57920.39,Winback,2025-06-05
+CA00785,Flyer Campaign 785,Email,Consumer,2025-10-24,11247.31,Awareness,2025-12-06
+CA00786,Email Campaign 786,Flyer,Consumer,2023-12-12,11503.69,Winback,2023-12-17
+CA00787,Loyalty App Campaign 787,Search,Corporate,2025-11-18,5922.83,Awareness,2026-01-01
+CA00788,Search Campaign 788,Flyer,All Customers,2023-12-15,3681.0,Conversion,2024-01-25
+CA00789,Social Campaign 789,Search,Small Business,2025-08-16,15538.1,Conversion,2025-09-08
+CA00790,Email Campaign 790,Search,Student,2025-04-14,3162.07,Retention,2025-05-28
+CA00791,Influencer Campaign 791,Social,Small Business,2024-01-03,2244.58,Retention,2024-01-16
+CA00792,Social Campaign 792,Display,Premium,2024-06-18,3989.49,Awareness,2024-08-01
+CA00793,Social Campaign 793,Display,Corporate,2023-08-12,4971.21,Retention,2023-09-26
+CA00794,Flyer Campaign 794,Email,Premium,2023-07-23,2762.64,Retention,2023-08-02
+CA00795,Email Campaign 795,Loyalty App,All Customers,2025-05-10,3282.85,Awareness,2025-06-13
+CA00796,Display Campaign 796,Influencer,All Customers,2023-03-13,5407.73,Winback,2023-04-18
+CA00797,Email Campaign 797,Flyer,All Customers,2024-09-29,3375.39,Winback,2024-10-10
+CA00798,Social Campaign 798,Search,Consumer,2024-06-21,5069.02,Retention,2024-07-20
+CA00799,Social Campaign 799,Flyer,Corporate,2024-09-15,5041.68,Winback,2024-10-29
+CA00800,Display Campaign 800,Flyer,Corporate,2025-01-04,3477.96,Retention,2025-01-24
+CA00801,Loyalty App Campaign 801,Loyalty App,All Customers,2025-06-06,17131.24,Winback,2025-07-20
+CA00802,Search Campaign 802,Social,All Customers,2024-03-14,43046.89,Awareness,2024-04-01
+CA00803,Flyer Campaign 803,Flyer,Student,2023-07-06,9263.86,Retention,2023-07-19
+CA00804,Search Campaign 804,Email,Premium,2024-08-23,6265.63,Winback,2024-09-15
+CA00805,Loyalty App Campaign 805,Loyalty App,Corporate,2025-06-07,2088.81,Retention,2025-07-12
+CA00806,Flyer Campaign 806,Social,Small Business,2025-06-07,4981.61,Winback,2025-06-22
+CA00807,Loyalty App Campaign 807,Email,Student,2024-09-09,7815.12,Winback,2024-09-29
+CA00808,Flyer Campaign 808,Email,Corporate,2024-09-02,5776.75,Awareness,2024-09-07
+CA00809,Loyalty App Campaign 809,Influencer,Student,2023-04-26,6404.03,Winback,2023-05-03
+CA00810,Social Campaign 810,Display,All Customers,2023-01-15,2441.67,Retention,2023-02-25
+CA00811,Influencer Campaign 811,Loyalty App,All Customers,2025-07-20,12671.99,Conversion,2025-07-28
+CA00812,Social Campaign 812,Influencer,Student,2023-06-12,5754.75,Winback,2023-07-27
+CA00813,Search Campaign 813,Social,Consumer,2025-02-21,7232.33,Winback,2025-03-20
+CA00814,Loyalty App Campaign 814,Flyer,Consumer,2023-11-26,8562.63,Awareness,2024-01-08
+CA00815,Email Campaign 815,Flyer,Consumer,2024-03-07,4755.73,Conversion,2024-03-20
+CA00816,Social Campaign 816,Flyer,Premium,2025-02-25,6450.45,Retention,2025-03-15
+CA00817,Influencer Campaign 817,Social,Corporate,2024-11-23,8123.95,Conversion,2024-12-25
+CA00818,Loyalty App Campaign 818,Email,Consumer,2024-08-22,6598.08,Awareness,2024-09-14
+CA00819,Email Campaign 819,Display,Small Business,2023-04-18,10211.7,Conversion,2023-05-29
+CA00820,Loyalty App Campaign 820,Flyer,Premium,2025-01-05,5819.48,Awareness,2025-01-21
+CA00821,Display Campaign 821,Display,Corporate,2025-09-01,6098.07,Winback,2025-10-02
+CA00822,Flyer Campaign 822,Influencer,Corporate,2025-09-13,6439.3,Conversion,2025-10-19
+CA00823,Display Campaign 823,Loyalty App,Premium,2024-02-07,2057.13,Awareness,2024-03-20
+CA00824,Loyalty App Campaign 824,Influencer,Student,2023-10-21,8338.42,Winback,2023-10-28
+CA00825,Display Campaign 825,Social,Premium,2024-11-29,13392.98,Retention,2025-01-05
+CA00826,Social Campaign 826,Email,Student,2025-09-18,4416.18,Winback,2025-10-03
+CA00827,Influencer Campaign 827,Social,Corporate,2025-07-16,12272.91,Conversion,2025-08-25
+CA00828,Email Campaign 828,Social,Corporate,2023-12-26,4035.55,Retention,2024-01-19
+CA00829,Search Campaign 829,Influencer,Premium,2025-04-03,12001.24,Conversion,2025-04-17
+CA00830,Flyer Campaign 830,Search,Corporate,2024-08-19,10864.06,Winback,2024-08-23
+CA00831,Search Campaign 831,Loyalty App,All Customers,2024-09-04,5387.41,Awareness,2024-10-12
+CA00832,Email Campaign 832,Search,Corporate,2023-09-24,5430.88,Conversion,2023-11-02
+CA00833,Search Campaign 833,Flyer,Consumer,2023-06-25,8807.73,Winback,2023-07-25
+CA00834,Flyer Campaign 834,Loyalty App,All Customers,2024-12-03,1132.88,Retention,2024-12-22
+CA00835,Email Campaign 835,Display,Small Business,2023-01-14,6578.0,Conversion,2023-02-05
+CA00836,Display Campaign 836,Social,All Customers,2024-11-30,4481.9,Retention,2024-12-15
+CA00837,Display Campaign 837,Email,Corporate,2024-01-25,5589.85,Retention,2024-02-12
+CA00838,Search Campaign 838,Social,Corporate,2023-01-20,4335.97,Winback,2023-01-25
+CA00839,Email Campaign 839,Influencer,Small Business,2023-06-16,2772.47,Conversion,2023-07-15
+CA00840,Search Campaign 840,Loyalty App,All Customers,2023-01-18,6350.52,Winback,2023-02-07
+CA00841,Flyer Campaign 841,Search,Small Business,2023-06-10,3491.71,Winback,2023-07-08
+CA00842,Email Campaign 842,Loyalty App,Consumer,2025-08-25,7644.41,Winback,2025-09-24
+CA00843,Search Campaign 843,Flyer,Premium,2023-12-28,2489.55,Awareness,2024-01-11
+CA00844,Email Campaign 844,Loyalty App,Corporate,2023-06-25,9737.04,Retention,2023-07-22
+CA00845,Loyalty App Campaign 845,Flyer,Small Business,2024-09-06,8518.75,Conversion,2024-10-14
+CA00846,Flyer Campaign 846,Social,Small Business,2023-05-24,8357.21,Retention,2023-06-23
+CA00847,Influencer Campaign 847,Social,Consumer,2024-07-06,6469.72,Awareness,2024-08-13
+CA00848,Loyalty App Campaign 848,Loyalty App,Corporate,2023-03-11,3235.04,Winback,2023-04-21
+CA00849,Email Campaign 849,Flyer,All Customers,2024-02-15,4094.07,Winback,2024-03-09
+CA00850,Influencer Campaign 850,Search,Premium,2025-08-12,1702.86,Awareness,2025-08-25
+CA00851,Search Campaign 851,Email,Premium,2025-03-13,12713.86,Conversion,2025-04-16
+CA00852,Loyalty App Campaign 852,Search,Corporate,2024-07-27,4259.4,Awareness,2024-07-30
+CA00853,Display Campaign 853,Social,Corporate,2023-07-15,2707.44,Retention,2023-08-25
+CA00854,Display Campaign 854,Email,Student,2024-07-14,12238.34,Winback,2024-08-21
+CA00855,Social Campaign 855,Social,Premium,2024-06-25,6096.45,Retention,2024-07-29
+CA00856,Loyalty App Campaign 856,Display,Consumer,2023-02-25,3575.8,Retention,2023-04-06
+CA00857,Social Campaign 857,Influencer,Small Business,2023-01-13,2715.42,Conversion,2023-02-22
+CA00858,Social Campaign 858,Loyalty App,Consumer,2025-10-12,3276.91,Retention,2025-11-07
+CA00859,Email Campaign 859,Email,Small Business,2024-06-08,2749.85,Awareness,2024-06-24
+CA00860,Loyalty App Campaign 860,Display,Corporate,2023-01-13,16032.61,Retention,2023-02-04
+CA00861,Flyer Campaign 861,Email,Premium,2025-11-16,4200.04,Conversion,2025-12-09
+CA00862,Email Campaign 862,Flyer,Premium,2024-05-11,8591.06,Awareness,2024-05-19
+CA00863,Loyalty App Campaign 863,Flyer,Consumer,2023-05-10,16081.26,Winback,2023-05-15
+CA00864,Loyalty App Campaign 864,Influencer,All Customers,2025-11-22,19291.19,Awareness,2025-11-30
+CA00865,Loyalty App Campaign 865,Loyalty App,Corporate,2023-09-09,1592.66,Retention,2023-09-12
+CA00866,Influencer Campaign 866,Display,Premium,2024-09-15,11520.83,Conversion,2024-10-13
+CA00867,Flyer Campaign 867,Influencer,All Customers,2023-11-08,15621.87,Conversion,2023-12-11
+CA00868,Search Campaign 868,Flyer,Corporate,2025-06-21,4666.71,Conversion,2025-07-24
+CA00869,Flyer Campaign 869,Email,All Customers,2025-01-28,2435.8,Winback,2025-02-02
+CA00870,Display Campaign 870,Flyer,Corporate,2025-01-11,3776.29,Conversion,2025-02-07
+CA00871,Email Campaign 871,Social,All Customers,2025-09-24,8549.63,Conversion,2025-10-07
+CA00872,Loyalty App Campaign 872,Flyer,Small Business,2024-07-19,10957.07,Winback,2024-08-07
+CA00873,Loyalty App Campaign 873,Flyer,All Customers,2023-05-18,8720.9,Winback,2023-06-17
+CA00874,Social Campaign 874,Social,Premium,2025-06-10,9208.61,Awareness,2025-07-17
+CA00875,Influencer Campaign 875,Email,Premium,2023-09-16,15504.82,Winback,2023-10-23
+CA00876,Loyalty App Campaign 876,Loyalty App,All Customers,2023-03-16,15181.25,Awareness,2023-04-14
+CA00877,Social Campaign 877,Search,All Customers,2024-02-17,5179.95,Winback,2024-02-27
+CA00878,Social Campaign 878,Influencer,Corporate,2024-04-23,6036.37,Retention,2024-05-02
+CA00879,Search Campaign 879,Display,Small Business,2024-12-08,2535.8,Awareness,2025-01-03
+CA00880,Display Campaign 880,Search,Corporate,2024-08-02,16351.6,Winback,2024-08-22
+CA00881,Display Campaign 881,Flyer,Small Business,2024-04-05,4896.1,Winback,2024-04-09
+CA00882,Social Campaign 882,Email,Consumer,2024-03-31,41727.04,Awareness,2024-04-10
+CA00883,Email Campaign 883,Influencer,Small Business,2025-03-31,4938.02,Conversion,2025-05-12
+CA00884,Flyer Campaign 884,Loyalty App,Premium,2024-12-27,3510.93,Winback,2025-01-24
+CA00885,Influencer Campaign 885,Flyer,Premium,2025-08-02,3031.41,Retention,2025-08-31
+CA00886,Search Campaign 886,Social,Small Business,2023-10-28,3932.67,Awareness,2023-11-14
+CA00887,Email Campaign 887,Social,Corporate,2024-07-31,11451.34,Winback,2024-09-09
+CA00888,Loyalty App Campaign 888,Social,Corporate,2023-03-25,9291.35,Conversion,2023-05-02
+CA00889,Influencer Campaign 889,Social,All Customers,2023-11-05,1350.1,Awareness,2023-12-17
+CA00890,Display Campaign 890,Flyer,Consumer,2025-02-21,1996.88,Conversion,2025-03-04
+CA00891,Display Campaign 891,Display,All Customers,2024-12-16,9747.85,Winback,2025-01-08
+CA00892,Flyer Campaign 892,Influencer,Consumer,2023-11-15,7284.32,Winback,2023-12-03
+CA00893,Flyer Campaign 893,Email,Small Business,2025-03-02,9196.75,Awareness,2025-03-10
+CA00894,Social Campaign 894,Email,Student,2023-05-05,11172.31,Awareness,2023-06-03
+CA00895,Email Campaign 895,Loyalty App,All Customers,2024-04-23,7299.4,Conversion,2024-05-24
+CA00896,Loyalty App Campaign 896,Search,Premium,2024-11-02,7329.55,Awareness,2024-11-09
+CA00897,Influencer Campaign 897,Flyer,Small Business,2024-03-01,4575.55,Conversion,2024-03-30
+CA00898,Email Campaign 898,Email,All Customers,2023-08-24,3665.34,Awareness,2023-09-28
+CA00899,Flyer Campaign 899,Search,Student,2023-11-17,8373.29,Winback,2023-12-26
+CA00900,Flyer Campaign 900,Flyer,Premium,2023-09-08,2213.97,Winback,2023-09-21

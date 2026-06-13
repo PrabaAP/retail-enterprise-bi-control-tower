@@ -1,0 +1,68 @@
+table_name,column_name,data_type,table_description
+orders,order_id,object,Order header table; one row per order.
+orders,customer_id,object,Order header table; one row per order.
+orders,store_id,object,Order header table; one row per order.
+orders,sales_channel,object,Order header table; one row per order.
+orders,order_datetime,object,Order header table; one row per order.
+orders,campaign_id,object,Order header table; one row per order.
+orders,payment_method,object,Order header table; one row per order.
+orders,fulfillment_type,object,Order header table; one row per order.
+order_details,order_line_id,object,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,order_id,object,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,product_id,object,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,quantity,int64,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,unit_price,float64,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,discount_pct,float64,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,gross_sales,float64,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,net_sales,float64,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,cost_amount,float64,"Order line fact table with quantity, discount, sales, cost and profit."
+order_details,profit,float64,"Order line fact table with quantity, discount, sales, cost and profit."
+products,product_id,object,Product dimension.
+products,product_name,object,Product dimension.
+products,category,object,Product dimension.
+products,subcategory,object,Product dimension.
+products,supplier,object,Product dimension.
+products,unit_cost,float64,Product dimension.
+products,list_price,float64,Product dimension.
+products,product_tier,object,Product dimension.
+products,product_status,object,Product dimension.
+customers,customer_id,object,Customer dimension.
+customers,customer_name,object,Customer dimension.
+customers,segment,object,Customer dimension.
+customers,region,object,Customer dimension.
+customers,city,object,Customer dimension.
+customers,preferred_contact,object,Customer dimension.
+customers,signup_date,object,Customer dimension.
+customers,age,int64,Customer dimension.
+customers,income_band,object,Customer dimension.
+stores,store_id,object,Store dimension.
+stores,store_name,object,Store dimension.
+stores,region,object,Store dimension.
+stores,city,object,Store dimension.
+stores,store_size,object,Store dimension.
+stores,employees,int64,Store dimension.
+stores,open_date,object,Store dimension.
+stores,latitude,float64,Store dimension.
+stores,longitude,float64,Store dimension.
+inventory,store_id,object,Monthly store-product inventory snapshot.
+inventory,product_id,object,Monthly store-product inventory snapshot.
+inventory,snapshot_month,object,Monthly store-product inventory snapshot.
+inventory,stock_on_hand,int64,Monthly store-product inventory snapshot.
+inventory,reorder_point,int64,Monthly store-product inventory snapshot.
+inventory,warehouse,object,Monthly store-product inventory snapshot.
+inventory,stockout_risk,object,Monthly store-product inventory snapshot.
+returns,return_id,object,Returned order lines and refund outcomes.
+returns,order_id,object,Returned order lines and refund outcomes.
+returns,order_line_id,object,Returned order lines and refund outcomes.
+returns,return_date,object,Returned order lines and refund outcomes.
+returns,return_reason,object,Returned order lines and refund outcomes.
+returns,refund_amount,float64,Returned order lines and refund outcomes.
+returns,resolution,object,Returned order lines and refund outcomes.
+marketing_campaigns,campaign_id,object,Marketing campaign dimension and spend table.
+marketing_campaigns,campaign_name,object,Marketing campaign dimension and spend table.
+marketing_campaigns,campaign_channel,object,Marketing campaign dimension and spend table.
+marketing_campaigns,target_segment,object,Marketing campaign dimension and spend table.
+marketing_campaigns,start_date,object,Marketing campaign dimension and spend table.
+marketing_campaigns,campaign_spend,float64,Marketing campaign dimension and spend table.
+marketing_campaigns,campaign_objective,object,Marketing campaign dimension and spend table.
+marketing_campaigns,end_date,object,Marketing campaign dimension and spend table.
