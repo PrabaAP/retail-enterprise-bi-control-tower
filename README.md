@@ -88,7 +88,7 @@ retail-enterprise-bi-control-tower/
 +-- docs/
 |   +-- data_dictionary.csv
 |   +-- README_DATASET.md
-|   +-- project_build_narrative.md
+|   +-- how_this_project_built.md
 +-- powerbi/              # Power BI assets (reports, screenshots)
 +-- tableau/              # Tableau assets
 +-- looker_studio/        # Looker Studio assets
@@ -122,8 +122,13 @@ retail-enterprise-bi-control-tower/
 
 ## About the Author
 
-**Arun Prabakar Vadaseri Rajendran**
+**Arun Prabakar Vadaseri Rajendran**  
+Ottawa, Ontario, Canada
 
-Background in professional services, business, finance and operations analytics and advisory work, where compliance review is a recurring, manual task this project aims to speed up. IBM-certified professional in data and AI.
+Finance and operations professional with six years of SME advisory experience across 80+ business clients. Previously ran ATE Associates, a Chennai-based finance, compliance, and operational risk advisory firm, where he led a 7-person team, built Power BI dashboards for SME clients, and handled compliance work across 80+ businesses. Before that, worked as an Audit Assistant at S Senthil and Co (Chartered Accountants), covering audit, tax, and internal controls across SME and public sector clients.
+
+Currently pursuing a Master of Applied Business Analytics (Technology Innovation Management) at Sprott Business School, Carleton University, Ottawa.
+
+Certified in Generative AI Leadership (Google Cloud), Applied Data Science (IBM), Python for Data Science (IBM), Data Analysis with Python (IBM), Google Prompting Essentials, Google AI Essentials, GitHub Copilot (Microsoft), and Google Agile Project Management.
 
 [LinkedIn](https://www.linkedin.com/in/arun-prabakar-vadaseri-rajendran) | [GitHub](https://github.com/PrabaAP)
